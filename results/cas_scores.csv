@@ -1,0 +1,521 @@
+scoring_run,anchor,answer_id,model,condition,question_id,story_present,cas1_familiarity,cas2_relevance,cas3_authenticity,cas4_motivation,comment,CAS
+run1_four_models,0,Gemma-2-9B__No-RAG__Q01,Gemma-2-9B,No-RAG,1,0,1.0,1.0,1.0,1.0,No story or cultural framing for parental exam pressure.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q02,Gemma-2-9B,No-RAG,2,0,1.0,1.0,1.0,1.0,No narrative; generic introduction tips.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q03,Gemma-2-9B,No-RAG,3,0,1.0,1.0,1.0,1.0,Generic grief support; no cultural or narrative content.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q04,Gemma-2-9B,No-RAG,4,0,1.0,1.0,1.0,1.0,No story; supportive but generic advice on friendship loss.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q05,Gemma-2-9B,No-RAG,5,0,1.0,1.0,1.0,1.0,No story; generic encouragement after rejections.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q06,Gemma-2-9B,No-RAG,6,0,1.0,1.0,1.0,1.0,Generic advice against revenge; no narrative.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q07,Gemma-2-9B,No-RAG,7,0,1.0,1.0,1.0,1.0,No narrative; generic mood-swing tips.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q08,Gemma-2-9B,No-RAG,8,0,1.0,1.0,1.0,1.0,No cultural narrative; generic self-worth advice.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q09,Gemma-2-9B,No-RAG,9,0,1.0,1.0,1.0,1.0,No story; practical but generic chore-conflict tips.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q10,Gemma-2-9B,No-RAG,10,0,1.0,1.0,1.0,1.0,Generic loneliness advice after move; no story.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q11,Gemma-2-9B,No-RAG,11,0,1.0,1.0,1.0,1.0,No narrative; generic exam-setback advice.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q12,Gemma-2-9B,No-RAG,12,0,1.0,1.0,1.0,1.0,No narrative; generic presentation tips.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q13,Gemma-2-9B,No-RAG,13,0,1.0,1.0,1.0,1.0,No narrative; generic rejection-fear tips.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q14,Gemma-2-9B,No-RAG,14,0,1.0,1.0,1.0,1.0,No story; generic relocation coping tips.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q15,Gemma-2-9B,No-RAG,15,0,1.0,1.0,1.0,1.0,Generic small-wins advice; no story.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q16,Gemma-2-9B,No-RAG,16,0,1.0,1.0,1.0,1.0,Generic anger tips; no cultural reference.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q17,Gemma-2-9B,No-RAG,17,0,1.0,1.0,1.0,1.0,Generic mood-swing tips; no cultural reference.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q18,Gemma-2-9B,No-RAG,18,0,1.0,1.0,1.0,1.0,No story or cultural framing despite family-career conflict.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q19,Gemma-2-9B,No-RAG,19,0,1.0,1.0,1.0,1.0,Generic texting communication tips; no story.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q20,Gemma-2-9B,No-RAG,20,0,1.0,1.0,1.0,1.0,Generic advice on corrections; no cultural narrative.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q21,Gemma-2-9B,No-RAG,21,0,1.0,1.0,1.0,1.0,No story; generic comparison advice.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q22,Gemma-2-9B,No-RAG,22,0,1.0,1.0,1.0,1.0,Generic balance and self-care tips; no narrative.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q23,Gemma-2-9B,No-RAG,23,0,1.0,1.0,1.0,1.0,Generic coping for life change; no story.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q24,Gemma-2-9B,No-RAG,24,0,1.0,1.0,1.0,1.0,Generic attachment coping advice; no story.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q25,Gemma-2-9B,No-RAG,25,0,1.0,1.0,1.0,1.0,No story; generic advice on moving past failure.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q26,Gemma-2-9B,No-RAG,26,0,1.0,1.0,1.0,1.0,No story; generic grounding tips for mood shifts.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q27,Gemma-2-9B,No-RAG,27,0,1.0,1.0,1.0,1.0,Generic fear-of-challenge tips; no cultural reference.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q28,Gemma-2-9B,No-RAG,28,0,1.0,1.0,1.0,1.0,Generic comparison advice; no narrative.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q29,Gemma-2-9B,No-RAG,29,0,1.0,1.0,1.0,1.0,Brief generic loneliness advice; no story.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q30,Gemma-2-9B,No-RAG,30,0,1.0,1.0,1.0,1.0,No story; generic journaling and mindfulness tips.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q31,Gemma-2-9B,No-RAG,31,0,1.0,1.0,1.0,1.0,Brief generic validation; no story.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q32,Gemma-2-9B,No-RAG,32,0,1.0,1.0,1.0,1.0,No narrative; generic fear-of-failure tips.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q33,Gemma-2-9B,No-RAG,33,0,1.0,1.0,1.0,1.0,"Generic coping steps, no cultural reference.",1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q34,Gemma-2-9B,No-RAG,34,0,1.0,1.0,1.0,1.0,No story; generic interview rejection encouragement.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q35,Gemma-2-9B,No-RAG,35,0,1.0,1.0,1.0,1.0,Integrity advice without any story or cultural reference.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q36,Gemma-2-9B,No-RAG,36,0,1.0,1.0,1.0,1.0,"Generic financial coping, no narrative.",1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q37,Gemma-2-9B,No-RAG,37,0,1.0,1.0,1.0,1.0,Generic demotivation advice; no narrative.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q38,Gemma-2-9B,No-RAG,38,0,1.0,1.0,1.0,1.0,No story; generic tips for shyness and loneliness.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q39,Gemma-2-9B,No-RAG,39,0,1.0,1.0,1.0,1.0,No story; generic divorce coping list.,1.0
+run1_four_models,0,Gemma-2-9B__No-RAG__Q40,Gemma-2-9B,No-RAG,40,0,1.0,1.0,1.0,1.0,No story; generic heartbreak advice.,1.0
+run1_four_models,0,Gemma-2-9B__RAG__Q01,Gemma-2-9B,RAG,1,1,4.0,3.0,3.0,3.0,Bharata defying expectations is a fair parallel but only vaguely told.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q02,Gemma-2-9B,RAG,2,1,4.0,2.0,3.0,2.0,Sugriva befriending Rama loosely tied to introduction anxiety; weak parallel.,2.75
+run1_four_models,0,Gemma-2-9B__RAG__Q03,Gemma-2-9B,RAG,3,1,4.0,3.0,2.0,2.0,Lakshmana seeking Hanuma's support is obscure/dubious; weak link to fear of grandmother's death.,2.75
+run1_four_models,0,Gemma-2-9B__RAG__Q04,Gemma-2-9B,RAG,4,1,4.0,2.0,2.0,2.0,Vague Rama sorrow and eternal soul; superficial link to betrayal.,2.5
+run1_four_models,0,Gemma-2-9B__RAG__Q05,Gemma-2-9B,RAG,5,1,5.0,3.0,4.0,3.0,Rama's despair after Sita's abduction clearly named; Lakshmana's counsel underdeveloped.,3.75
+run1_four_models,0,Gemma-2-9B__RAG__Q06,Gemma-2-9B,RAG,6,0,1.0,1.0,1.0,1.0,No narrative; generic anger/revenge advice.,1.0
+run1_four_models,0,Gemma-2-9B__RAG__Q07,Gemma-2-9B,RAG,7,1,4.0,3.0,3.0,2.0,"Sugreeva fear mentioned briefly; parallel thin, little reframe.",3.0
+run1_four_models,0,Gemma-2-9B__RAG__Q08,Gemma-2-9B,RAG,8,1,5.0,4.0,3.0,3.0,"Arjuna's paralysis and Gita self-mastery linked to overthinking; reasonable, brief reframe.",3.75
+run1_four_models,0,Gemma-2-9B__RAG__Q09,Gemma-2-9B,RAG,9,1,4.0,2.0,2.0,2.0,Sugreeva-Vali betrayal overblown for chore dispute; mismatched parallel.,2.5
+run1_four_models,0,Gemma-2-9B__RAG__Q10,Gemma-2-9B,RAG,10,1,5.0,5.0,4.0,3.0,Rama seeing paired birds while missing Sita vividly mirrors lonely nights.,4.25
+run1_four_models,0,Gemma-2-9B__RAG__Q11,Gemma-2-9B,RAG,11,1,4.0,2.0,2.0,2.0,"Yudhishthira's war guilt is an overwrought, mismatched parallel for low exam score.",2.5
+run1_four_models,0,Gemma-2-9B__RAG__Q12,Gemma-2-9B,RAG,12,1,4.0,3.0,3.0,3.0,Krishna's effort-over-outcome fits anxiety; vague Mahabharata line.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q13,Gemma-2-9B,RAG,13,1,3.0,3.0,3.0,2.0,Sugreeva's fright loosely drawn; Gita attraction-aversion link reasonable but brief.,2.75
+run1_four_models,0,Gemma-2-9B__RAG__Q14,Gemma-2-9B,RAG,14,1,5.0,3.75,3.75,3.0,"Ayodhya longing for Rama nicely mirrors homesickness after moving; respectful, brief.",3.875
+run1_four_models,0,Gemma-2-9B__RAG__Q15,Gemma-2-9B,RAG,15,1,4.0,3.0,3.0,3.0,Gita detachment plus Lakshmana's resolve to find Sita; moderate link to futility.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q16,Gemma-2-9B,RAG,16,1,4.0,3.0,2.0,2.0,"Rama calming Lakshmana's anger fits, but misplaced in the Mahabharata; story then dropped for generic tips.",2.75
+run1_four_models,0,Gemma-2-9B__RAG__Q17,Gemma-2-9B,RAG,17,1,3.0,2.0,1.0,2.0,Vague Rama/Hanuman references with 'Passage 1/2' meta-talk; superficial.,2.0
+run1_four_models,0,Gemma-2-9B__RAG__Q18,Gemma-2-9B,RAG,18,1,4.0,3.0,4.0,3.0,Dasaratha torn over Vishvamitra's request; accurate love-versus-duty parallel to parental career clash.,3.5
+run1_four_models,0,Gemma-2-9B__RAG__Q19,Gemma-2-9B,RAG,19,1,3.0,2.0,2.0,2.0,Sugriva-Hanuman communication lesson appears invented; weak link to texting arguments.,2.25
+run1_four_models,0,Gemma-2-9B__RAG__Q20,Gemma-2-9B,RAG,20,1,5.0,3.0,3.0,2.0,Karna's identity conflict is recognisable; parallel to being corrected is loose.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q21,Gemma-2-9B,RAG,21,1,4.0,4.0,4.0,4.0,Svadharma verse directly reframes peer comparison; well integrated.,4.0
+run1_four_models,0,Gemma-2-9B__RAG__Q22,Gemma-2-9B,RAG,22,1,4.0,3.0,3.0,2.0,"Rama aching at paired birds apt for loneliness, but one line; generic advice follows.",3.0
+run1_four_models,0,Gemma-2-9B__RAG__Q23,Gemma-2-9B,RAG,23,1,4.0,3.0,4.0,3.0,Yudhishthira seeking Bhishma and Gita impermanence fit coping with change reasonably.,3.5
+run1_four_models,0,Gemma-2-9B__RAG__Q24,Gemma-2-9B,RAG,24,1,4.0,4.0,3.0,3.0,Rama's grief seeing paired birds apt for attachment pain; brief but genuine.,3.5
+run1_four_models,0,Gemma-2-9B__RAG__Q25,Gemma-2-9B,RAG,25,1,4.0,3.0,3.0,3.0,"Rama's regret and Yudhishthira-Brihadasva joy-sorrow cycle; plausible reframe for failure, lightly developed.",3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q26,Gemma-2-9B,RAG,26,1,3.0,3.0,2.0,2.0,Vague 'Ramayan passage' meta-reference; Krishna impermanence idea briefly noted.,2.5
+run1_four_models,0,Gemma-2-9B__RAG__Q27,Gemma-2-9B,RAG,27,1,4.0,3.0,3.0,3.0,Sugriva's fear of Vali and seeking Rama's help; brief parallel to avoidance.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q28,Gemma-2-9B,RAG,28,1,4.0,4.0,4.0,3.0,Svadharma naturally woven into comparison worry; concise and accurate.,3.75
+run1_four_models,0,Gemma-2-9B__RAG__Q29,Gemma-2-9B,RAG,29,1,3.0,3.0,4.0,2.0,Rama's longing at sight of peacocks accurate but obscure; brief loneliness parallel.,3.0
+run1_four_models,0,Gemma-2-9B__RAG__Q30,Gemma-2-9B,RAG,30,1,5.0,4.0,4.0,3.0,Yudhishthira's dice-game regret and Brihadasva's cycle teaching clearly fit rumination; concise.,4.0
+run1_four_models,0,Gemma-2-9B__RAG__Q31,Gemma-2-9B,RAG,31,1,3.0,3.0,2.0,2.0,Vague 'Krishna's story' about acting without obligation; underdeveloped.,2.5
+run1_four_models,0,Gemma-2-9B__RAG__Q32,Gemma-2-9B,RAG,32,1,3.0,4.0,3.0,3.0,Gita outcome-detachment linked to fear of failure; no character named.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q33,Gemma-2-9B,RAG,33,1,4.0,3.0,3.0,3.0,Yudhishthira seeking Bhishma and Gita dualities; brief but relevant to change.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q34,Gemma-2-9B,RAG,34,1,5.0,3.0,2.0,3.0,"Vanara despair and Hanuman's strength fit setback, but epics mixed up.",3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q35,Gemma-2-9B,RAG,35,1,4.0,4.0,3.0,3.0,Svadharma supports honest path over copying; Yudhisthira cycle adds perspective.,3.5
+run1_four_models,0,Gemma-2-9B__RAG__Q36,Gemma-2-9B,RAG,36,1,3.0,2.0,2.0,2.0,Vague Yudhisthira hard-times mention; weak link to financial distress.,2.25
+run1_four_models,0,Gemma-2-9B__RAG__Q37,Gemma-2-9B,RAG,37,1,4.0,3.0,3.0,3.0,Yudhishthira's dharma and Krishna's work-as-service give purpose reframe; episode vague.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q38,Gemma-2-9B,RAG,38,1,4.0,3.0,3.0,3.0,"Rama seeing paired birds; relatable loneliness parallel, validates vulnerability; slight king inaccuracy.",3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q39,Gemma-2-9B,RAG,39,1,4.0,3.0,3.0,3.0,Yudhishthira's grief and Brihadasva's counsel give moderate parallel to divorce loss.,3.25
+run1_four_models,0,Gemma-2-9B__RAG__Q40,Gemma-2-9B,RAG,40,1,4.0,2.0,2.0,1.0,Yudhishthira war guilt poorly matches love failure; name-dropped only.,2.25
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q01,Llama-3.1-8B,No-RAG,1,0,1.0,1.0,2.0,1.0,No story; respectfully acknowledges parents want the best.,1.25
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q02,Llama-3.1-8B,No-RAG,2,0,1.0,1.0,1.0,1.0,No story; generic social anxiety advice.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q03,Llama-3.1-8B,No-RAG,3,0,1.0,1.0,1.0,1.0,Generic caregiving and self-care advice; no narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q04,Llama-3.1-8B,No-RAG,4,0,1.0,1.0,1.0,1.0,Empathetic generic response; no narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q05,Llama-3.1-8B,No-RAG,5,0,1.0,1.0,1.0,1.0,Generic rejection reframing; no narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q06,Llama-3.1-8B,No-RAG,6,0,1.0,1.0,1.0,1.0,No story; sensible but generic anger advice.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q07,Llama-3.1-8B,No-RAG,7,0,1.0,1.0,1.0,1.0,No story; generic confidence instability advice.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q08,Llama-3.1-8B,No-RAG,8,0,1.0,1.0,1.0,1.0,Generic crush/overthinking advice; no narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q09,Llama-3.1-8B,No-RAG,9,0,1.0,1.0,1.0,1.0,"Generic sibling conflict advice, no cultural reference.",1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q10,Llama-3.1-8B,No-RAG,10,0,1.0,1.0,1.0,1.0,Generic relocation support; no story.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q11,Llama-3.1-8B,No-RAG,11,0,1.0,1.0,1.0,1.0,Generic exam-stress advice; no cultural content.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q12,Llama-3.1-8B,No-RAG,12,0,1.0,1.0,1.0,1.0,"Generic anxiety tips, no narrative.",1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q13,Llama-3.1-8B,No-RAG,13,0,1.0,1.0,1.0,1.0,"Generic rejection coping, no narrative.",1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q14,Llama-3.1-8B,No-RAG,14,0,1.0,1.0,1.0,1.0,Generic relocation advice; no narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q15,Llama-3.1-8B,No-RAG,15,0,1.0,1.0,1.0,1.0,Reflective generic advice; no narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q16,Llama-3.1-8B,No-RAG,16,0,1.0,1.0,1.0,1.0,No narrative; generic anger-management advice.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q17,Llama-3.1-8B,No-RAG,17,0,1.0,1.0,1.0,1.0,"Generic mood management tips, no narrative.",1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q18,Llama-3.1-8B,No-RAG,18,0,1.0,1.0,1.0,1.0,No narrative; generic communication advice on career conflict with parents.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q19,Llama-3.1-8B,No-RAG,19,0,1.0,1.0,1.0,1.0,Generic communication advice; no story.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q20,Llama-3.1-8B,No-RAG,20,0,1.0,1.0,1.0,1.0,No story; generic advice on handling corrections.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q21,Llama-3.1-8B,No-RAG,21,0,1.0,1.0,1.0,1.0,Generic self-compassion advice; no story.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q22,Llama-3.1-8B,No-RAG,22,0,1.0,1.0,1.0,1.0,Generic self-care advice; no narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q23,Llama-3.1-8B,No-RAG,23,0,1.0,1.0,1.0,1.0,"Generic coping steps, no story.",1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q24,Llama-3.1-8B,No-RAG,24,0,1.0,1.0,1.0,1.0,No story; generic attachment-style reflection.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q25,Llama-3.1-8B,No-RAG,25,0,1.0,1.0,1.0,1.0,No narrative; generic coping steps.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q26,Llama-3.1-8B,No-RAG,26,0,1.0,1.0,1.0,1.0,No story; generic emotional fluctuation tips.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q27,Llama-3.1-8B,No-RAG,27,0,1.0,1.0,1.0,1.0,Supportive generic steps; no story or cultural reference.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q28,Llama-3.1-8B,No-RAG,28,0,1.0,1.0,1.0,1.0,No story; generic self-compassion for comparison.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q29,Llama-3.1-8B,No-RAG,29,0,1.0,1.0,1.0,1.0,"Generic loneliness steps, no narrative.",1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q30,Llama-3.1-8B,No-RAG,30,0,1.0,1.0,1.0,1.0,No story; generic advice on intrusive memories.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q31,Llama-3.1-8B,No-RAG,31,0,1.0,1.0,1.0,1.0,No story; generic validation and self-care for feeling unappreciated.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q32,Llama-3.1-8B,No-RAG,32,0,1.0,1.0,1.0,1.0,No story; generic fear-of-failure steps.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q33,Llama-3.1-8B,No-RAG,33,0,1.0,1.0,1.0,1.0,No story; generic emotional exhaustion tips.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q34,Llama-3.1-8B,No-RAG,34,0,1.0,1.0,1.0,1.0,Generic interview-rejection support; no story.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q35,Llama-3.1-8B,No-RAG,35,0,1.0,1.0,1.0,1.0,No story; advises honesty over copying without cultural framing.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q36,Llama-3.1-8B,No-RAG,36,0,1.0,1.0,1.0,1.0,Practical financial advice; no cultural story.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q37,Llama-3.1-8B,No-RAG,37,0,1.0,1.0,1.0,1.0,Generic values-reflection advice; no narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q38,Llama-3.1-8B,No-RAG,38,0,1.0,1.0,1.0,1.0,No story; practical shyness tips without cultural frame.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q39,Llama-3.1-8B,No-RAG,39,0,1.0,1.0,1.0,1.0,Generic divorce support; no cultural content.,1.0
+run1_four_models,0,Llama-3.1-8B__No-RAG__Q40,Llama-3.1-8B,No-RAG,40,0,1.0,1.0,1.0,1.0,No story; generic breakup coping advice.,1.0
+run1_four_models,0,Llama-3.1-8B__RAG__Q01,Llama-3.1-8B,RAG,1,1,4.0,4.0,3.0,3.0,Gita detachment from fruits applied to exam pressure; clear but brief.,3.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q02,Llama-3.1-8B,RAG,2,1,3.0,3.0,2.0,2.0,Hanuma and Sugreeva mentioned with 'Ramayana passage' meta-talk; loose fit.,2.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q03,Llama-3.1-8B,RAG,3,1,3.0,4.0,3.0,3.0,Rama's quote on death's inevitability fits fear of losing grandmother; episode context thin.,3.25
+run1_four_models,0,Llama-3.1-8B__RAG__Q04,Llama-3.1-8B,RAG,4,1,4.0,3.0,2.0,3.0,Rama's hope for Sita and Gita impermanence; 'passage you shared' meta-talk hurts authenticity.,3.0
+run1_four_models,0,Llama-3.1-8B__RAG__Q05,Llama-3.1-8B,RAG,5,1,4.0,3.0,2.0,3.0,"Rama's loss and Lakshmana's despair quote offer reframe; ""Passage 3"" meta-talk hurts authenticity.",3.0
+run1_four_models,0,Llama-3.1-8B__RAG__Q06,Llama-3.1-8B,RAG,6,1,4.0,3.0,3.0,3.0,Khara and Surpanakha's revenge causing destruction warns against retaliation; brief but relevant.,3.25
+run1_four_models,0,Llama-3.1-8B__RAG__Q07,Llama-3.1-8B,RAG,7,1,3.0,3.0,2.0,2.0,"Sugreeva fear and Gita faith cited vaguely; ""passage"" meta-talk, weak link to mood instability.",2.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q08,Llama-3.1-8B,RAG,8,1,3.0,3.0,3.0,2.0,"Gita sense-attachment and mind control applied to overthinking; abstract, no episode.",2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q09,Llama-3.1-8B,RAG,9,1,4.0,3.0,2.0,2.0,"Sugreeva-Vali brother conflict parallel; betrayal framing somewhat distorted, stretched to chores.",2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q10,Llama-3.1-8B,RAG,10,1,3.5,3.0,2.0,2.0,"Rama's separation grief fits loneliness, but 'passages we've been exploring' meta-talk feels artificial.",2.625
+run1_four_models,0,Llama-3.1-8B__RAG__Q11,Llama-3.1-8B,RAG,11,1,4.0,2.0,3.0,2.0,Yudhishthira's post-war guilt only loosely parallels exam disappointment.,2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q12,Llama-3.1-8B,RAG,12,1,4.0,4.0,3.0,3.0,Gita karma-yoga and svadharma quote fit presentation anxiety; verse loosely applied.,3.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q13,Llama-3.1-8B,RAG,13,1,3.0,3.0,3.0,2.0,"Bare Gita teaching on attraction/aversion; no character, modest link to rejection fear.",2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q14,Llama-3.1-8B,RAG,14,1,4.0,3.0,2.0,2.0,Ayodhya missing Rama mentioned in one line; not developed beyond name-drop.,2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q15,Llama-3.1-8B,RAG,15,1,5.0,3.0,3.0,3.0,Nishkama karma fits meaninglessness; Lakshmana analogy vague.,3.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q16,Llama-3.1-8B,RAG,16,1,4.0,4.0,3.0,3.0,Rama calming Lakshmana's rage mapped to anger at teammates; somewhat generic retelling.,3.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q17,Llama-3.1-8B,RAG,17,1,4.0,2.0,3.0,2.0,Rama's inner turmoil amid serenity is vague; weak link to project mood swings.,2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q18,Llama-3.1-8B,RAG,18,0,1.0,1.0,1.0,1.0,Generic family conflict advice; no cultural narrative.,1.0
+run1_four_models,0,Llama-3.1-8B__RAG__Q19,Llama-3.1-8B,RAG,19,1,4.0,3.0,2.0,2.0,"Hanuma-Sugreeva dialogue as communication model; ""passages you shared"" meta-talk; loose fit to texting.",2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q20,Llama-3.1-8B,RAG,20,1,4.0,2.0,2.0,2.0,"Svadharma quote stretched to fit corrections; weak, somewhat misapplied parallel.",2.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q21,Llama-3.1-8B,RAG,21,1,4.0,4.0,3.0,3.0,Svadharma quote directly addresses peer comparison; explained but no story episode.,3.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q22,Llama-3.1-8B,RAG,22,1,4.0,2.0,3.0,2.0,"Rama's loneliness at Pampa, confiding in Lakshmana; Sita-loss parallel stretched for study burnout.",2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q23,Llama-3.1-8B,RAG,23,1,4.0,3.0,4.0,3.0,"Yudhishthira post-war grief plus Gita titiksha verse, accurate; parallel somewhat forced.",3.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q24,Llama-3.1-8B,RAG,24,1,4.0,3.0,2.0,2.0,"Rama's loneliness apt, but 'passages you shared' meta-talk and clinical jargon.",2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q25,Llama-3.1-8B,RAG,25,1,4.0,3.0,3.0,3.0,Lakshmana on despair and Brihadasva's cycle cited briefly; relevant reframe for failure.,3.25
+run1_four_models,0,Llama-3.1-8B__RAG__Q26,Llama-3.1-8B,RAG,26,1,4.0,4.0,4.0,3.0,Sthitaprajna and Gita's seasons metaphor fit fluctuating emotions; accurate and integrated.,3.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q27,Llama-3.1-8B,RAG,27,1,3.0,3.0,3.0,2.0,Sugreeva's fear and seeking Rama's protection; loosely mapped to avoidance.,2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q28,Llama-3.1-8B,RAG,28,1,4.0,4.25,3.75,3.5,Gita svadharma over comparison directly addresses inadequacy; accurate and useful reframe.,3.875
+run1_four_models,0,Llama-3.1-8B__RAG__Q29,Llama-3.1-8B,RAG,29,1,3.0,3.0,3.0,2.0,Vague Ramayana loneliness allusion to Rama observing couples; no episode detail or reframe.,2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q30,Llama-3.1-8B,RAG,30,1,4.0,4.0,4.0,3.0,"Yudhisthira's regret, Brihadasva's counsel, Rama recalling Seetha fit memory rumination well.",3.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q31,Llama-3.1-8B,RAG,31,1,3.75,3.0,2.0,2.25,Krishna working without need is apt; Duryodhana boasting as model feels odd and distorted.,2.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q32,Llama-3.1-8B,RAG,32,1,3.0,4.0,3.0,3.0,Gita process-over-outcome applied to fear of failure; no character or episode.,3.25
+run1_four_models,0,Llama-3.1-8B__RAG__Q33,Llama-3.1-8B,RAG,33,1,5.0,3.0,4.0,3.0,Yudhishthira post-war and Gita titiksha verse accurate; reframe of endurance moderately tied to change.,3.75
+run1_four_models,0,Llama-3.1-8B__RAG__Q34,Llama-3.1-8B,RAG,34,1,5.0,4.0,3.0,4.0,Jambavan reminding Hanuman of strengths fits rejection; vague Hanuma and poison-nectar bits.,4.0
+run1_four_models,0,Llama-3.1-8B__RAG__Q35,Llama-3.1-8B,RAG,35,1,4.0,3.0,3.0,3.0,Krishna's svadharma quote relevant to integrity but misreads problem as creative writing.,3.25
+run1_four_models,0,Llama-3.1-8B__RAG__Q36,Llama-3.1-8B,RAG,36,1,4.0,3.0,3.0,3.0,Yudhishthira's loss and cyclical time offers hope; modest parallel to poverty.,3.25
+run1_four_models,0,Llama-3.1-8B__RAG__Q37,Llama-3.1-8B,RAG,37,1,3.0,2.0,3.0,2.0,"Vague Gita duty reference; generic, little narrative.",2.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q38,Llama-3.1-8B,RAG,38,1,4.0,2.0,2.0,2.0,Rama's loneliness name-dropped in one line; not developed or linked to shyness.,2.5
+run1_four_models,0,Llama-3.1-8B__RAG__Q39,Llama-3.1-8B,RAG,39,1,4.0,3.0,3.0,3.0,Yudhishthira's post-war grief guided by Vyasa and Bhishma; imperfect divorce parallel.,3.25
+run1_four_models,0,Llama-3.1-8B__RAG__Q40,Llama-3.1-8B,RAG,40,0,1.0,1.0,1.0,1.0,"Generic breakup support, no story or cultural reference.",1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q01,MentalLLaMA-13B,No-RAG,1,0,1.0,1.0,1.0,1.0,Generic parental pressure advice; no cultural narrative.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q02,MentalLLaMA-13B,No-RAG,2,0,1.0,1.0,1.0,1.0,Generic social anxiety advice; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q03,MentalLLaMA-13B,No-RAG,3,0,1.0,1.0,1.0,1.0,Generic caregiving advice; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q04,MentalLLaMA-13B,No-RAG,4,0,1.0,1.0,1.0,1.0,Generic ghosting support; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q05,MentalLLaMA-13B,No-RAG,5,0,1.0,1.0,1.0,1.0,Generic rejection coping; no cultural reference.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q06,MentalLLaMA-13B,No-RAG,6,0,1.0,1.0,1.0,1.0,No narrative; generic de-escalation advice on false accusation.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q07,MentalLLaMA-13B,No-RAG,7,0,1.0,1.0,1.0,1.0,Generic validation and self-care; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q08,MentalLLaMA-13B,No-RAG,8,0,1.0,1.0,1.0,1.0,"No story; generic, repetitive self-worth advice.",1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q09,MentalLLaMA-13B,No-RAG,9,0,1.0,1.0,1.0,1.0,No story; generic sibling conflict communication advice.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q10,MentalLLaMA-13B,No-RAG,10,0,1.0,1.0,1.0,1.0,Generic relocation loneliness tips; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q11,MentalLLaMA-13B,No-RAG,11,0,1.0,1.0,1.0,1.0,Generic exam-coping steps; no cultural reference.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q12,MentalLLaMA-13B,No-RAG,12,0,1.0,1.0,1.0,1.0,Generic presentation anxiety tips; no narrative.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q13,MentalLLaMA-13B,No-RAG,13,0,1.0,1.0,1.0,1.0,No story; generic internship-rejection advice.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q14,MentalLLaMA-13B,No-RAG,14,0,1.0,1.0,1.0,1.0,No cultural reference; generic advice on sadness after relocation.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q15,MentalLLaMA-13B,No-RAG,15,0,1.0,1.0,1.0,1.0,No story; generic validation for hopelessness.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q16,MentalLLaMA-13B,No-RAG,16,0,1.0,1.0,1.0,1.0,"Generic anger management tips, no story.",1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q17,MentalLLaMA-13B,No-RAG,17,0,1.0,1.0,1.0,1.0,No story; generic mood swing advice.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q18,MentalLLaMA-13B,No-RAG,18,0,1.0,1.0,1.0,1.0,No story; generic family-conflict advice without cultural framing.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q19,MentalLLaMA-13B,No-RAG,19,0,1.0,1.0,1.0,1.0,No story; generic communication advice for text misunderstandings.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q20,MentalLLaMA-13B,No-RAG,20,0,1.0,1.0,1.0,1.0,No story; generic self-compassion advice about correction.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q21,MentalLLaMA-13B,No-RAG,21,0,1.0,1.0,1.0,1.0,Generic self-worth advice; passing mention of cultural expectations only.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q22,MentalLLaMA-13B,No-RAG,22,0,1.0,1.0,1.0,1.0,Generic balance advice; no cultural reference.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q23,MentalLLaMA-13B,No-RAG,23,0,1.0,1.0,1.0,1.0,No story; generic coping list.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q24,MentalLLaMA-13B,No-RAG,24,0,1.0,1.0,1.0,1.0,Generic attachment advice; no narrative.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q25,MentalLLaMA-13B,No-RAG,25,0,1.0,1.0,1.0,1.0,No story; generic advice on failure.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q26,MentalLLaMA-13B,No-RAG,26,0,1.0,1.0,1.0,1.0,Generic explanation of mood swings; no narrative.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q27,MentalLLaMA-13B,No-RAG,27,0,1.0,1.0,1.0,1.0,No story; repetitive generic advice on facing fear.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q28,MentalLLaMA-13B,No-RAG,28,0,1.0,1.0,1.0,1.0,Generic self-esteem advice; no narrative.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q29,MentalLLaMA-13B,No-RAG,29,0,1.0,1.0,1.0,1.0,Generic loneliness advice; no cultural reference.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q30,MentalLLaMA-13B,No-RAG,30,0,1.0,1.0,1.0,1.0,"Generic grounding advice, no story.",1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q31,MentalLLaMA-13B,No-RAG,31,0,1.0,1.0,1.0,1.0,Generic validation and communication advice; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q32,MentalLLaMA-13B,No-RAG,32,0,1.0,1.0,1.0,1.0,No story; generic reframe of failure.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q33,MentalLLaMA-13B,No-RAG,33,0,1.0,1.0,1.0,1.0,No story; generic coping list.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q34,MentalLLaMA-13B,No-RAG,34,0,1.0,1.0,1.0,1.0,Generic job-rejection advice; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q35,MentalLLaMA-13B,No-RAG,35,0,1.0,1.0,1.0,1.0,"No story; circular, confused advice on integrity dilemma.",1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q36,MentalLLaMA-13B,No-RAG,36,0,1.0,1.0,1.0,1.0,No narrative; generic financial-stress advice.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q37,MentalLLaMA-13B,No-RAG,37,0,1.0,1.0,1.0,1.0,Generic demotivation advice; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q38,MentalLLaMA-13B,No-RAG,38,0,1.0,1.0,1.0,1.0,No narrative; generic loneliness tips.,1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q39,MentalLLaMA-13B,No-RAG,39,0,1.0,1.0,1.0,1.0,"Generic divorce support, no narrative.",1.0
+run1_four_models,0,MentalLLaMA-13B__No-RAG__Q40,MentalLLaMA-13B,No-RAG,40,0,1.0,1.0,1.0,1.0,No story; generic breakup self-care advice.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q01,MentalLLaMA-13B,RAG,1,0,1.0,1.0,1.0,1.0,No story; generic letter on exam pressure despite culturally loaded question.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q02,MentalLLaMA-13B,RAG,2,1,2.0,2.0,1.0,1.0,Unnamed 'passage from Ramayanam' with no character; placeholder sign-off.,1.5
+run1_four_models,0,MentalLLaMA-13B__RAG__Q03,MentalLLaMA-13B,RAG,3,0,1.0,1.0,1.0,1.0,Present-moment advice without any narrative.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q04,MentalLLaMA-13B,RAG,4,0,1.0,1.0,1.0,1.0,No narrative; generic self-worth advice after being ghosted.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q05,MentalLLaMA-13B,RAG,5,0,1.0,1.0,1.0,1.0,Letter format with placeholder name; no cultural narrative.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q06,MentalLLaMA-13B,RAG,6,0,1.0,1.0,1.0,1.0,No story; generic advice with '[Your Name]' placeholder.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q07,MentalLLaMA-13B,RAG,7,1,2.0,2.0,1.0,1.0,'Narrative passages you provided' meta-talk; Sugreeva/Krishna name-dropped without story.,1.5
+run1_four_models,0,MentalLLaMA-13B__RAG__Q08,MentalLLaMA-13B,RAG,8,1,2.0,2.0,1.0,1.0,Meta-talk; 'Mahabharat on neuroplasticity' is distorted; no actual story.,1.5
+run1_four_models,0,MentalLLaMA-13B__RAG__Q09,MentalLLaMA-13B,RAG,9,0,1.0,1.0,1.0,1.0,No story; generic communication advice for sibling chores conflict.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q10,MentalLLaMA-13B,RAG,10,1,4.0,3.0,2.0,2.0,"Rama confiding in Lakshmana fits loneliness; 'passages you provided' meta-talk, clinical tone.",2.75
+run1_four_models,0,MentalLLaMA-13B__RAG__Q11,MentalLLaMA-13B,RAG,11,0,1.0,1.0,1.0,1.0,No story; generic exam-stress letter with placeholder.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q12,MentalLLaMA-13B,RAG,12,1,3.0,2.0,3.0,2.0,Gita svadharma cited without episode; comparison theme weakly tied to presentation anxiety.,2.5
+run1_four_models,0,MentalLLaMA-13B__RAG__Q13,MentalLLaMA-13B,RAG,13,1,3.0,2.0,1.0,1.0,"Meta 'passage' talk, obscure Sugreeva reference, letter template; feels mechanical.",1.75
+run1_four_models,0,MentalLLaMA-13B__RAG__Q14,MentalLLaMA-13B,RAG,14,0,1.0,1.0,1.0,1.0,Generic letter-style reply with placeholder signature; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q15,MentalLLaMA-13B,RAG,15,1,4.0,3.0,3.0,3.0,"Gita effort-over-outcome is relevant to futility; generic, no specific episode.",3.25
+run1_four_models,0,MentalLLaMA-13B__RAG__Q16,MentalLLaMA-13B,RAG,16,0,1.0,1.0,1.0,1.0,No story; generic anger tips with template placeholder.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q17,MentalLLaMA-13B,RAG,17,1,3.0,2.0,2.0,2.0,"Vague Rama restlessness passage, meta-talk, letter template; weak link to project mood swings.",2.25
+run1_four_models,0,MentalLLaMA-13B__RAG__Q18,MentalLLaMA-13B,RAG,18,0,1.0,1.0,1.0,1.0,Generic Western-style advice on parental career conflict; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q19,MentalLLaMA-13B,RAG,19,0,1.0,1.0,1.0,1.0,Letter-style generic advice; no cultural reference.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q20,MentalLLaMA-13B,RAG,20,0,1.0,1.0,1.0,1.0,Generic growth-mindset advice; no cultural content.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q21,MentalLLaMA-13B,RAG,21,1,3.0,4.0,2.0,3.0,"Svadharma fits comparison; 'psychological summary' meta-talk, preachy.",3.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q22,MentalLLaMA-13B,RAG,22,1,2.0,2.0,1.0,1.0,"Refers to 'narrative passages you provided'; vague Rama mention, no real story.",1.5
+run1_four_models,0,MentalLLaMA-13B__RAG__Q23,MentalLLaMA-13B,RAG,23,0,1.0,1.0,1.0,1.0,Template letter with placeholder name; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q24,MentalLLaMA-13B,RAG,24,1,3.0,3.0,2.0,2.0,"Rama's loneliness and Gita attachment, but clinical jargon and letter tone.",2.5
+run1_four_models,0,MentalLLaMA-13B__RAG__Q25,MentalLLaMA-13B,RAG,25,1,3.0,2.0,1.0,2.0,Refers to a passage user never mentioned; dubious Rama quote misread as comparison.,2.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q26,MentalLLaMA-13B,RAG,26,1,4.0,3.0,2.0,2.0,"Sthitaprajna and Rama at Pampa relevant, but 'passages you provided' meta-talk.",2.75
+run1_four_models,0,MentalLLaMA-13B__RAG__Q27,MentalLLaMA-13B,RAG,27,1,4.0,3.0,3.0,2.0,"Sugreeva fearing Vali parallels fear; framed as safety need, little motivation.",3.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q28,MentalLLaMA-13B,RAG,28,1,4.0,3.0,2.0,2.0,Svadharma relevant but letter format and 'the passage highlights' meta-talk.,2.75
+run1_four_models,0,MentalLLaMA-13B__RAG__Q29,MentalLLaMA-13B,RAG,29,1,4.0,3.0,2.0,2.0,"Rama's loneliness relevant; 'narrative passages you provided' meta-talk, clinical.",2.75
+run1_four_models,0,MentalLLaMA-13B__RAG__Q30,MentalLLaMA-13B,RAG,30,1,4.0,2.0,2.0,2.0,Three muddled references with 'passage you provided' meta-talk; weak linkage.,2.5
+run1_four_models,0,MentalLLaMA-13B__RAG__Q31,MentalLLaMA-13B,RAG,31,1,3.0,3.0,2.0,2.0,"Gita detachment from recognition fits, but fabricated 'chapter 2 verse 378' citation.",2.5
+run1_four_models,0,MentalLLaMA-13B__RAG__Q32,MentalLLaMA-13B,RAG,32,1,3.0,4.0,3.0,3.0,"Gita non-attachment to results directly addresses fear of failure; no episode, template letter.",3.25
+run1_four_models,0,MentalLLaMA-13B__RAG__Q33,MentalLLaMA-13B,RAG,33,0,1.0,1.0,1.0,1.0,No story; generic letter with template placeholder.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q34,MentalLLaMA-13B,RAG,34,0,1.0,1.0,1.0,1.0,No story; generic rejection encouragement in letter template.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q35,MentalLLaMA-13B,RAG,35,0,1.0,1.0,2.0,1.0,Uses Gita-like svadharma and wheel-of-time ideas unnamed; no character or story; clinical jargon.,1.25
+run1_four_models,0,MentalLLaMA-13B__RAG__Q36,MentalLLaMA-13B,RAG,36,0,1.0,1.0,1.0,1.0,Template letter with placeholder; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q37,MentalLLaMA-13B,RAG,37,0,1.0,1.0,1.0,1.0,Letter template with placeholder name; no story.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q38,MentalLLaMA-13B,RAG,38,0,1.0,1.0,1.0,1.0,Template letter on loneliness; no cultural content.,1.0
+run1_four_models,0,MentalLLaMA-13B__RAG__Q39,MentalLLaMA-13B,RAG,39,1,3.0,2.0,1.0,1.0,Meta-talk about 'narrative passages you provided'; vague Gita mention; no real story for divorce.,1.75
+run1_four_models,0,MentalLLaMA-13B__RAG__Q40,MentalLLaMA-13B,RAG,40,0,1.0,1.0,1.0,1.0,No story; generic trauma advice with template sign-off.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q01,Mistral-7B,No-RAG,1,0,1.0,1.0,1.0,1.0,Generic advice on parental pressure; no cultural narrative.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q02,Mistral-7B,No-RAG,2,0,1.0,1.0,1.0,1.0,No narrative; generic social-anxiety tips.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q03,Mistral-7B,No-RAG,3,0,1.0,1.0,1.0,1.0,Generic coping steps; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q04,Mistral-7B,No-RAG,4,0,1.0,1.0,1.0,1.0,No story; generic support advice after ghosting.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q05,Mistral-7B,No-RAG,5,0,1.0,1.0,1.0,1.0,Generic interview-rejection advice; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q06,Mistral-7B,No-RAG,6,0,1.0,1.0,1.0,1.0,Generic conflict-resolution steps; no cultural reference.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q07,Mistral-7B,No-RAG,7,0,1.0,1.0,1.0,1.0,"Opens with refusal; generic advice, no story.",1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q08,Mistral-7B,No-RAG,8,0,1.0,1.0,1.0,1.0,No narrative; generic self-worth tips.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q09,Mistral-7B,No-RAG,9,0,1.0,1.0,1.0,1.0,No cultural narrative; generic sibling conflict advice.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q10,Mistral-7B,No-RAG,10,0,1.0,1.0,1.0,1.0,Generic relocation loneliness advice; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q11,Mistral-7B,No-RAG,11,0,1.0,1.0,1.0,1.0,Generic exam-stress coping; no cultural reference.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q12,Mistral-7B,No-RAG,12,0,1.0,1.0,1.0,1.0,Generic presentation anxiety advice; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q13,Mistral-7B,No-RAG,13,0,1.0,1.0,1.0,1.0,No story; generic internship anxiety tips.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q14,Mistral-7B,No-RAG,14,0,1.0,1.0,1.0,1.0,No story; generic advice for sadness after moving.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q15,Mistral-7B,No-RAG,15,0,1.0,1.0,1.0,1.0,No story; generic encouragement about goals.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q16,Mistral-7B,No-RAG,16,0,1.0,1.0,1.0,1.0,Generic anger-management tips; no cultural content.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q17,Mistral-7B,No-RAG,17,0,1.0,1.0,1.0,1.0,Disclaimer plus generic self-care; no narrative.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q18,Mistral-7B,No-RAG,18,0,1.0,1.0,1.0,1.0,No story; generic advice on career conflict with parents.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q19,Mistral-7B,No-RAG,19,0,1.0,1.0,1.0,1.0,Generic communication advice for couples; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q20,Mistral-7B,No-RAG,20,0,1.0,1.0,1.0,1.0,Generic reframing advice; no cultural content.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q21,Mistral-7B,No-RAG,21,0,1.0,1.0,1.0,1.0,Disclaimer and generic comparison tips; no narrative.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q22,Mistral-7B,No-RAG,22,0,1.0,1.0,1.0,1.0,No narrative; generic burnout advice.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q23,Mistral-7B,No-RAG,23,0,1.0,1.0,1.0,1.0,No narrative; generic self-care list.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q24,Mistral-7B,No-RAG,24,0,1.0,1.0,1.0,1.0,No story; generic attachment-grief advice.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q25,Mistral-7B,No-RAG,25,0,1.0,1.0,1.0,1.0,No story; generic disappointment coping.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q26,Mistral-7B,No-RAG,26,0,1.0,1.0,1.0,1.0,Disclaimer plus generic mood advice; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q27,Mistral-7B,No-RAG,27,0,1.0,1.0,1.0,1.0,No narrative; generic fear-coping tips.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q28,Mistral-7B,No-RAG,28,0,1.0,1.0,1.0,1.0,No story; generic comparison advice.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q29,Mistral-7B,No-RAG,29,0,1.0,1.0,1.0,1.0,Disclaimer and generic loneliness advice; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q30,Mistral-7B,No-RAG,30,0,1.0,1.0,1.0,1.0,No narrative; generic memory-coping advice.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q31,Mistral-7B,No-RAG,31,0,1.0,1.0,1.0,1.0,No story; generic advice on feeling unappreciated.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q32,Mistral-7B,No-RAG,32,0,1.0,1.0,1.0,1.0,"Opens with inability disclaimer; generic tips, no narrative.",1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q33,Mistral-7B,No-RAG,33,0,1.0,1.0,1.0,1.0,No story; generic self-care list.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q34,Mistral-7B,No-RAG,34,0,1.0,1.0,1.0,1.0,No narrative; generic interview-rejection tips.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q35,Mistral-7B,No-RAG,35,0,1.0,1.0,1.0,1.0,Generic advice on ethics and opportunities; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q36,Mistral-7B,No-RAG,36,0,1.0,1.0,1.0,1.0,Practical financial tips; no cultural reference.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q37,Mistral-7B,No-RAG,37,0,1.0,1.0,1.0,1.0,Generic motivation advice with refusal opener; no story.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q38,Mistral-7B,No-RAG,38,0,1.0,1.0,1.0,1.0,No story; generic loneliness advice.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q39,Mistral-7B,No-RAG,39,0,1.0,1.0,1.0,1.0,No story; generic divorce support advice.,1.0
+run1_four_models,0,Mistral-7B__No-RAG__Q40,Mistral-7B,No-RAG,40,0,1.0,1.0,1.0,1.0,"Refusal opener; generic heartbreak advice, no story.",1.0
+run1_four_models,0,Mistral-7B__RAG__Q01,Mistral-7B,RAG,1,1,4.0,4.0,3.0,3.0,Gita duty-not-fruits fits exam pressure well; Bharata analogy muddled.,3.5
+run1_four_models,0,Mistral-7B__RAG__Q02,Mistral-7B,RAG,2,1,4.0,3.0,2.0,2.0,Hanuma wrongly called monkey king; list of characters loosely tied to introduction nerves.,2.75
+run1_four_models,0,Mistral-7B__RAG__Q03,Mistral-7B,RAG,3,1,5.0,3.0,2.0,3.0,Rama's grief for father apt; Bhishma conch episode misapplied and embellished.,3.25
+run1_four_models,0,Mistral-7B__RAG__Q04,Mistral-7B,RAG,4,1,5.0,4.0,3.0,3.0,Rama's separation and renewal plus eternal soul address loss and worth.,3.75
+run1_four_models,0,Mistral-7B__RAG__Q05,Mistral-7B,RAG,5,1,3.0,2.0,2.0,2.0,Vague 'Rama faced setbacks' with no episode; generic perseverance moral.,2.25
+run1_four_models,0,Mistral-7B__RAG__Q06,Mistral-7B,RAG,6,1,4.0,4.0,3.0,3.0,Khara and Surpanakha's revenge consequences apt for revenge urge; somewhat preachy.,3.5
+run1_four_models,0,Mistral-7B__RAG__Q07,Mistral-7B,RAG,7,1,3.0,2.0,1.0,1.0,Disclaimer and 'Passage 1/2/3' meta-talk; Sugreeva fear loosely mapped.,1.75
+run1_four_models,0,Mistral-7B__RAG__Q08,Mistral-7B,RAG,8,1,4.0,3.0,2.0,2.0,"Arjuna's paralysis fits overthinking, but 'Passage 1/2' meta-talk feels artificial.",2.75
+run1_four_models,0,Mistral-7B__RAG__Q09,Mistral-7B,RAG,9,1,4.0,2.0,2.0,2.0,Invented Rama-Lakshmana disagreements; Dhritarashtra tangent loosely connected.,2.5
+run1_four_models,0,Mistral-7B__RAG__Q10,Mistral-7B,RAG,10,1,3.0,3.0,2.0,2.0,Rama's separation mentioned vaguely without episode; thin link to relocation loneliness.,2.5
+run1_four_models,0,Mistral-7B__RAG__Q11,Mistral-7B,RAG,11,1,4.0,2.0,2.0,2.0,"Brief Yudhishthira guilt mention; thin, weak link to exam results.",2.5
+run1_four_models,0,Mistral-7B__RAG__Q12,Mistral-7B,RAG,12,1,4.0,4.0,4.0,4.0,Nishkama karma explicitly mapped to presentation effort versus judgment; useful reframe.,4.0
+run1_four_models,0,Mistral-7B__RAG__Q13,Mistral-7B,RAG,13,1,3.0,3.0,2.0,2.0,Gita and Sugreeva cited with fabricated verse numbers; parallel to fear stated but thin.,2.5
+run1_four_models,0,Mistral-7B__RAG__Q14,Mistral-7B,RAG,14,1,4.0,3.0,2.0,2.0,Rama's absence in Ayodhya loosely mapped; 'narratives you shared' meta-talk.,2.75
+run1_four_models,0,Mistral-7B__RAG__Q15,Mistral-7B,RAG,15,1,4.0,3.0,3.0,2.0,Gita and Lakshmana determination cited; disclaimer opening weakens impact.,3.0
+run1_four_models,0,Mistral-7B__RAG__Q16,Mistral-7B,RAG,16,1,4.0,3.0,2.0,2.0,Places Rama in Mahabharata; Gita detachment muddled; brief mentions.,2.75
+run1_four_models,0,Mistral-7B__RAG__Q17,Mistral-7B,RAG,17,1,3.0,2.0,2.0,2.0,Brief vague Hanuman mention with no episode; generic self-care list follows.,2.25
+run1_four_models,0,Mistral-7B__RAG__Q18,Mistral-7B,RAG,18,1,4.0,3.0,3.0,2.0,Dasaratha's worry for Rama loosely mirrors parental concern; Dhritarashtra aside irrelevant.,3.0
+run1_four_models,0,Mistral-7B__RAG__Q19,Mistral-7B,RAG,19,1,4.0,3.0,2.0,2.0,Sugreeva-Hanuman dialogue loosely fits communication; 'Passage 1/2' meta-talk.,2.75
+run1_four_models,0,Mistral-7B__RAG__Q20,Mistral-7B,RAG,20,1,4.0,2.0,2.0,2.0,Passage-numbered meta-talk; Karna trauma tangent irrelevant to accepting correction.,2.5
+run1_four_models,0,Mistral-7B__RAG__Q21,Mistral-7B,RAG,21,1,4.0,4.0,3.0,3.0,Svadharma directly counters peer comparison; odd disclaimer and misapplied verse.,3.5
+run1_four_models,0,Mistral-7B__RAG__Q22,Mistral-7B,RAG,22,1,4.0,2.0,2.0,2.0,Vague Rama emptiness comparison; mostly generic advice.,2.5
+run1_four_models,0,Mistral-7B__RAG__Q23,Mistral-7B,RAG,23,1,4.0,3.0,3.0,3.0,Yudhishthira's grief and Gita titiksha loosely fit sudden change; DBT link feels forced.,3.25
+run1_four_models,0,Mistral-7B__RAG__Q24,Mistral-7B,RAG,24,1,4.0,3.0,3.0,2.0,"Gita attachment chain and Rama's loneliness relevant; refusal opener, brief use.",3.0
+run1_four_models,0,Mistral-7B__RAG__Q25,Mistral-7B,RAG,25,1,4.0,4.0,4.0,4.0,Nala story told to Yudhisthira and wheel-of-time reframe fit failure well.,4.0
+run1_four_models,0,Mistral-7B__RAG__Q26,Mistral-7B,RAG,26,1,4.0,4.0,2.0,3.0,Sthitaprajna and enduring distress fit; 'Passage 1/2/3' meta-talk hurts authenticity.,3.25
+run1_four_models,0,Mistral-7B__RAG__Q27,Mistral-7B,RAG,27,1,3.0,3.0,3.0,2.0,Sugreeva's fear and seeking Rama's help; reasonable but thin parallel.,2.75
+run1_four_models,0,Mistral-7B__RAG__Q28,Mistral-7B,RAG,28,1,4.0,3.0,3.0,3.0,Gita svadharma and mind-as-friend fit comparison; opening disclaimer and 'another passage' weaken integration.,3.25
+run1_four_models,0,Mistral-7B__RAG__Q29,Mistral-7B,RAG,29,1,3.0,3.0,2.0,2.0,Brief Rama loneliness mention in awkward refusal-framed answer; superficial integration.,2.5
+run1_four_models,0,Mistral-7B__RAG__Q30,Mistral-7B,RAG,30,1,4.0,3.0,3.0,3.0,"Yudhishthira cycle, Rama's memories, Gita on memory; several relevant parallels but diffuse.",3.25
+run1_four_models,0,Mistral-7B__RAG__Q31,Mistral-7B,RAG,31,1,4.0,3.0,2.0,2.0,"Relevant Gita karma ideas, but fabricated verse numbers and misattributed quote.",2.75
+run1_four_models,0,Mistral-7B__RAG__Q32,Mistral-7B,RAG,32,1,5.0,5.0,4.0,4.0,Krishna-Arjuna detachment from results directly addresses fear of failure; well integrated.,4.5
+run1_four_models,0,Mistral-7B__RAG__Q33,Mistral-7B,RAG,33,1,4.0,3.0,2.0,3.0,Yudhishthira guided by Bhishma/Krishna apt; 'Radical Acceptance' misattributed to Gita.,3.0
+run1_four_models,0,Mistral-7B__RAG__Q34,Mistral-7B,RAG,34,1,4.0,4.0,2.0,3.0,"Jambavan reminding Hanuman fits well, but wrongly placed in Mahabharata.",3.25
+run1_four_models,0,Mistral-7B__RAG__Q35,Mistral-7B,RAG,35,1,5.0,4.0,3.0,3.0,Svadharma directly addresses honesty vs malpractice; Yudhishthira dice link weaker.,3.75
+run1_four_models,0,Mistral-7B__RAG__Q36,Mistral-7B,RAG,36,1,4.0,3.0,2.0,3.0,Yudhishthira and Brihadasva fit loss; Rama wrongly placed in Mahabharata—mixed-up epics.,3.0
+run1_four_models,0,Mistral-7B__RAG__Q37,Mistral-7B,RAG,37,1,4.0,3.0,3.0,3.0,Mind as friend/enemy apt; first Gita point irrelevant; Yudhishthira-Draupadi good reframe.,3.25
+run1_four_models,0,Mistral-7B__RAG__Q38,Mistral-7B,RAG,38,1,5.0,3.0,3.0,3.0,Rama confiding in Lakshmana suggests one trusted confidant; decent but shyness unaddressed.,3.5
+run1_four_models,0,Mistral-7B__RAG__Q39,Mistral-7B,RAG,39,1,4.0,3.0,4.0,3.0,"Yudhishthira, Brihadasva's Nala tale and Gita mind teaching accurate; loose link to divorce.",3.5
+run1_four_models,0,Mistral-7B__RAG__Q40,Mistral-7B,RAG,40,1,3.0,2.0,2.0,2.0,Hanuma-Sugreeva and Yudhishthira grief name-dropped; weak link to breakup.,2.25
+run2_qwen3,0,Qwen3-8B__RAG__Q08,Qwen3-8B,RAG,8,1,4.0,3.0,3.0,2.0,Brief Gita attraction/aversion and Arjuna indecision mention; loosely tied to self-doubt,3.0
+run2_qwen3,0,Qwen3-8B__RAG__Q32,Qwen3-8B,RAG,32,1,4.0,4.0,4.0,3.0,Gita effort-not-results teaching directly addresses fear of failure; well integrated but brief,3.75
+run2_qwen3,0,Qwen3-8B__RAG__Q20,Qwen3-8B,RAG,20,1,4.0,2.0,2.0,2.0,Svadharma stretched to dismiss correction; somewhat misapplied to feedback sensitivity,2.5
+run2_qwen3,1,Gemma-2-9B__No-RAG__Q39,Gemma-2-9B,No-RAG,39,0,1.0,1.0,1.0,1.0,No cultural narrative; generic divorce support advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q19,Qwen3-8B,No-RAG,19,0,1.0,1.0,1.0,1.0,No story; generic communication advice,1.0
+run2_qwen3,1,Mistral-7B__No-RAG__Q23,Mistral-7B,No-RAG,23,0,1.0,1.0,1.0,1.0,No story; generic coping list,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q12,Qwen3-8B,RAG,12,1,4.0,4.0,4.0,3.0,Gita detachment from outcome clearly mapped to presentation anxiety,3.75
+run2_qwen3,0,Qwen3-8B__No-RAG__Q38,Qwen3-8B,No-RAG,38,0,1.0,1.0,1.0,1.0,No story; generic loneliness advice,1.0
+run2_qwen3,1,MentalLLaMA-13B__RAG__Q08,MentalLLaMA-13B,RAG,8,1,3.0,2.0,1.0,1.0,Meta-talk about passages; Mahabharata linked to neuroplasticity; superficial and distorted,1.75
+run2_qwen3,0,Qwen3-8B__No-RAG__Q35,Qwen3-8B,No-RAG,35,0,1.0,1.0,1.0,1.0,No story; ignores ethical dilemma framing,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q34,Qwen3-8B,No-RAG,34,0,1.0,1.0,1.0,1.0,No story; generic rejection support,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q02,Qwen3-8B,No-RAG,2,0,1.0,1.0,1.0,1.0,No story; generic social anxiety advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q23,Qwen3-8B,RAG,23,1,3.0,2.0,2.0,2.0,Vague Yudhishthira clarity name-drop without episode or parallel,2.25
+run2_qwen3,0,Qwen3-8B__No-RAG__Q25,Qwen3-8B,No-RAG,25,0,1.0,1.0,1.0,1.0,No story; generic advice on failure,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q12,Qwen3-8B,No-RAG,12,0,1.0,1.0,1.0,1.0,No story; generic presentation anxiety tips,1.0
+run2_qwen3,1,Llama-3.1-8B__RAG__Q22,Llama-3.1-8B,RAG,22,1,4.0,3.0,4.0,3.0,Rama confiding in Lakshmana while missing Sita; partial fit to study isolation,3.5
+run2_qwen3,0,Qwen3-8B__RAG__Q04,Qwen3-8B,RAG,4,1,4.0,3.0,3.0,3.0,Rama longing for Sita and Gita eternal soul; loose fit to friend ghosting,3.25
+run2_qwen3,0,Qwen3-8B__RAG__Q05,Qwen3-8B,RAG,5,1,5.0,4.0,4.0,4.0,Rama keeps searching for Sita despite grief; clear perseverance parallel to rejections,4.25
+run2_qwen3,0,Qwen3-8B__No-RAG__Q29,Qwen3-8B,No-RAG,29,0,1.0,1.0,1.0,1.0,No story; generic loneliness advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q17,Qwen3-8B,No-RAG,17,0,1.0,1.0,1.0,1.0,No story; generic mood stress advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q11,Qwen3-8B,RAG,11,1,4.0,2.0,3.0,2.0,Yudhishthira war guilt mismatched with exam score disappointment,2.75
+run2_qwen3,0,Qwen3-8B__RAG__Q24,Qwen3-8B,RAG,24,1,4.0,4.0,4.0,3.0,Gita on attachment arising from dwelling fits question well,3.75
+run2_qwen3,0,Qwen3-8B__RAG__Q36,Qwen3-8B,RAG,36,1,3.0,2.0,2.0,2.0,Vague Yudhishthira regret reference; weak link to financial hardship,2.25
+run2_qwen3,0,Qwen3-8B__RAG__Q16,Qwen3-8B,RAG,16,1,5.0,4.0,4.0,3.0,Rama counselling angry Lakshmana fits anger at teammates; plus Gita effort focus,4.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q14,Qwen3-8B,No-RAG,14,0,1.0,1.0,1.0,1.0,No story; generic relocation sadness advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q14,Qwen3-8B,RAG,14,1,5.0,3.0,3.0,2.0,Ayodhya grieving Rama's departure as loss analogy; apt but only one line,3.25
+run2_qwen3,0,Qwen3-8B__No-RAG__Q01,Qwen3-8B,No-RAG,1,0,1.0,1.0,1.0,1.0,No story; misses chance to engage family expectation context,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q21,Qwen3-8B,No-RAG,21,0,1.0,1.0,1.0,1.0,No story; CBT-style comparison advice only,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q21,Qwen3-8B,RAG,21,1,4.0,4.0,4.0,3.0,Gita own-path-over-others teaching fits peer comparison; brief but meaningful,3.75
+run2_qwen3,0,Qwen3-8B__RAG__Q29,Qwen3-8B,RAG,29,1,4.0,3.0,3.0,2.0,Rama aching seeing paired birds; parallel to loneliness but thin reframe,3.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q08,Qwen3-8B,No-RAG,8,0,1.0,1.0,1.0,1.0,No story; generic self-worth advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q33,Qwen3-8B,RAG,33,1,3.0,2.0,2.0,2.0,Vague Yudhishthira and Krishna seasons name-drops; little concrete parallel,2.25
+run2_qwen3,0,Qwen3-8B__RAG__Q37,Qwen3-8B,RAG,37,1,4.0,3.0,3.0,3.0,Yudhishthira acting rightly without reward offers modest reframe for demotivation,3.25
+run2_qwen3,0,Qwen3-8B__No-RAG__Q04,Qwen3-8B,No-RAG,4,0,1.0,1.0,1.0,1.0,No story; generic betrayal support,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q39,Qwen3-8B,RAG,39,1,3.0,3.0,3.0,2.0,Yudhishthira seeking sages' counsel after loss; loose link to divorce support-seeking,2.75
+run2_qwen3,0,Qwen3-8B__No-RAG__Q22,Qwen3-8B,No-RAG,22,0,1.0,1.0,1.0,1.0,No story; generic burnout advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q24,Qwen3-8B,No-RAG,24,0,1.0,1.0,1.0,1.0,No story; generic attachment reflection,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q16,Qwen3-8B,No-RAG,16,0,1.0,1.0,1.0,1.0,No story; generic anger management tips,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q26,Qwen3-8B,RAG,26,1,4.0,4.0,3.0,3.0,Gita pleasure-pain impermanence fits mood swings; vague Rama restlessness aside,3.5
+run2_qwen3,1,Llama-3.1-8B__RAG__Q31,Llama-3.1-8B,RAG,31,1,4.0,3.0,2.0,3.0,Krishna working without need fits; Duryodhana as role model is odd distortion,3.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q18,Qwen3-8B,No-RAG,18,0,1.0,1.0,1.0,1.0,No story; generic family conflict advice,1.0
+run2_qwen3,1,MentalLLaMA-13B__No-RAG__Q17,MentalLLaMA-13B,No-RAG,17,0,1.0,1.0,1.0,1.0,No story; generic mood advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q22,Qwen3-8B,RAG,22,1,4.0,3.0,3.0,2.0,Rama's separation ache via birds; partial fit to study isolation,3.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q05,Qwen3-8B,No-RAG,5,0,1.0,1.0,1.0,1.0,No story; generic rejection advice,1.0
+run2_qwen3,1,Gemma-2-9B__No-RAG__Q07,Gemma-2-9B,No-RAG,7,0,1.0,1.0,1.0,1.0,No story; generic emotional instability tips,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q31,Qwen3-8B,No-RAG,31,0,1.0,1.0,1.0,1.0,No story; generic appreciation support,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q33,Qwen3-8B,No-RAG,33,0,1.0,1.0,1.0,1.0,No story; generic coping list,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q06,Qwen3-8B,No-RAG,6,0,1.0,1.0,1.0,1.0,No story; generic anger and revenge advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q40,Qwen3-8B,RAG,40,1,4.0,2.0,2.0,2.0,Sugreeva fearing Vali awkwardly mapped onto heartbreak; weak fit,2.5
+run2_qwen3,0,Qwen3-8B__RAG__Q10,Qwen3-8B,RAG,10,1,4.0,3.0,3.0,2.0,Rama separated from Seetha as loneliness mirror; empathic but limited reframe,3.0
+run2_qwen3,0,Qwen3-8B__RAG__Q13,Qwen3-8B,RAG,13,1,4.0,3.0,3.0,2.0,Sugreeva paralysed by fear loosely mirrors rejection fear; brief mention without reframe,3.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q03,Qwen3-8B,No-RAG,3,0,1.0,1.0,1.0,1.0,No story; generic caregiving fear advice,1.0
+run2_qwen3,1,MentalLLaMA-13B__No-RAG__Q14,MentalLLaMA-13B,No-RAG,14,0,1.0,1.0,1.0,1.0,No story; generic relocation support,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q34,Qwen3-8B,RAG,34,1,5.0,4.0,4.0,4.0,Hanuman reminded of forgotten strength fits interview rejection well,4.25
+run2_qwen3,1,Llama-3.1-8B__RAG__Q10,Llama-3.1-8B,RAG,10,1,4.0,3.0,2.0,2.0,Rama's separation parallel but meta-talk about passages we've been exploring,2.75
+run2_qwen3,1,Mistral-7B__No-RAG__Q24,Mistral-7B,No-RAG,24,0,1.0,1.0,1.0,1.0,No story; generic attachment advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q27,Qwen3-8B,No-RAG,27,0,1.0,1.0,1.0,1.0,No story; generic fear-of-challenge tips,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q30,Qwen3-8B,No-RAG,30,0,1.0,1.0,1.0,1.0,No story; generic rumination advice,1.0
+run2_qwen3,1,Llama-3.1-8B__RAG__Q07,Llama-3.1-8B,RAG,7,1,3.0,2.0,1.0,2.0,Passage meta-talk about Sugreeva and Gita; vague and superficial,2.0
+run2_qwen3,1,Gemma-2-9B__No-RAG__Q36,Gemma-2-9B,No-RAG,36,0,1.0,1.0,1.0,1.0,No story; generic financial stress advice,1.0
+run2_qwen3,1,MentalLLaMA-13B__No-RAG__Q30,MentalLLaMA-13B,No-RAG,30,0,1.0,1.0,1.0,1.0,No story; generic memory coping advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q36,Qwen3-8B,No-RAG,36,0,1.0,1.0,1.0,1.0,No story; generic financial hardship support,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q03,Qwen3-8B,RAG,3,1,3.0,2.0,2.0,1.0,Bhishma's conch for Duryodhana misframed and mismatched to grandmother's illness,2.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q37,Qwen3-8B,No-RAG,37,0,1.0,1.0,1.0,1.0,No story; generic demotivation advice,1.0
+run2_qwen3,1,MentalLLaMA-13B__No-RAG__Q11,MentalLLaMA-13B,No-RAG,11,0,1.0,1.0,1.0,1.0,No story; generic exam stress advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q15,Qwen3-8B,RAG,15,1,4.0,4.0,4.0,3.0,Gita effort-over-outcome directly reframes futility about goals,3.75
+run2_qwen3,0,Qwen3-8B__RAG__Q25,Qwen3-8B,RAG,25,1,3.0,2.0,2.0,2.0,Vague Ramayana despair and Yudhisthira references; no concrete parallel,2.25
+run2_qwen3,0,Qwen3-8B__RAG__Q35,Qwen3-8B,RAG,35,1,4.0,4.0,3.0,3.0,Krishna's own-path teaching supports choosing honesty over copying; brief,3.5
+run2_qwen3,0,Qwen3-8B__RAG__Q07,Qwen3-8B,RAG,7,1,4.0,3.0,3.0,3.0,Sugreeva's fear then regained strength offers modest parallel to instability,3.25
+run2_qwen3,0,Qwen3-8B__RAG__Q17,Qwen3-8B,RAG,17,0,1.0,1.0,1.0,1.0,Only meta Passage 1 reference; no recognisable cultural narrative,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q07,Qwen3-8B,No-RAG,7,0,1.0,1.0,1.0,1.0,No story; generic mood instability advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q01,Qwen3-8B,RAG,1,1,4.0,4.0,4.0,3.0,Gita duty-not-outcome applied to exam pressure; ignores parental dimension,3.75
+run2_qwen3,1,Mistral-7B__RAG__Q06,Mistral-7B,RAG,6,1,4.0,4.0,3.0,4.0,Surpanakha and Khara revenge consequences fit revenge urge; somewhat preachy,3.75
+run2_qwen3,0,Qwen3-8B__RAG__Q06,Qwen3-8B,RAG,6,0,1.0,1.0,1.0,1.0,No story; generic anger advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q28,Qwen3-8B,No-RAG,28,0,1.0,1.0,1.0,1.0,No story; generic comparison advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q19,Qwen3-8B,RAG,19,1,3.0,2.0,2.0,2.0,Vague Hanuma and Sugreeva listening reference with from-the-stories meta framing,2.25
+run2_qwen3,0,Qwen3-8B__RAG__Q18,Qwen3-8B,RAG,18,1,5.0,4.0,4.0,4.0,Dasaratha fearing to send Rama away mirrors protective parents; reframes conflict,4.25
+run2_qwen3,0,Qwen3-8B__RAG__Q30,Qwen3-8B,RAG,30,1,4.0,3.0,3.0,2.0,Yudhisthira regret and Rama recalling Seetha; loosely tied to rumination,3.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q10,Qwen3-8B,No-RAG,10,0,1.0,1.0,1.0,1.0,No story; generic relocation loneliness advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q39,Qwen3-8B,No-RAG,39,0,1.0,1.0,1.0,1.0,No story; generic divorce support,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q09,Qwen3-8B,RAG,9,0,1.0,1.0,1.0,1.0,Unnamed two-brothers story is unrecognisable; no cultural reference,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q32,Qwen3-8B,No-RAG,32,0,1.0,1.0,1.0,1.0,No story; generic fear-of-failure advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q15,Qwen3-8B,No-RAG,15,0,1.0,1.0,1.0,1.0,No story; generic hopelessness support,1.0
+run2_qwen3,1,Llama-3.1-8B__No-RAG__Q34,Llama-3.1-8B,No-RAG,34,0,1.0,1.0,1.0,1.0,No story; generic interview rejection advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q20,Qwen3-8B,No-RAG,20,0,1.0,1.0,1.0,1.0,No story; generic feedback sensitivity advice,1.0
+run2_qwen3,1,MentalLLaMA-13B__No-RAG__Q27,MentalLLaMA-13B,No-RAG,27,0,1.0,1.0,1.0,1.0,No story; repetitive generic advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q23,Qwen3-8B,No-RAG,23,0,1.0,1.0,1.0,1.0,No story; generic coping list,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q26,Qwen3-8B,No-RAG,26,0,1.0,1.0,1.0,1.0,No story; generic mood fluctuation advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q13,Qwen3-8B,No-RAG,13,0,1.0,1.0,1.0,1.0,No story; generic internship fear advice,1.0
+run2_qwen3,1,Llama-3.1-8B__RAG__Q21,Llama-3.1-8B,RAG,21,1,4.0,4.0,4.0,3.0,Accurate svadharma verse well applied to peer comparison,3.75
+run2_qwen3,0,Qwen3-8B__No-RAG__Q09,Qwen3-8B,No-RAG,9,0,1.0,1.0,1.0,1.0,No story; practical sibling chore advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q38,Qwen3-8B,RAG,38,1,4.0,3.0,3.0,2.0,Rama aching at paired birds mirrors loneliness; little guidance from story,3.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q40,Qwen3-8B,No-RAG,40,0,1.0,1.0,1.0,1.0,No story; generic heartbreak advice,1.0
+run2_qwen3,0,Qwen3-8B__RAG__Q02,Qwen3-8B,RAG,2,1,4.0,3.0,3.0,3.0,Hanuma's humility and Gita svadharma loosely applied to introduction anxiety,3.25
+run2_qwen3,0,Qwen3-8B__RAG__Q31,Qwen3-8B,RAG,31,1,4.0,4.0,3.0,3.0,Krishna acting from duty without need reframes lack of appreciation,3.5
+run2_qwen3,0,Qwen3-8B__RAG__Q28,Qwen3-8B,RAG,28,1,4.0,4.0,4.0,3.0,Gita own-path teaching fits constant comparison; brief integration,3.75
+run2_qwen3,1,MentalLLaMA-13B__No-RAG__Q03,MentalLLaMA-13B,No-RAG,3,0,1.0,1.0,1.0,1.0,No story; generic caregiving advice,1.0
+run2_qwen3,0,Qwen3-8B__No-RAG__Q11,Qwen3-8B,No-RAG,11,0,1.0,1.0,1.0,1.0,No story; generic exam stress advice,1.0
+run2_qwen3,1,Gemma-2-9B__RAG__Q11,Gemma-2-9B,RAG,11,1,5.0,2.0,3.0,2.0,Clear Yudhishthira war-guilt retelling but poorly matched to exam score,3.0
+run2_qwen3,0,Qwen3-8B__RAG__Q27,Qwen3-8B,RAG,27,1,4.0,3.0,3.0,2.0,Sugreeva paralysed by fear mirrors avoidance; no story-based way forward,3.0
+run3_gemma_rag2_memory,1,Gemma-2-9B__No-RAG__Q23,Gemma-2-9B,No-RAG,23,0,1.0,1.0,1.0,1.0,No cultural narrative; generic self-care advice only.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q02,Gemma-2-9B,RAG-v2,2,1,4.0,2.0,2.0,2.0,Vague Gita/Arjuna nod; 'be true to yourself' loosely tied to introduction anxiety.,2.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q02,Gemma-2-9B,NoRAG-narrative,2,1,5.0,4.0,3.0,3.0,Hanuman hesitating before approaching Sita parallels nervous introduction; slightly embellished.,3.75
+run3_gemma_rag2_memory,1,Llama-3.1-8B__No-RAG__Q12,Llama-3.1-8B,No-RAG,12,0,1.0,1.0,1.0,1.0,No story; generic anxiety coping advice.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q10,Gemma-2-9B,RAG-v2,10,1,4.0,3.0,3.0,2.0,Brief Rama-Lakshmana sharing reference; relevant to loneliness but thin.,3.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q14,Gemma-2-9B,NoRAG-narrative,14,1,5.0,4.0,3.0,3.0,Rama's exile homesickness parallels move; simplified but fitting.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q30,Gemma-2-9B,RAG-v2,30,1,4.0,2.0,2.0,2.0,Arjuna paralysis name-dropped; weak link to replaying memories.,2.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q14,Gemma-2-9B,RAG-v2,14,1,4.0,2.0,2.0,2.0,Rama grieving 'for brother Bharata' is distorted; loose parallel to moving sadness.,2.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q06,Gemma-2-9B,RAG-v2,6,1,4.0,3.0,3.0,3.0,Bharata refusing wrongful throne; restraint message fits anger somewhat; details vague.,3.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q29,Gemma-2-9B,RAG-v2,29,0,1.0,1.0,1.0,1.0,No cultural story; generic loneliness advice.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q25,Gemma-2-9B,NoRAG-narrative,25,1,5.0,4.0,4.0,4.0,Hanuman's despair in Lanka and renewed search fits disappointment well.,4.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q27,Gemma-2-9B,NoRAG-narrative,27,1,5.0,4.0,3.0,4.0,Hanuman's daunting Sita search models facing fear; somewhat generic.,4.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q23,Gemma-2-9B,NoRAG-narrative,23,1,5.0,2.0,2.0,2.0,Hanuman's reaction to abduction distorted; weak fit to sudden life change.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q22,Gemma-2-9B,NoRAG-narrative,22,1,5.0,3.0,3.0,3.0,Hanuman's companionship with Vanaras links to isolation; moderately apt.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q17,Gemma-2-9B,NoRAG-narrative,17,1,4.0,2.0,1.0,2.0,Sanjeevani episode wrongly attributed to Mahabharata; mixed epics.,2.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q04,Gemma-2-9B,RAG-v2,4,0,1.0,1.0,1.0,1.0,No cultural reference; generic advice on ghosting.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q31,Gemma-2-9B,RAG-v2,31,1,5.0,3.0,3.0,3.0,Karna's loyalty to Duryodhana; moderate fit to feeling unappreciated.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q23,Gemma-2-9B,RAG-v2,23,1,4.0,3.0,4.0,3.0,Accurate Gita teaching on transient emotions; reasonable reframe.,3.5
+run3_gemma_rag2_memory,1,Gemma-2-9B__RAG__Q20,Gemma-2-9B,RAG,20,1,5.0,2.0,3.0,2.0,Karna identity conflict loosely linked to being corrected.,3.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q26,Gemma-2-9B,NoRAG-narrative,26,1,5.0,3.0,2.0,2.0,Hanuman's anger/impulsiveness claim is shaky; generic emotion-regulation moral.,3.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q11,Gemma-2-9B,NoRAG-narrative,11,1,5.0,4.0,3.0,4.0,Hanuman's setback and persistence fits exam failure; 'initially failed' embellished.,4.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q38,Gemma-2-9B,NoRAG-narrative,38,1,5.0,2.0,2.0,2.0,Hanuman isolated from Rama largely invented; weak parallel to shyness.,2.75
+run3_gemma_rag2_memory,1,Gemma-2-9B__RAG__Q14,Gemma-2-9B,RAG,14,1,5.0,4.0,4.0,3.0,Ayodhya longing for Rama nicely mirrors missing home after move.,4.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q09,Gemma-2-9B,RAG-v2,9,0,1.0,1.0,1.0,1.0,No story; generic sibling communication advice.,1.0
+run3_gemma_rag2_memory,1,Llama-3.1-8B__No-RAG__Q16,Llama-3.1-8B,No-RAG,16,0,1.0,1.0,1.0,1.0,No story; generic anger management steps.,1.0
+run3_gemma_rag2_memory,1,Llama-3.1-8B__No-RAG__Q02,Llama-3.1-8B,No-RAG,2,0,1.0,1.0,1.0,1.0,No cultural reference; generic social anxiety advice.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q10,Gemma-2-9B,NoRAG-narrative,10,1,5.0,4.0,3.0,3.0,Rama's exile far from Ayodhya parallels relocation loneliness.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q01,Gemma-2-9B,NoRAG-narrative,1,1,5.0,3.0,3.0,3.0,Hanuman's daunting mission under pressure; generic parallel to parental exam expectations.,3.5
+run3_gemma_rag2_memory,1,Llama-3.1-8B__No-RAG__Q26,Llama-3.1-8B,No-RAG,26,0,1.0,1.0,1.0,1.0,No cultural reference; generic advice on mood swings.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q15,Gemma-2-9B,RAG-v2,15,1,5.0,3.0,3.0,2.0,Rama's lament over Sita accurate but frames loss not purpose; limited reframe.,3.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q17,Gemma-2-9B,RAG-v2,17,0,1.0,1.0,1.0,1.0,Only a seasons metaphor; no mythological narrative.,1.0
+run3_gemma_rag2_memory,1,Gemma-2-9B__RAG__Q18,Gemma-2-9B,RAG,18,1,4.0,3.0,4.0,3.0,Dasaratha torn over Vishvamitra's request; apt love-vs-duty parental parallel.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q08,Gemma-2-9B,NoRAG-narrative,8,1,5.0,2.0,2.0,2.0,Generic Hanuman devotion nod; weak link to romantic self-doubt.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q37,Gemma-2-9B,RAG-v2,37,1,5.0,3.0,3.0,3.0,Arjuna's confusion and Krishna on mastering mind; moderately relevant.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q15,Gemma-2-9B,NoRAG-narrative,15,1,5.0,3.0,4.0,3.0,Hanuman's despair in Lanka and perseverance counters hopelessness reasonably.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q33,Gemma-2-9B,NoRAG-narrative,33,1,5.0,3.0,3.0,3.0,Rama's exile as sudden upheaval; resilience moral somewhat generic.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q22,Gemma-2-9B,RAG-v2,22,1,5.0,2.0,2.0,2.0,Abhimanyu's doomed Chakravyuha is an odd grim fit for study isolation.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q34,Gemma-2-9B,RAG-v2,34,1,3.0,4.0,4.0,3.0,King Nala's loss and recovery apt for rejection; lesser-known to youth.,3.5
+run3_gemma_rag2_memory,1,Gemma-2-9B__RAG__Q38,Gemma-2-9B,RAG,38,1,4.0,3.0,3.0,2.0,Rama's loneliness seeing paired birds accurate; shyness aspect unaddressed.,3.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q27,Gemma-2-9B,RAG-v2,27,0,1.0,1.0,1.0,1.0,No story; generic advice on fear of challenges.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q21,Gemma-2-9B,RAG-v2,21,1,4.0,4.0,3.0,3.0,Krishna on following one's own path fits peer comparison.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q40,Gemma-2-9B,RAG-v2,40,1,5.0,2.0,2.0,2.0,Arjuna's battlefield grief loosely stretched to romantic breakup.,2.75
+run3_gemma_rag2_memory,1,Llama-3.1-8B__RAG__Q22,Llama-3.1-8B,RAG,22,1,4.0,3.0,3.0,3.0,Rama's loneliness and confiding in Lakshmana; relevant but heavy imagery.,3.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q11,Gemma-2-9B,RAG-v2,11,1,4.0,3.0,4.0,3.0,Draupadi-Yudhishthira dharma dialogue accurate; moderate fit to exam disappointment.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q01,Gemma-2-9B,RAG-v2,1,1,5.0,4.0,3.0,3.0,Arjuna's outcome anxiety implies nishkama karma; fits exam pressure.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q18,Gemma-2-9B,RAG-v2,18,0,1.0,1.0,1.0,1.0,No cultural story; generic family communication advice.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q18,Gemma-2-9B,NoRAG-narrative,18,1,5.0,3.0,3.0,2.0,Arjuna seeking Krishna's guidance loosely linked to family career conflict.,3.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q26,Gemma-2-9B,RAG-v2,26,1,4.0,4.0,4.0,3.0,Gita titiksha on transient feelings fits fluctuating emotions well.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q32,Gemma-2-9B,NoRAG-narrative,32,1,5.0,3.0,2.0,3.0,Hanuman's doubt before Sanjeevani mission largely invented; relevant to fear of failing.,3.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q24,Gemma-2-9B,NoRAG-narrative,24,1,5.0,2.0,1.0,2.0,Hanuman grieving separation from Rama is fabricated; weak insight on attachment.,2.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q06,Gemma-2-9B,NoRAG-narrative,6,1,5.0,3.0,3.0,3.0,Hanuman channeling anger at Ravana into action; decent anger-management moral.,3.5
+run3_gemma_rag2_memory,1,Llama-3.1-8B__No-RAG__Q17,Llama-3.1-8B,No-RAG,17,0,1.0,1.0,1.0,1.0,No story; generic project-stress advice.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q07,Gemma-2-9B,NoRAG-narrative,7,1,5.0,2.0,2.0,2.0,Hanuman doubt name-dropped vaguely; no specific parallel.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q25,Gemma-2-9B,RAG-v2,25,1,4.0,3.0,4.0,3.0,Accurate Gita titiksha teaching applied to disappointment.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q05,Gemma-2-9B,RAG-v2,5,1,5.0,3.0,3.0,3.0,Yudhishthira losing kingdom and recovering; brief but relevant to repeated rejection.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q34,Gemma-2-9B,NoRAG-narrative,34,1,5.0,3.0,3.0,3.0,Hanuman persevering on Sanjeevani quest; generic perseverance moral for interview rejection.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q12,Gemma-2-9B,RAG-v2,12,0,1.0,1.0,1.0,1.0,No cultural reference; generic presentation anxiety tips.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q24,Gemma-2-9B,RAG-v2,24,1,5.0,2.0,2.0,2.0,Rama's exile framed as necessary for people's well-being is distorted; weak fit.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q40,Gemma-2-9B,NoRAG-narrative,40,1,5.0,4.0,3.0,3.0,Rama's grief over Sita separation fits heartbreak; resilience moral somewhat generic.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q20,Gemma-2-9B,NoRAG-narrative,20,1,5.0,3.0,3.0,3.0,Hanuman's humility and openness to learning reasonably fits correction sensitivity.,3.5
+run3_gemma_rag2_memory,1,Gemma-2-9B__RAG__Q03,Gemma-2-9B,RAG,3,1,4.0,2.0,2.0,2.0,Lakshmana reaching out to Hanuman for grieving Rama is muddled; loose fit.,2.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q30,Gemma-2-9B,NoRAG-narrative,30,1,5.0,2.0,3.0,2.0,Rama's grief and recovery generic; little link to intrusive memories.,3.0
+run3_gemma_rag2_memory,1,Llama-3.1-8B__No-RAG__Q04,Llama-3.1-8B,No-RAG,4,0,1.0,1.0,1.0,1.0,No cultural story; generic empathetic ghosting advice.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q35,Gemma-2-9B,NoRAG-narrative,35,1,5.0,3.0,3.0,3.0,Hanuman's integrity over personal gain moderately fits honesty dilemma.,3.5
+run3_gemma_rag2_memory,1,Gemma-2-9B__No-RAG__Q13,Gemma-2-9B,No-RAG,13,0,1.0,1.0,1.0,1.0,No story; generic rejection-fear advice.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q09,Gemma-2-9B,NoRAG-narrative,9,1,5.0,3.0,2.0,3.0,Brothers parallel apt but claim Rama-Lakshmana often disagreed is embellished.,3.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q07,Gemma-2-9B,RAG-v2,7,1,5.0,4.0,4.0,4.0,Arjuna freezing over outcomes and Krishna's focus on action fits instability well.,4.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q35,Gemma-2-9B,RAG-v2,35,1,5.0,4.0,3.0,3.0,Karna rejecting power for loyalty; decent integrity parallel for cheating dilemma.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q28,Gemma-2-9B,NoRAG-narrative,28,1,5.0,4.0,3.0,3.0,Hanuman doubting abilities echoes forgotten powers; relevant to feeling inadequate.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q16,Gemma-2-9B,NoRAG-narrative,16,1,5.0,3.0,2.0,2.0,Hanuman learning to control anger is largely invented; generic moral.,3.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q37,Gemma-2-9B,NoRAG-narrative,37,1,5.0,2.0,3.0,2.0,Hanuman doubt in Sita search; generic inner-strength moral for aimlessness.,3.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q28,Gemma-2-9B,RAG-v2,28,1,4.0,4.0,4.0,3.0,Svadharma teaching accurately applied to comparison with others.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q19,Gemma-2-9B,RAG-v2,19,1,5.0,2.0,2.0,1.0,Arjuna's battlefield paralysis mismatched to texting arguments with partner.,2.5
+run3_gemma_rag2_memory,1,Llama-3.1-8B__RAG__Q25,Llama-3.1-8B,RAG,25,1,3.0,3.0,3.0,3.0,"Lakshmana and Brihadasva cited briefly; obscure, bare references but relevant reframe.",3.0
+run3_gemma_rag2_memory,1,Gemma-2-9B__RAG__Q07,Gemma-2-9B,RAG,7,1,4.0,2.0,3.0,2.0,Sugreeva's fear mentioned without episode detail; thin parallel.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q03,Gemma-2-9B,RAG-v2,3,1,5.0,2.0,2.0,2.0,Arjuna's paralysis loosely compared to fearing grandmother's death.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q16,Gemma-2-9B,RAG-v2,16,1,4.0,4.0,4.0,4.0,Gita's steady-minded sage accurately used as model for staying calm.,4.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q32,Gemma-2-9B,RAG-v2,32,1,5.0,3.0,3.0,3.0,Arjuna's fear of consequences and Krishna's surrender teaching; moderate fit.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q19,Gemma-2-9B,NoRAG-narrative,19,1,4.0,2.0,1.0,1.0,Vague invented claim of Arjuna's miscommunication; name-dropping.,2.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q31,Gemma-2-9B,NoRAG-narrative,31,1,5.0,4.0,3.0,3.0,Hanuman serving tirelessly without praise directly fits feeling unappreciated.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q03,Gemma-2-9B,NoRAG-narrative,3,1,5.0,2.0,2.0,1.0,Hanuman's grief over abduction offers validation only; no reframe for grandmother's illness.,2.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q13,Gemma-2-9B,RAG-v2,13,1,5.0,3.0,3.0,2.0,Arjuna's battlefield dread paralleled to rejection fear; no teaching drawn.,3.25
+run3_gemma_rag2_memory,1,Gemma-2-9B__RAG__Q21,Gemma-2-9B,RAG,21,1,4.0,4.0,4.0,4.0,Gita svadharma verse paraphrased accurately; strong reframe for peer comparison.,4.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q36,Gemma-2-9B,NoRAG-narrative,36,1,5.0,2.0,2.0,1.0,Hanuman devotion awkwardly mapped to financial hardship; unclear lesson.,2.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q12,Gemma-2-9B,NoRAG-narrative,12,1,5.0,3.0,3.0,3.0,Hanuman's courage in Sita search; generic strength message for presentation anxiety.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q39,Gemma-2-9B,NoRAG-narrative,39,1,5.0,4.0,3.0,3.0,Rama's grief at separation from Sita parallels divorce pain; validating.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q13,Gemma-2-9B,NoRAG-narrative,13,1,5.0,4.0,3.0,3.0,Hanuman hesitating before Sita mission fits fear of failing; somewhat embellished.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q08,Gemma-2-9B,RAG-v2,8,1,5.0,2.0,2.0,2.0,Gita misrepresented as endorsing unconventional path; weak link to romantic self-doubt.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q05,Gemma-2-9B,NoRAG-narrative,5,1,5.0,3.0,3.0,3.0,Hanuman's perseverance generic; moderate fit to repeated rejection.,3.5
+run3_gemma_rag2_memory,1,Llama-3.1-8B__No-RAG__Q08,Llama-3.1-8B,No-RAG,8,0,1.0,1.0,1.0,1.0,No cultural reference; generic advice on crush and overthinking.,1.0
+run3_gemma_rag2_memory,1,Llama-3.1-8B__RAG__Q11,Llama-3.1-8B,RAG,11,1,4.0,2.0,4.0,2.0,Accurate Yudhishthira post-war counsel but war guilt poorly matches exam stress.,3.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q29,Gemma-2-9B,NoRAG-narrative,29,1,5.0,3.0,2.0,3.0,Hanuman connected to Rama amid army; plausible but invented detail.,3.25
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q38,Gemma-2-9B,RAG-v2,38,1,4.0,3.0,4.0,3.0,Rama hearing cuckoos as mocking grief is accurate; shyness unaddressed.,3.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q21,Gemma-2-9B,NoRAG-narrative,21,1,5.0,4.0,2.0,3.0,Hanuman's self-doubt apt but reassurance wrongly attributed to Rama not Jambavan.,3.5
+run3_gemma_rag2_memory,1,Gemma-2-9B__RAG__Q27,Gemma-2-9B,RAG,27,1,4.0,4.0,4.0,3.0,Sugreeva's fear of Vali and seeking Rama's help accurately fits avoidance.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__NoRAG-narrative__Q04,Gemma-2-9B,NoRAG-narrative,4,1,5.0,2.0,2.0,2.0,Hanuman's loyalty generic; weak parallel to being ghosted.,2.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q36,Gemma-2-9B,RAG-v2,36,0,1.0,1.0,1.0,1.0,No cultural story; practical financial advice only.,1.0
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q39,Gemma-2-9B,RAG-v2,39,1,5.0,2.0,2.0,1.0,Arjuna's battlefield burden thinly compared to divorce; no insight.,2.5
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q33,Gemma-2-9B,RAG-v2,33,1,5.0,3.0,4.0,3.0,Gita titiksha accurate; temporary-feelings reframe fits sudden change.,3.75
+run3_gemma_rag2_memory,0,Gemma-2-9B__RAG-v2__Q20,Gemma-2-9B,RAG-v2,20,1,5.0,2.0,4.0,2.0,Karna's loyalty story accurate but weakly connected to being corrected.,3.25

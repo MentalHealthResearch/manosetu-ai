@@ -1,0 +1,376 @@
+answer_id,model,model_tag,condition,question_id,question_text,response_text,retrieved_story_ids,retrieval_scores,rag_collection,prompt_version,generation_tokens,generation_seconds,generated_at_utc
+Qwen3-8B__RAG__Q01,Qwen3-8B,qwen3:8b,RAG,1,My parents expect me to crack competitive exams and secure a government job. The pressure is killing me—what do I do?,"It sounds like you're carrying a heavy burden, and it's completely understandable to feel overwhelmed by the pressure to succeed in exams and secure a government job. These expectations can feel like a constant weight, and it's okay to feel stressed or even hopeless at times. You're not alone in this struggle.
+
+From the wisdom of the Gita, we learn that you have a right to perform your duty—your studies and efforts—but you are not entitled to the outcome. This means you can focus on doing your best without being overly attached to the results. Try to shift your focus from the outcome to the process of learning and growth. This can help reduce anxiety and give you a sense of control over what you can influence.
+
+Next, consider breaking your study sessions into smaller, manageable tasks. This can make the workload feel less overwhelming. Also, take time to care for your mental and physical well-being—rest, eat well, and connect with friends or family who support you.
+
+Lastly, remember that your worth is not defined by your exam results. You are more than your achievements. If the pressure feels too much, don’t hesitate to reach out to a trusted adult, counselor, or mental health professional for support. You deserve to feel at peace while working toward your goals.",gita:gita_chapter2_verse_files/376;ramayanam:Dataset_ramayanam/ayodhyakanda/164;gita:gita_chapter3_verse_files/427,0.251390;0.248652;0.243245,narrative_therapy_corpus,benchmark_v1,257,67.229,2026-10-06T14:23:00.542543+00:00
+Qwen3-8B__RAG__Q02,Qwen3-8B,qwen3:8b,RAG,2,I get nervous even saying my name during introductions. What if people judge me?,"It's completely natural to feel nervous about introductions, especially when you're worried about how others might judge you. Your feelings are valid, and it's okay to feel this way. Just like Hanuma showed humility and warmth in his interactions, you can approach introductions with kindness and self-compassion. You don’t have to be perfect—being genuine is what matters most.
+
+Remember, Krishna taught us in the Bhagavad Gita that it's better to stay true to your own nature than to try to fit into someone else’s expectations. You don’t need to worry about others’ judgments; focus on being yourself. Even small steps, like practicing saying your name in front of a mirror or with a trusted friend, can help build confidence over time.
+
+Here are a few practical steps you can try:  
+1. **Practice in low-pressure settings**—say your name to a friend or in front of a mirror to get comfortable with it.  
+2. **Focus on your own feelings**—instead of worrying about others’ reactions, remind yourself that you deserve to feel safe and respected.  
+3. **Celebrate small wins**—every time you take a step forward, acknowledge it as progress, no matter how small.
+
+You are not alone in feeling this way, and it’s okay to take things at your own pace. You are worthy of kindness, both from yourself and others. If these feelings ever feel overwhelming, don’t hesitate to reach out to someone you trust or a mental health professional. You are not alone.",ramayanam:Dataset_ramayanam/kishkindhakanda/617;mahabharat:712;ramayanam:Dataset_ramayanam/kishkindhakanda/667,0.212057;0.192518;0.167836,narrative_therapy_corpus,benchmark_v1,313,21.29,2026-10-06T14:23:21.988498+00:00
+Qwen3-8B__RAG__Q03,Qwen3-8B,qwen3:8b,RAG,3,"My grandmother is unwell, and I'm terrified she might pass away. I can't function properly","I'm so sorry to hear that your grandmother is unwell, and it's completely natural to feel terrified and overwhelmed in this situation. It's okay to feel this way—your fear shows how much you care. You're not alone in this, and it's important to acknowledge your feelings without judgment.
+
+In the story of Duryodhana, Bhisma used a loud, confident sound to help his grandson feel stronger during a moment of despair. Similarly, you can take small, grounding steps to support yourself. First, try to speak with someone you trust—whether a family member, friend, or counselor. Sharing your fears can lighten the emotional load. Second, focus on what you *can* do: be present for your grandmother, comfort her, and take care of yourself. Even small acts of kindness can make a difference. Third, consider reaching out to a local support group or helpline if you're feeling isolated. You don’t have to face this alone.
+
+Remember, it’s okay to feel scared, and it’s also okay to ask for help. You're doing important work by being there for your grandmother, and that matters deeply. If you ever feel like you're in immediate danger or need urgent support, please reach out to a local emergency service or crisis line. You are not alone, and help is available.",gita:gita_verse_files/303;ramayanam:Dataset_ramayanam/ayodhyakanda/196;ramayanam:Dataset_ramayanam/kishkindhakanda/649,0.214522;0.213406;0.212677,narrative_therapy_corpus,benchmark_v1,271,20.284,2026-10-06T14:23:42.404257+00:00
+Qwen3-8B__RAG__Q04,Qwen3-8B,qwen3:8b,RAG,4,My best friend ghosted me after years of trust. I feel lost and worthless,"I'm so sorry you're feeling this way. It's incredibly painful to be betrayed by someone you trusted deeply, and it's completely normal to feel lost and worthless after such a loss. Your feelings are valid, and it's okay to grieve this hurt.
+
+In the Ramayana, Rama expresses a deep longing for Seetha, feeling the weight of sorrow and loss. Similarly, you're going through a difficult emotional journey, and it's important to allow yourself to feel what you're feeling without judgment. You're not alone in this.
+
+The Bhagavad Gita offers a powerful perspective on enduring loss. It reminds us that while the body changes and ends, the soul remains eternal and unchanging. This doesn't mean the pain goes away, but it can help shift your focus from what is temporary to what is permanent. You are more than your circumstances, and your worth is not defined by one person's actions.
+
+Here are a few practical steps you can take:
+
+1. **Allow yourself to feel**—grief, anger, confusion are all part of the healing process. Write down your feelings or talk to someone you trust.
+2. **Focus on self-compassion**—treat yourself with the same kindness you would offer a friend in your position.
+3. **Reconnect with your values and purpose**—what brings you joy, meaning, or peace? Reinvesting in these can help you feel grounded again.
+
+You are not alone, and healing takes time. If you ever feel overwhelmed, please reach out to a trusted friend, counselor, or local support service. You deserve care and support.",ramayanam:Dataset_ramayanam/kishkindhakanda/557;gita:gita_chapter2_verse_files/346;gita:gita_chapter2_verse_files/355,0.203680;0.202437;0.191280,narrative_therapy_corpus,benchmark_v1,332,24.937,2026-10-06T14:24:07.479278+00:00
+Qwen3-8B__RAG__Q05,Qwen3-8B,qwen3:8b,RAG,5,I've been rejected from five interviews in a row. I feel like a failure and can't get back up.,"I'm so sorry you're feeling this way. It's incredibly painful to face repeated rejections, and it's completely natural to feel like a failure when things don't go as planned. Your feelings are valid, and it's okay to feel overwhelmed right now.
+
+Just like Rama, you're carrying a heavy burden of disappointment, and it's understandable that you feel stuck in a cycle of sadness. But remember, Rama didn’t let his grief stop him from taking action—he kept searching for Sita, even when the path was unclear. You don’t have to face this alone.
+
+Here are a few practical steps you can take:  
+1. **Take a break** from the interview process for a day or two. Give yourself space to process your emotions without the pressure of applying.  
+2. **Reflect on your strengths**—what makes you unique and qualified. Write them down to remind yourself of your value.  
+3. **Reach out to someone** you trust—whether a friend, family member, or a professional. Talking through your feelings can help lighten the load.
+
+You are not defined by these rejections. Keep going—one step at a time. You’ve already shown resilience by facing this challenge. I believe in you.",ramayanam:Dataset_ramayanam/aranyakanda/281;ramayanam:Dataset_ramayanam/aranyakanda/285;ramayanam:Dataset_ramayanam/kishkindhakanda/580,0.209878;0.184537;0.184148,narrative_therapy_corpus,benchmark_v1,253,21.057,2026-10-06T14:24:28.684755+00:00
+Qwen3-8B__RAG__Q06,Qwen3-8B,qwen3:8b,RAG,6,"I was wrongly accused of something in my hostel group chat, and I feel furious. I want revenge.","I'm so sorry you're feeling this way. It's completely natural to feel furious when you're wrongly accused—it's a strong reaction to being misunderstood or disrespected. Your anger is valid, and it's okay to feel that way. But I want to remind you that revenge often leads to more pain, not justice. It can damage relationships and leave you feeling trapped in a cycle of hurt.
+
+Let’s take a step back. First, try to breathe and give yourself space to calm down. Anger is a signal that something is wrong, not a solution. Second, consider reaching out to someone you trust—maybe a friend, a counselor, or a mentor. They can help you process what's happening and offer a fresh perspective. Third, write down your thoughts or feelings in a journal. Sometimes putting them into words can help you see things more clearly and release some of the tension.
+
+You don’t have to face this alone. It’s okay to ask for support. If you're feeling overwhelmed, please reach out to a trusted adult or a mental health professional. You deserve to be heard and supported. You're not alone in this, and there are people who care about you.",ramayanam:Dataset_ramayanam/aranyakanda/236;ramayanam:Dataset_ramayanam/ayodhyakanda/63;ramayanam:Dataset_ramayanam/aranyakanda/238,0.229826;0.225977;0.218333,narrative_therapy_corpus,benchmark_v1,242,21.73,2026-10-06T14:24:50.552899+00:00
+Qwen3-8B__RAG__Q07,Qwen3-8B,qwen3:8b,RAG,7,One moment I'm super confident; next I feel like I'll fail everything. I hate this instability.,"I hear you—feeling so confident one moment and then completely unsure the next can be really overwhelming. It’s like being caught between two strong emotions, and that can feel unstable and confusing. It’s okay to feel this way; it’s a common experience for many people.
+
+In the Ramayana, Sugreeva felt fear and uncertainty when facing great challenges, and it made it hard for him to decide what to do. Similarly, it’s natural for us to feel shaken when we’re unsure of our abilities or the future. But just like Sugreeva eventually found strength, you can too.
+
+Here are a few steps you might try:
+
+1. **Pause and breathe**—when you feel this shift, take a moment to center yourself. Even a few deep breaths can help calm the mind and give you space to think clearly.
+
+2. **Write down your thoughts**—sometimes putting feelings into words can help you see them more clearly and reduce the weight they carry.
+
+3. **Talk to someone you trust**—sharing your feelings with a friend, family member, or counselor can help you feel supported and less alone.
+
+You’re not alone in this, and it’s okay to feel uncertain. You’re doing your best, and that matters. If you ever feel overwhelmed or in distress, please reach out to a trusted person or a mental health professional. You deserve support and care.",ramayanam:Dataset_ramayanam/kishkindhakanda/589;gita:gita_chapter4_verse_files/484;ramayanam:Dataset_ramayanam/kishkindhakanda/608,0.296138;0.290076;0.289570,narrative_therapy_corpus,benchmark_v1,284,19.72,2026-10-06T14:25:10.406157+00:00
+Qwen3-8B__RAG__Q08,Qwen3-8B,qwen3:8b,RAG,8,"I like someone, but I don't know if I'm good enough for them. I overthink everything.","It’s completely natural to feel uncertain when you care about someone—especially when you're worried about whether you're ""good enough."" These feelings of attraction and self-doubt are part of the human experience, and it’s okay to feel overwhelmed by them. What you're describing sounds like a mix of emotional pull and internal conflict, which can feel like an emotional rollercoaster.
+
+From the wisdom of the Gita, we learn that attraction and aversion are natural, but they can become obstacles if we let them control us. Your overthinking is a sign that your mind is trying to make sense of a complex situation, but it’s also possible that it’s getting stuck in a cycle of doubt. This is similar to the kind of indecision Arjuna faced, where every choice felt heavy with consequence.
+
+Here are a few practical steps you might try:
+
+1. **Write down your thoughts**: Putting your feelings on paper can help you see them more clearly and reduce the mental weight they carry.
+2. **Focus on what you can control**: Instead of worrying about whether you're ""good enough,"" try to focus on how you can be present, kind, and authentic in your interactions.
+3. **Talk to someone you trust**: Sharing your feelings with a friend or a counselor can help you feel less alone and more supported.
+
+You're not alone in this, and it’s okay to feel stuck. Take things one step at a time. You're doing your best, and that matters.",gita:gita_chapter3_verse_files/435;mahabharat:688;gita:gita_chapter2_verse_files/336,0.194088;0.187989;0.186434,narrative_therapy_corpus,benchmark_v1,303,21.902,2026-10-06T14:25:32.455794+00:00
+Qwen3-8B__RAG__Q09,Qwen3-8B,qwen3:8b,RAG,9,My brother and I fight constantly about who does more chores. I feel disrespected.,"I'm so sorry you're feeling this way. It sounds like you're dealing with a lot of frustration and hurt, and it's completely valid to feel disrespected when your efforts aren't recognized. It's important to know that your feelings matter, and you're not alone in feeling this way.
+
+It reminds me of a story where two brothers faced conflict and betrayal, yet found strength in their shared struggles. Just like in that story, it's possible to find understanding and connection even in difficult situations. Your feelings of being disrespected are real, and it's okay to feel that way.
+
+Here are a few practical steps you might consider:  
+1. **Express your feelings calmly**: Try to talk to your brother about how you feel, using ""I"" statements to share your perspective without blaming him. For example, ""I feel disrespected when I don't get recognition for the chores I do.""  
+2. **Set boundaries**: If the conflict continues, it might be helpful to set clear boundaries about what you're willing to do and what you're not. This can help prevent future misunderstandings.  
+3. **Seek support**: If talking to your brother feels too overwhelming, consider reaching out to a trusted friend, family member, or counselor for support. You don't have to face this alone.
+
+You're not alone, and your feelings are important. Take care of yourself, and know that things can get better.",ramayanam:Dataset_ramayanam/kishkindhakanda/648;gita:gita_verse_files/292;ramayanam:Dataset_ramayanam/kishkindhakanda/652,0.239518;0.220848;0.187272,narrative_therapy_corpus,benchmark_v1,292,21.076,2026-10-06T14:25:53.689976+00:00
+Qwen3-8B__RAG__Q10,Qwen3-8B,qwen3:8b,RAG,10,I moved for work and know no one here. I cry most nights.,"I'm so sorry you're feeling this way. It's completely natural to feel lonely when you're in a new place, especially when you've moved for work and don’t have a support system nearby. It sounds like you're carrying a heavy emotional weight, and it's okay to feel that way. Your feelings are valid, and it's important to acknowledge them without judgment.
+
+I can imagine how hard it must be to feel like you're in an empty space, with no one to share your thoughts or comfort you. It's like being in a cave, echoing with the silence of your heart—just as Rama felt when he was separated from Seetha. You're not alone in this, and it's okay to feel this way.
+
+Here are a few practical steps you might try:  
+1. **Reach out to someone**—even a simple message or call can help you feel connected. Maybe a friend from your old place or a coworker.  
+2. **Join a local group or class**—this can be a great way to meet people who share your interests and start building new connections.  
+3. **Write down your feelings**—sometimes putting them into words can help you process and feel lighter.
+
+You're not alone in this, and it's okay to take time to heal. If you ever feel overwhelmed, please reach out to a trusted friend, family member, or a local crisis support line. You deserve support and care.",ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/563;ramayanam:Dataset_ramayanam/kishkindhakanda/508,0.271720;0.233841;0.231870,narrative_therapy_corpus,benchmark_v1,297,21.167,2026-10-06T14:26:15.016713+00:00
+Qwen3-8B__RAG__Q11,Qwen3-8B,qwen3:8b,RAG,11,I'm devastated because I scored much lower than expected in my semester exam. The stress is overwhelming-how do I cope?,"I'm so sorry to hear that you're feeling this way—it sounds like a huge weight on your heart. It's completely normal to feel devastated when things don’t go as planned, and it’s okay to feel overwhelmed by the stress. You’re not alone in this, and it’s important to remember that your worth isn’t defined by a single exam.
+
+Just like King Yudhishthira, who felt crushed by the loss of life and the burden of guilt, you may be struggling with feelings of failure or disappointment. But remember, even in the darkest moments, there is a path forward. Here are a few practical steps you can take:
+
+1. **Talk to someone you trust**—whether it’s a friend, family member, or teacher. Sharing your feelings can help lighten the load and give you new perspectives.
+
+2. **Reflect on what you’ve learned**—even if the result wasn’t what you hoped, this experience can teach you about resilience, focus, and how to approach future challenges with more clarity.
+
+3. **Take a moment to breathe and care for yourself**—practice deep breathing, go for a walk, or do something that brings you comfort. Your well-being matters, and it’s okay to pause and recharge.
+
+You’re not failing; you’re growing. And just like Yudhishthira found clarity through wisdom and purpose, you can too. You’ve already taken a brave step by acknowledging how you feel. Keep going—one step at a time. You’re not alone.",mahabharat:731;mahabharat:700;mahabharat:701,0.237449;0.236989;0.236779,narrative_therapy_corpus,benchmark_v1,310,23.521,2026-10-06T14:26:38.692465+00:00
+Qwen3-8B__RAG__Q12,Qwen3-8B,qwen3:8b,RAG,12,My heart races before every lab presentation; I feel I'll mess up and be judged,"It’s completely normal to feel your heart race before a lab presentation—this is a natural response to the pressure of being judged. What you're experiencing is a mix of anxiety and fear of not meeting expectations, and it’s okay to feel that way. You're not alone in this.
+
+The Bhagavad Gita reminds us that we are entitled to perform our duty, but not to be attached to the outcome. Your role is to prepare and present to the best of your ability, not to control how others receive it. This can help shift your focus from the result to the process—what you *can* control.
+
+Here are a few practical steps you can take:  
+1. **Focus on preparation**: Dedicate time to practice your presentation. The more you rehearse, the more confident you’ll feel.  
+2. **Use grounding techniques**: Before speaking, take a few deep breaths or use a mantra to stay present. This can calm your nervous system.  
+3. **Reframe your mindset**: Remind yourself that your worth isn’t tied to the outcome. You’re doing your best, and that’s enough.
+
+You’re not failing if you feel anxious—it’s a sign that you care about doing well. Keep showing up, and you’ll grow stronger with each experience. You’ve got this.",mahabharat:687;gita:gita_chapter2_verse_files/376;mahabharat:712,0.282451;0.264135;0.262722,narrative_therapy_corpus,benchmark_v1,268,18.69,2026-10-06T14:26:57.540662+00:00
+Qwen3-8B__RAG__Q13,Qwen3-8B,qwen3:8b,RAG,13,I feel paralyzed by fear of getting rejected from internships,"I'm so sorry you're feeling this way—it sounds like a heavy burden to carry. Fear of rejection can feel overwhelming, especially when it's tied to something important like internships. It's completely normal to feel this way, and it's okay to feel stuck in the moment.
+
+From what I understand, fear can sometimes cloud our ability to make decisions, much like Sugreeva felt in the Ramayana when he was paralyzed by fear and unsure of what to do. You're not alone in this emotional struggle.
+
+Here are a few practical steps you might try:
+
+1. **Take small, manageable actions**—even a simple message to a recruiter or a short application can help break the cycle of fear. Start with what feels possible, not what feels perfect.
+
+2. **Talk to someone you trust**—whether a friend, mentor, or counselor. Sharing your feelings can lighten the load and help you see things more clearly.
+
+3. **Focus on what you can control**—like preparing your application, practicing interviews, or reflecting on your strengths. This can help shift your focus from fear to action.
+
+You're not defined by your fear, and it's okay to feel this way. You're doing your best, and that matters. If the fear feels too heavy, please reach out to a local crisis line or mental health professional—they're here to help. You're not alone.",gita:gita_chapter3_verse_files/435;ramayanam:Dataset_ramayanam/kishkindhakanda/589;gita:gita_chapter3_verse_files/433,0.237794;0.214507;0.182841,narrative_therapy_corpus,benchmark_v1,283,18.788,2026-10-06T14:27:16.481694+00:00
+Qwen3-8B__RAG__Q14,Qwen3-8B,qwen3:8b,RAG,14,Since moving cities I feel a persistent sadness I can't shake.,"I'm so sorry to hear you're feeling this persistent sadness since moving cities. It's completely normal to feel this way when you're in a new place — it can be overwhelming and disorienting. It sounds like you're carrying a deep sense of loss, much like the people of Ayodhya felt when Rama left, as if something essential has been taken away from your life.
+
+It's important to acknowledge these feelings rather than try to push them away. You're not alone in this, and it's okay to feel this way. Here are a few practical steps you might consider:
+
+1. **Connect with your community**: Try to find people who share your interests or join local groups. Sometimes, even small interactions can help you feel more at home.
+
+2. **Express your feelings**: Writing down your thoughts or talking to someone you trust can be a powerful way to process your emotions and gain clarity.
+
+3. **Take time for self-care**: Make sure you're getting enough rest, eating well, and engaging in activities that bring you comfort or joy, even if it's just a short walk or a favorite hobby.
+
+Remember, healing takes time, and it's okay to feel sad. You're not alone in this journey, and there is hope for renewal and peace. If you ever feel overwhelmed, please reach out to a trusted friend, family member, or a local mental health professional. You deserve support and care.",ramayanam:Dataset_ramayanam/ayodhyakanda/123;ramayanam:Dataset_ramayanam/kishkindhakanda/508;ramayanam:Dataset_ramayanam/ayodhyakanda/211,0.291324;0.289483;0.277095,narrative_therapy_corpus,benchmark_v1,290,22.664,2026-10-06T14:27:39.279844+00:00
+Qwen3-8B__RAG__Q15,Qwen3-8B,qwen3:8b,RAG,15,Nothing I do seems to matter; what's the point of working toward goals?,"It’s understandable to feel that nothing you do seems to matter, especially when the outcome feels out of your control. This kind of feeling can be heavy and disheartening. Let’s explore this together.
+
+In the *Gita*, Krishna teaches that while we are responsible for our efforts, the results are not ours to control. This is a powerful reminder that our value lies in the *effort*, not the *outcome*. When we focus on the task at hand, rather than the result, we free ourselves from the anxiety of trying to control what cannot be controlled. This can help ease the pressure and bring a sense of peace.
+
+Your work and goals are meaningful, even if the results feel uncertain. Think about what you're doing and how it aligns with your values. What does it mean to you? What impact do you hope to make? Sometimes, the act of showing up and putting in the effort is itself a form of contribution.
+
+Here are a few practical steps you can take:
+
+1. **Focus on the process**: Try to shift your attention to the actions you can control. What small steps can you take today that align with your goals?
+
+2. **Reflect on your values**: Ask yourself, “What matters most to me?” This can help you reconnect with the purpose behind your efforts.
+
+3. **Celebrate small wins**: Acknowledge the progress you make, no matter how small. This can build momentum and confidence.
+
+You are not alone in feeling this way. If these thoughts feel overwhelming, consider reaching out to a trusted friend, counselor, or support group. You deserve care and understanding.",gita:gita_chapter2_verse_files/376;gita:gita_chapter4_verse_files/463;ramayanam:Dataset_ramayanam/kishkindhakanda/581,0.308732;0.293742;0.293741,narrative_therapy_corpus,benchmark_v1,327,22.188,2026-10-06T14:28:01.627961+00:00
+Qwen3-8B__RAG__Q16,Qwen3-8B,qwen3:8b,RAG,16,I explode at teammates when deadlines slip-how do I stay calm?,"I'm so sorry you're feeling this way—it's really hard to stay calm when deadlines slip and frustration builds. It sounds like you're carrying a lot of pressure, and it's natural to feel overwhelmed. Your feelings are valid, and it's important to acknowledge them without judgment.
+
+In the story of Lakshmana, Rama gently reminded him that anger can cloud our judgment and prevent us from acting with grace. This is a powerful reminder that we can choose how to respond to frustration. Instead of letting it explode, try pausing for a moment to breathe and reflect on what’s truly within your control.
+
+Another helpful approach comes from the Bhagavad Gita, which teaches that we are responsible for our effort, not the outcome. Focus on what you *can* do—like communicating clearly with your team, breaking tasks into smaller steps, or setting realistic expectations. Let go of the need to control every result.
+
+Here are a few practical steps you can try:  
+1. Take a short break when you feel overwhelmed and practice deep breathing to calm your mind.  
+2. Reflect on what you *can* control and focus your energy there, rather than on what you can’t.  
+3. After a stressful moment, take time to process your emotions and choose a calm, constructive response next time.  
+
+You're not alone in this, and it's okay to seek support when needed. You're doing important work, and your efforts matter. 💛",mahabharat:734;gita:gita_chapter2_verse_files/376;ramayanam:Dataset_ramayanam/kishkindhakanda/629,0.238952;0.221595;0.220655,narrative_therapy_corpus,benchmark_v1,297,20.464,2026-10-06T14:28:22.237420+00:00
+Qwen3-8B__RAG__Q17,Qwen3-8B,qwen3:8b,RAG,17,"My moods swing wildly during project weeks-happy, then discouraged.","It sounds like you're experiencing intense emotional shifts during project weeks, moving between happiness and discouragement. That must feel really overwhelming, especially when the external environment is busy and demanding. It’s not uncommon for our moods to fluctuate in response to stress, and it’s important to acknowledge how heavy that can feel.
+
+I can relate to the sense of being pulled between joy and frustration—like the tension in Passage 1, where even peaceful surroundings can feel distant when our inner world is unsettled. It’s okay to feel restless, and it’s a sign that your mind is trying to find balance.
+
+One practical step could be to take short, mindful pauses during the day—like a few deep breaths or a quick walk—to give your mind space to reset. Another idea is to write down your feelings in a journal, which can help you process and release the emotional weight. Lastly, consider sharing your experience with a trusted friend or colleague; sometimes just talking through it can bring clarity and support.
+
+Remember, it’s not a sign of weakness to seek help. You’re not alone in this, and small steps can make a big difference. If these mood swings feel unmanageable or if you ever feel overwhelmed, reaching out to a mental health professional or a crisis support line can provide the guidance you need. You’re doing your best, and that matters.",ramayanam:Dataset_ramayanam/kishkindhakanda/565;ramayanam:Dataset_ramayanam/kishkindhakanda/629;ramayanam:Dataset_ramayanam/kishkindhakanda/632,0.310236;0.307407;0.303748,narrative_therapy_corpus,benchmark_v1,276,18.019,2026-10-06T14:28:40.413512+00:00
+Qwen3-8B__RAG__Q18,Qwen3-8B,qwen3:8b,RAG,18,My parents and I clash over my career choices-constant tension at home.,"It sounds like you're carrying a heavy emotional load, and it's completely normal to feel frustrated and overwhelmed when there's tension between you and your parents. Their concern for your future is likely rooted in love, even if it feels like resistance to your choices. It’s like the story of Dasaratha, who struggled with the fear of losing his son to a dangerous mission—your parents may feel anxious about the risks or uncertainties of your path.
+
+It’s important to acknowledge that their perspective is shaped by their own experiences and values, and that doesn’t make their feelings invalid. At the same time, your feelings of being misunderstood or pressured are real and valid. This kind of conflict can feel isolating, but you're not alone in navigating it.
+
+Here are a few practical steps you might consider:  
+1. **Express your feelings calmly**—try to share your perspective without blame, using “I” statements to avoid sounding accusatory.  
+2. **Seek a neutral space** to talk, like a walk or a quiet room, where both of you can feel heard without interruption.  
+3. **Consider involving a mediator**, such as a trusted family member, counselor, or even a mentor, to help facilitate a more balanced conversation.
+
+Remember, your well-being matters, and it’s okay to advocate for your needs while staying respectful. You deserve support, and it’s okay to ask for it. If things feel overwhelming, reaching out to a mental health professional can also provide valuable guidance. You’re not alone in this.",ramayanam:Dataset_ramayanam/balakanda/12;gita:gita_verse_files/292;gita:gita_chapter3_verse_files/427,0.225652;0.224238;0.224003,narrative_therapy_corpus,benchmark_v1,310,22.787,2026-10-06T14:29:03.351446+00:00
+Qwen3-8B__RAG__Q19,Qwen3-8B,qwen3:8b,RAG,19,My partner and I misinterpret texts and end up arguing,"It sounds like you're feeling frustrated when you and your partner misinterpret texts and end up in arguments. That can be really draining, especially when it feels like you're not truly understanding each other. It’s important to acknowledge how hard it can be to navigate these moments, and it’s completely normal to feel that way.
+
+From the stories, we see how important it is to listen fully and speak with clarity—like Hanuma and Sugreeva did. Maybe you can try approaching these conversations with more curiosity than judgment. Instead of assuming the worst, ask yourself, *“What might they be trying to say?”* and *“How can I better understand their perspective?”*
+
+A practical step could be to pause before responding. Take a few deep breaths and let the emotions settle. This can help you respond with more clarity and less reactivity. Another idea is to set aside specific times to talk about these misunderstandings, so you can both focus on resolving them without the pressure of an ongoing argument.
+
+Lastly, consider asking your partner how they feel when these moments happen. Sometimes, sharing your own feelings and listening to theirs can help build a stronger connection. You’re not alone in this, and it’s a sign of care that you’re looking for ways to improve your communication. If things feel overwhelming, don’t hesitate to reach out to a trusted friend or a professional for support. You’re doing important work by wanting to connect more deeply.",ramayanam:Dataset_ramayanam/kishkindhakanda/605;ramayanam:Dataset_ramayanam/kishkindhakanda/599;ramayanam:Dataset_ramayanam/kishkindhakanda/612,0.283788;0.267082;0.250358,narrative_therapy_corpus,benchmark_v1,293,19.44,2026-10-06T14:29:22.947793+00:00
+Qwen3-8B__RAG__Q20,Qwen3-8B,qwen3:8b,RAG,20,I can't stand being corrected; it feels like a blow to my identity.,"It’s completely natural to feel that way—being corrected can feel like a challenge to who you are, especially when it’s tied to how you see yourself. Your feelings are valid, and it’s important to honor them. It sounds like you're struggling with a deep sense of self, and that’s something worth exploring gently.
+
+In the *Bhagavad Gita*, Krishna reminds us that staying true to our own nature—our *Svadharma*—is more important than trying to fit into someone else’s expectations. This can be a powerful reminder that your identity is not defined by others’ opinions or corrections. You are allowed to hold space for your own truth, even when it feels uncomfortable.
+
+If you're feeling overwhelmed by feedback, here are a few practical steps you might try:  
+1. **Pause and reflect**—before reacting, take a moment to ask yourself, *“Does this feedback come from a place of care or criticism?”* This can help you distinguish between constructive input and unhelpful judgment.  
+2. **Set boundaries**—it’s okay to say, *“I’m not ready to hear that right now,”* or *“I need time to process this.”* You deserve to feel safe in your own skin.  
+3. **Seek support**—talk to someone you trust, or consider reaching out to a counselor who can help you navigate these feelings in a compassionate space.
+
+You are not alone in this, and your voice matters. You deserve to be seen and heard.",mahabharat:712;ramayanam:Dataset_ramayanam/kishkindhakanda/603;mahabharat:691,0.192673;0.159439;0.139003,narrative_therapy_corpus,benchmark_v1,312,21.464,2026-10-06T14:29:44.566747+00:00
+Qwen3-8B__RAG__Q21,Qwen3-8B,qwen3:8b,RAG,21,I often think I'm not good enough compared with peers.,"It’s completely natural to feel this way, and it’s a sign that you're deeply aware of your own worth and the expectations around you. The Bhagavad Gita reminds us that it’s far better to stay true to your own path, even if it feels imperfect. Comparing yourself to others can create a sense of inadequacy, but your unique journey is valuable in its own right.
+
+Let’s take a moment to acknowledge how hard this can be. You’re not alone in feeling this way, and it’s okay to feel unsure. One practical step is to reflect on what truly matters to you—what brings you a sense of purpose or fulfillment. This can help you reconnect with your own values and strengths.
+
+Another step is to practice self-compassion. Instead of being overly critical, try to treat yourself with the same kindness you’d offer a friend. Remind yourself that growth is a process, and it’s okay to have moments of doubt.
+
+Lastly, consider sharing your feelings with someone you trust. Sometimes, talking through your thoughts can bring clarity and comfort. If you ever feel overwhelmed or in distress, please reach out to a mental health professional or a local crisis support line—they’re here to help. You are worthy, and your journey is meaningful.",mahabharat:712;gita:gita_chapter3_verse_files/427;gita:gita_chapter3_verse_files/436,0.260632;0.244647;0.232631,narrative_therapy_corpus,benchmark_v1,258,17.319,2026-10-06T14:30:01.994501+00:00
+Qwen3-8B__RAG__Q22,Qwen3-8B,qwen3:8b,RAG,22,All I do is code and study; I feel alone and drained.,"I'm so sorry you're feeling this way. It sounds like you're carrying a heavy load, and it's natural to feel alone even when you're surrounded by work and responsibilities. It's okay to feel drained and isolated—your feelings are valid, and you're not alone in this.
+
+I can imagine how it might feel like the world is moving on while you're stuck in a place of emotional emptiness, much like Rama felt when he saw the birds united with their mates and felt a deep ache of separation. It’s as if the joy around you feels distant, and your heart is left in silence, echoing with unspoken pain.
+
+Here are a few practical steps you might try:  
+1. **Set small boundaries**—even a 10-minute break from work can help you reconnect with yourself. Try stepping outside for a walk or simply sitting quietly.  
+2. **Reach out to someone**—you don’t have to carry this alone. A friend, family member, or even a support group can offer a listening ear.  
+3. **Write down your feelings**—sometimes putting thoughts on paper can help you process them and feel a little lighter.
+
+You're not alone in feeling this way, and it's okay to take things one step at a time. If you ever feel overwhelmed or in distress, please reach out to a trusted person or a local crisis support line. You matter, and your feelings are important.",ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/563;ramayanam:Dataset_ramayanam/kishkindhakanda/559,0.226666;0.207555;0.206397,narrative_therapy_corpus,benchmark_v1,294,19.073,2026-10-06T14:30:21.202516+00:00
+Qwen3-8B__RAG__Q23,Qwen3-8B,qwen3:8b,RAG,23,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?,"I'm so sorry you're feeling emotionally drained after such a sudden change—it's completely normal to feel overwhelmed in this situation. It's like standing in the middle of a storm, trying to find your footing, and that can be exhausting.
+
+You're not alone in this. Just as King Yudhishthira found clarity through wisdom and purpose, you can too. Take a moment to acknowledge your feelings without judgment. It's okay to feel lost or tired. Try to connect with something that brings you comfort, whether it's a person, a place, or a quiet moment of reflection.
+
+Here are a few practical steps you can take:  
+1. **Give yourself space to rest**—even a short break can help your mind and body reset.  
+2. **Talk to someone you trust**—sharing your feelings can lighten the emotional load.  
+3. **Focus on small, manageable tasks**—this can help you regain a sense of control and purpose.
+
+Remember, healing is a process, and it's okay to move at your own pace. If you ever feel overwhelmed or in need of support, don't hesitate to reach out to a trusted friend, family member, or a mental health professional. You're not alone, and help is always available. Take care.",mahabharat:700;gita:gita_chapter2_verse_files/380;mahabharat:707,0.280075;0.266670;0.264263,narrative_therapy_corpus,benchmark_v1,261,18.945,2026-10-06T14:30:40.316577+00:00
+Qwen3-8B__RAG__Q24,Qwen3-8B,qwen3:8b,RAG,24,Why do I get so attached to people that their absence breaks me?,"Your experience of feeling deeply attached and broken by absence is very real, and it's a sign of a heart that cares deeply—something beautiful and meaningful. It sounds like you're carrying a lot of emotional weight, and that’s okay. It’s natural to feel this way when we form strong connections with others.
+
+From the wisdom of the Bhagavad Gita, we see that attachment begins with contemplation—when we dwell on someone or something, it can lead to emotional entanglement. This is not a flaw, but a reflection of your capacity to love and care. It’s important to honor that, rather than judge yourself for it.
+
+Here are a few practical steps you might try:  
+1. **Notice your thoughts**—when you feel the pull of attachment, pause and acknowledge it without judgment. This awareness can help you intercept the cycle before it deepens.  
+2. **Express your feelings**—sharing your emotions with someone you trust can be healing. You don’t have to carry this alone.  
+3. **Focus on self-care**—engage in activities that bring you comfort and peace, like journaling, walking, or creative expression. These can help you feel more grounded.
+
+You are not alone in this, and your feelings are valid. If you ever feel overwhelmed, please reach out to a trusted friend, counselor, or local support service. You deserve care and understanding.",mahabharat:732;gita:gita_chapter2_verse_files/391;ramayanam:Dataset_ramayanam/kishkindhakanda/539,0.290664;0.290533;0.285607,narrative_therapy_corpus,benchmark_v1,286,19.751,2026-10-06T14:31:00.231080+00:00
+Qwen3-8B__RAG__Q25,Qwen3-8B,qwen3:8b,RAG,25,I'm unable to let go of my disappointment after a failure. I feel stuck.,"It’s completely natural to feel stuck after a disappointment—it’s a sign that you care deeply and are reflecting on what matters to you. The Ramayana reminds us that despair can feel like a heavy weight, making it hard to move forward. You're not alone in this, and it’s okay to feel this way.
+
+One helpful step is to acknowledge your feelings without judgment. You’ve already taken an important step by recognizing that you're stuck. Try writing down what you're feeling, or sharing it with someone you trust. Sometimes, simply expressing your emotions can lighten the load.
+
+Another idea is to focus on small actions that feel manageable. For example, take a short walk, call a friend, or do something that brings you a little comfort. These small steps can help rebuild a sense of agency and remind you that you are capable of moving forward, even when it feels difficult.
+
+Lastly, consider reflecting on what this disappointment might be teaching you. Like King Yudhisthira, you may be going through a time of deep reflection. Allow yourself to feel the sadness, but also remember that growth often comes after we’ve faced our struggles.
+
+You are not defined by this moment. You are still strong, and healing takes time. If you ever feel overwhelmed, please reach out to a trusted friend, family member, or a mental health professional. You don’t have to face this alone.",ramayanam:Dataset_ramayanam/kishkindhakanda/580;mahabharat:730;ramayanam:Dataset_ramayanam/kishkindhakanda/549,0.350036;0.320460;0.310430,narrative_therapy_corpus,benchmark_v1,282,18.787,2026-10-06T14:31:19.181245+00:00
+Qwen3-8B__RAG__Q26,Qwen3-8B,qwen3:8b,RAG,26,"My emotions fluctuate drastically-one moment I'm happy, then overwhelmed. Why?","It’s completely natural to feel emotions shifting so quickly—like the seasons described in the Bhagavad Gita. Just as Krishna reminds us that pleasure and pain are fleeting, your emotions are also temporary, and that’s okay. It’s not a sign of weakness, but rather a part of being human.
+
+Sometimes, our minds can feel restless, even when the world around us is calm—like Rama felt in the Ramayana. That restlessness is a sign that your inner world is still adjusting, and it’s important to be gentle with yourself during these moments.
+
+Here are a few practical steps you can try:
+
+1. **Pause and Breathe**: When emotions feel overwhelming, take a few deep breaths. This can help you create a moment of calm and give your mind space to settle.
+
+2. **Reflect with Kindness**: Ask yourself, “What am I feeling right now?” and “What do I need to feel better?” This can help you connect with your emotions without judgment.
+
+3. **Practice Radical Acceptance**: Like Krishna taught Arjuna, try to see your emotions as temporary. They will come and go, just like the seasons. This can help you feel less burdened by them.
+
+You’re not alone in this, and it’s okay to feel this way. If you ever feel overwhelmed or in distress, please reach out to a trusted friend, family member, or a mental health professional. You deserve support and care.",mahabharat:720;ramayanam:Dataset_ramayanam/kishkindhakanda/565;mahabharat:707,0.322107;0.313879;0.310341,narrative_therapy_corpus,benchmark_v1,298,19.876,2026-10-06T14:31:39.218147+00:00
+Qwen3-8B__RAG__Q27,Qwen3-8B,qwen3:8b,RAG,27,I feel fear when facing new challenges. I avoid trying,"It's completely natural to feel fear when facing new challenges, and it's okay to feel overwhelmed. Just like Sugreeva in the Ramayana, you may feel paralyzed by fear, unsure how to move forward. This is a sign that your mind is trying to protect you, but it can also hold you back from growth. You're not alone in this feeling.
+
+One step you can take is to acknowledge your fear without judgment. Try saying to yourself, “I feel scared, but I’m doing my best.” This can help you feel more grounded. Next, break the challenge into smaller, manageable steps. For example, if you're afraid of public speaking, start by speaking up in a small group or even to yourself. Each small step builds confidence over time.
+
+Lastly, consider reaching out to someone you trust—whether a friend, family member, or a mental health professional. Sharing your feelings can lighten the load and remind you that you don’t have to face everything alone. If you ever feel overwhelmed or in immediate danger, please reach out to a local crisis line or emergency service. You are not alone, and help is available. You are brave for facing these feelings, and with time and support, you can move forward with more confidence.",ramayanam:Dataset_ramayanam/kishkindhakanda/589;ramayanam:Dataset_ramayanam/kishkindhakanda/608;ramayanam:Dataset_ramayanam/kishkindhakanda/679,0.440471;0.388920;0.375869,narrative_therapy_corpus,benchmark_v1,254,16.848,2026-10-06T14:31:56.218882+00:00
+Qwen3-8B__RAG__Q28,Qwen3-8B,qwen3:8b,RAG,28,I constantly feel like I'm not good enough compared to others.,"It’s completely natural to feel this way, and it’s important to acknowledge that these feelings are valid. The Bhagavad Gita reminds us that it’s far better to stay true to your own path, even if it’s not perfect, than to try to live someone else’s life. Comparing yourself to others can create a sense of inadequacy, but your unique journey is what truly matters.
+
+One practical step is to reflect on what feels authentic to you—what brings you joy, peace, or a sense of purpose. Try to focus on your own growth rather than others’ achievements. Another step is to practice self-compassion. When you catch yourself comparing, gently remind yourself that everyone has their own struggles and strengths.
+
+Lastly, consider journaling about your feelings. Writing can help you process emotions and gain clarity. If these thoughts feel overwhelming, reaching out to a trusted friend, counselor, or support group can provide comfort and guidance. You are not alone, and your worth is not defined by comparison. You are already doing your best, and that is enough.",mahabharat:712;gita:gita_chapter3_verse_files/436;mahabharat:688,0.224875;0.195851;0.195458,narrative_therapy_corpus,benchmark_v1,219,14.965,2026-10-06T14:32:11.354445+00:00
+Qwen3-8B__RAG__Q29,Qwen3-8B,qwen3:8b,RAG,29,I feel lonely even in a crowd. No one understands me.,"I'm so sorry you're feeling this way. It's really hard to feel lonely even when surrounded by people, and it must be really painful that no one seems to understand you. It’s like you're carrying a heavy heart, and sometimes it feels like the world around you is moving on without you. That kind of loneliness can feel overwhelming, and it’s okay to feel that way.
+
+In the story, Rama felt a deep sense of loneliness when he saw birds and peacocks united with their mates, and it made his heart ache. It’s similar to how you might feel when you see others connected in ways you long for. Your feelings are valid, and it’s not a sign of weakness to feel this way.
+
+Here are a few practical steps you might try:  
+1. **Reach out to someone you trust**—even if it’s just a short message or a call. Sometimes sharing your feelings, even with one person, can help you feel less alone.  
+2. **Try to connect with others in small, meaningful ways**—like joining a group or activity that interests you. Sometimes, shared interests can help build real connections.  
+3. **Take time for yourself**—do something that brings you comfort or peace, like reading, walking, or journaling. It’s okay to take space to process your emotions.
+
+You’re not alone in feeling this way, and it’s okay to ask for support. If you ever feel overwhelmed or in distress, please reach out to a trusted friend, family member, or a mental health professional. You deserve care and understanding.",ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/559;ramayanam:Dataset_ramayanam/kishkindhakanda/523,0.336071;0.300905;0.239877,narrative_therapy_corpus,benchmark_v1,325,21.307,2026-10-06T14:32:32.835985+00:00
+Qwen3-8B__RAG__Q30,Qwen3-8B,qwen3:8b,RAG,30,I keep replaying bad memories- can't move on.,"It’s so brave of you to share how you're feeling. Replaying bad memories can feel like a heavy weight, and it’s completely normal to feel stuck in that cycle. You're not alone in this, and it’s okay to feel overwhelmed.
+
+From the stories, we see that people have faced similar struggles. Like King Yudhisthira, who felt deep regret but found strength in remembering that sorrow is part of life’s cycle. And like Rama, who found comfort in recalling joyful moments with Seetha, even in the midst of grief. These stories remind us that it’s okay to hold onto memories, even painful ones, as part of healing.
+
+Here are a few practical steps you might try:
+
+1. **Write down the memory** in a journal. Sometimes putting thoughts on paper can help you process them more clearly and feel less trapped by them.
+
+2. **Try to reframe the memory** by asking yourself, “What did I learn from this?” or “How has this shaped me?” This can help shift your focus from the pain to the growth.
+
+3. **Engage in a grounding activity** like walking, listening to music, or spending time in nature. These can help you feel more present and reduce the pull of the past.
+
+You’re doing important work by acknowledging these feelings. If you ever feel overwhelmed, please reach out to a trusted friend, counselor, or local crisis support. You are not alone.",mahabharat:730;ramayanam:Dataset_ramayanam/kishkindhakanda/511;gita:gita_chapter4_verse_files/454,0.272365;0.268669;0.254612,narrative_therapy_corpus,benchmark_v1,295,19.879,2026-10-06T14:32:52.849276+00:00
+Qwen3-8B__RAG__Q31,Qwen3-8B,qwen3:8b,RAG,31,I feel like no one appreciates what I do,"It’s so painful to feel unseen, and it’s completely okay to feel that way. Your efforts matter, even if they aren’t always recognized. Sometimes, people are so focused on their own lives that they don’t notice the quiet, steady support others provide. But that doesn’t mean your work is any less valuable.
+
+Let’s take a moment to reflect on what you do. Are there specific things you do that bring you joy or a sense of purpose? Even if others don’t acknowledge it, your actions can still make a meaningful difference in the world. Like Krishna, who chose to act out of duty and care, not because he had to, you might find strength in continuing to show up with intention.
+
+Another way to shift your perspective is to think about how your work might be helping others, even in small ways. Sometimes, the impact isn’t immediate or visible, but it’s real. If you’re feeling stuck, try writing down a few things you’re proud of or how you’ve helped someone. This can help you reconnect with your own worth.
+
+Next steps:  
+1. Write down 3 things you’ve done recently that made you feel fulfilled or proud.  
+2. Share one of those moments with someone you trust—maybe a friend or family member.  
+3. If you’re feeling overwhelmed, consider reaching out to a mental health professional for support. You don’t have to face this alone.  
+
+You are not invisible. Your contributions are important, and you are worthy of appreciation.",gita:gita_chapter3_verse_files/423;gita:gita_chapter2_verse_files/378;gita:gita_verse_files/299,0.214632;0.209460;0.191127,narrative_therapy_corpus,benchmark_v1,306,22.2,2026-10-06T14:33:15.218721+00:00
+Qwen3-8B__RAG__Q32,Qwen3-8B,qwen3:8b,RAG,32,I avoid responsibilities because I fear I'll fail.,"I hear how heavy that fear feels, and it’s okay to feel that way. It’s natural to worry about not meeting expectations, especially when the outcome feels uncertain. The Gita reminds us that we are not responsible for the results of our actions—only for the effort we put into them. When we focus on doing our best, rather than trying to control the outcome, we free ourselves from the weight of perfectionism and fear of failure.
+
+You’re not alone in feeling this way. Many people struggle with the pressure to succeed and the fear of not being good enough. But remember, your worth isn’t tied to your performance. What matters is showing up, even when it’s hard.
+
+Here are a few practical steps you can try:  
+1. **Start small**—pick one responsibility you’ve been avoiding and commit to doing just a little bit of it. Focus on the action, not the outcome.  
+2. **Talk to someone** you trust—whether a friend, family member, or counselor. Sharing your feelings can lighten the load and help you feel supported.  
+3. **Reflect on your values**—what matters most to you? Aligning your actions with your values can give you a sense of purpose and reduce the pressure to please others.
+
+You’re doing important work by acknowledging these feelings. You don’t have to face them alone. If you ever feel overwhelmed or in immediate danger, please reach out to a local crisis line or mental health professional—they’re here to help. You’re not failing; you’re growing.",gita:gita_chapter2_verse_files/376;gita:gita_chapter4_verse_files/485;gita:gita_chapter3_verse_files/436,0.376381;0.333792;0.332318,narrative_therapy_corpus,benchmark_v1,314,21.458,2026-10-06T14:33:36.807248+00:00
+Qwen3-8B__RAG__Q33,Qwen3-8B,qwen3:8b,RAG,33,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?,"I'm so sorry you're feeling emotionally drained after such a sudden change—it's completely normal to feel overwhelmed in this situation. It's like standing in the middle of a storm, trying to find your footing, and that can be exhausting.
+
+You're not alone in this. Just as King Yudhishthira found clarity through wisdom and purpose, you can too. Start by allowing yourself to feel what you're feeling without judgment. It's okay to be tired, confused, or even sad. Give yourself permission to rest and process.
+
+Next, try to focus on small, manageable steps. Maybe take a walk, write down your thoughts, or talk to someone you trust. These small actions can help you regain a sense of control and calm.
+
+Lastly, remember that change, while difficult, can also bring new opportunities. Like Krishna's teachings remind us, life has its seasons—sometimes we must endure discomfort to grow. You don't have to face this alone. If you ever feel overwhelmed, reach out to a trusted friend, counselor, or local support group. You're not alone, and help is available. Take care.",mahabharat:700;gita:gita_chapter2_verse_files/380;mahabharat:707,0.280075;0.266670;0.264263,narrative_therapy_corpus,benchmark_v1,229,15.951,2026-10-06T14:33:52.921306+00:00
+Qwen3-8B__RAG__Q34,Qwen3-8B,qwen3:8b,RAG,34,"I want to get job in a top mnc like oracle, ibm... i had tried in ibm but i went to interview round and get disqualified so i'm somewhat depressed.","I'm really sorry to hear you're feeling this way. It's completely natural to feel disappointed after putting in so much effort and not getting the outcome you hoped for. Your feelings of sadness and frustration are valid, and it's okay to feel that way.
+
+Let’s remember that one interview doesn't define your worth or your future. Just like Hanuman was reminded of his strength when he felt defeated, you have so much potential and capability. You've already taken a big step by applying and going through the interview process. That’s a huge accomplishment in itself.
+
+Here are a few practical steps you can take next:  
+1. **Reflect and Learn**: Review the interview experience to understand where you might have fallen short. Did you struggle with certain questions or feel nervous? Use this as a learning opportunity to grow.  
+2. **Recharge and Reconnect**: Take some time to rest, do something you enjoy, and reconnect with people who support you. Your mental and emotional well-being is just as important as your career goals.  
+3. **Stay Persistent**: Keep applying and preparing. Many successful people faced setbacks before achieving their goals. You're not alone in this journey.
+
+You are capable, and your journey is still unfolding. I believe in you. If you ever feel overwhelmed, don’t hesitate to reach out to someone you trust or seek professional support. You're not alone.",mahabharat:718;ramayanam:Dataset_ramayanam/kishkindhakanda/604;mahabharat:721,0.188395;0.183177;0.154790,narrative_therapy_corpus,benchmark_v1,281,18.692,2026-10-06T14:34:11.817605+00:00
+Qwen3-8B__RAG__Q35,Qwen3-8B,qwen3:8b,RAG,35,I lost many opportunities... whereas my friends got many opportunities where they have done malpractices... what to do should i copy or write in a genuine way.,"It’s understandable to feel frustrated and overwhelmed when comparing your experiences to others, especially when it feels like they’ve had more success—sometimes through paths that don’t align with your values. Krishna’s teachings remind us that it’s far better to stay true to your own path, even if it’s not the easiest or most popular. You don’t need to copy others’ ways to succeed; your authentic journey is valuable in itself.
+
+First, take a moment to reflect on what truly matters to you. What values guide your decisions? What kind of person do you want to be? These questions can help you reconnect with your own purpose. Second, consider writing down your thoughts in a journal. This can be a safe space to process your feelings and clarify your intentions. Third, reach out to someone you trust—whether a friend, family member, or counselor—to share your struggles. You don’t have to face this alone.
+
+Remember, your worth isn’t defined by the opportunities you’ve had, but by the integrity with which you live your life. You have the strength to move forward in your own way. If you ever feel overwhelmed, please reach out to a local crisis support line—they’re here to help. You are not alone.",mahabharat:712;gita:gita_chapter3_verse_files/436;mahabharat:730,0.268860;0.246660;0.211354,narrative_therapy_corpus,benchmark_v1,249,16.6,2026-10-06T14:34:28.599835+00:00
+Qwen3-8B__RAG__Q36,Qwen3-8B,qwen3:8b,RAG,36,I dont have enough money to survive because of that i am felling sad and i cant enjoy my life happily so what is the solution for that.,"I'm so sorry you're feeling this way. It's completely natural to feel sad and overwhelmed when life feels uncertain, especially when money is a source of stress. Your feelings are valid, and it's okay to feel this way. You're not alone in this struggle.
+
+From the story of King Yudhisthira, we learn that even great leaders face moments of deep regret and sorrow. But they find strength in knowing that time moves forward, and challenges can be overcome with patience and resilience. Your situation may feel heavy now, but it doesn’t define your future.
+
+Here are a few practical steps you can take:  
+1. **Talk to someone you trust**—a friend, family member, or counselor. Sharing your feelings can lighten the load and help you feel supported.  
+2. **Break your goals into small steps**—focus on what you can control today, like applying for jobs, reaching out for help, or budgeting. Small actions can build hope.  
+3. **Take care of your mental and physical health**—even a short walk, deep breathing, or a warm meal can make a difference in how you feel.
+
+Remember, your worth is not tied to your financial situation. You are still valuable, and there are people who care about you. If you ever feel overwhelmed or in immediate danger, please reach out to a local crisis line or emergency service—they are here to help. You are not alone.",mahabharat:730;mahabharat:717;gita:gita_chapter2_verse_files/338,0.263145;0.241621;0.241068,narrative_therapy_corpus,benchmark_v1,293,19.8,2026-10-06T14:34:48.581540+00:00
+Qwen3-8B__RAG__Q37,Qwen3-8B,qwen3:8b,RAG,37,I am getting demotivated like what to do in life so what should i do,"It's completely natural to feel demotivated at times, and it's okay to feel unsure about what to do next. Your feelings are valid, and it's important to be gentle with yourself during this period. Let’s explore a few steps that might help you move forward with more clarity and calm.
+
+First, consider reflecting on what brings you a sense of purpose or fulfillment, even if it's small. Sometimes, reconnecting with activities or values that once inspired you can reignite a spark of motivation. If you're feeling stuck, it might help to break things down into smaller, manageable steps. Focus on one thing at a time, and celebrate each small achievement—this can build momentum over time.
+
+Second, try to approach your current situation with the same mindset as Yudhisthira: doing what is right not for reward, but because it feels right. This doesn’t mean you have to have all the answers right now—it simply means showing up for yourself and your values, even when it feels difficult.
+
+Lastly, consider reaching out to someone you trust or seeking support from a counselor. Sometimes, talking through your feelings can provide clarity and comfort. You are not alone, and there is strength in seeking help. Take care, and remember that growth often happens through patience and persistence.",gita:gita_chapter3_verse_files/427;mahabharat:715;mahabharat:709,0.307490;0.277914;0.273535,narrative_therapy_corpus,benchmark_v1,261,17.759,2026-10-06T14:35:06.485741+00:00
+Qwen3-8B__RAG__Q38,Qwen3-8B,qwen3:8b,RAG,38,How can I fight loneliness? im too shy to talk to others.,"It’s so brave of you to share how you're feeling. Loneliness can feel heavy, especially when it’s hard to reach out. Just like Rama felt a deep ache when he saw birds united with their mates, it’s natural to feel a sense of separation when we’re struggling to connect. Your shyness doesn’t make your feelings any less valid—it just shows how deeply you care about meaningful connections.
+
+One step you could take is to start small. Maybe try saying “hello” to someone you already know, or write a short message to a friend. Even a simple gesture can help ease the feeling of isolation. Another idea is to join a group or activity that interests you—whether it’s a class, a hobby, or an online community. Sometimes, shared interests can help break the ice and create a sense of belonging.
+
+Lastly, remember that it’s okay to feel this way. You don’t have to be alone in your struggle. If you ever feel overwhelmed, reaching out to a trusted friend, counselor, or support group can make a big difference. You’re not alone, and your feelings matter. Take it one step at a time—you’re doing important work by being honest with yourself. 💛",ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/559;ramayanam:Dataset_ramayanam/kishkindhakanda/563,0.330806;0.262040;0.243304,narrative_therapy_corpus,benchmark_v1,248,16.011,2026-10-06T14:35:22.642156+00:00
+Qwen3-8B__RAG__Q39,Qwen3-8B,qwen3:8b,RAG,39,I went through divorce recently so i am in a state of mental trauma.,"I'm so sorry to hear about your divorce and the pain you're experiencing. It's completely natural to feel overwhelmed and in a state of mental trauma after such a significant life change. You're not alone in this, and your feelings are valid.
+
+Just as King Yudhishthira found comfort in the wisdom of sages after his own losses, you can also seek support from trusted friends, family, or a therapist. Remember, healing is a process, and it's okay to take time to grieve and adjust.
+
+Here are a few practical steps you might consider:  
+1. **Talk to someone you trust**—sharing your feelings can lighten the emotional burden and help you feel more connected.  
+2. **Engage in self-care activities** like journaling, walking, or meditation to help manage your emotions and bring a sense of calm.  
+3. **Consider reaching out to a mental health professional** if the pain feels too heavy to carry alone. They can offer personalized guidance and support.
+
+You are not defined by this loss, and your strength is evident in how you're facing this challenge. Take it one day at a time, and remember that healing is possible with patience and care. You are worthy of compassion and support.",mahabharat:731;mahabharat:730;mahabharat:715,0.280895;0.276400;0.271361,narrative_therapy_corpus,benchmark_v1,254,17.235,2026-10-06T14:35:40.029128+00:00
+Qwen3-8B__RAG__Q40,Qwen3-8B,qwen3:8b,RAG,40,I am having love failure how to get rid of the trauma.,"I'm so sorry you're feeling this way. Love failure can leave deep emotional wounds, and it's completely normal to feel the weight of that trauma. It's important to remember that your feelings are valid, and you're not alone in this.
+
+Just like Sugreeva once feared Vali's return, you may still carry echoes of past pain, but those fears no longer have power over you. You are safe now, and healing is possible. If you're feeling overwhelmed, try writing down your emotions in a journal—it can help you process and release what's holding you back.
+
+Next, consider reaching out to someone you trust—whether a friend, family member, or a mental health professional. Sharing your feelings can be incredibly healing. If you're in immediate distress or feeling hopeless, please reach out to a local crisis line or emergency service. You don't have to face this alone.
+
+Lastly, take small steps toward self-compassion. Treat yourself with the same kindness you'd offer a friend. Healing takes time, and it's okay to move at your own pace. You are worthy of love and support, and your journey is valid. You're not defined by this pain—your strength and resilience are real. You're not alone.",ramayanam:Dataset_ramayanam/kishkindhakanda/602;mahabharat:731;mahabharat:704,0.389785;0.369270;0.366321,narrative_therapy_corpus,benchmark_v1,253,17.709,2026-10-06T14:35:57.887571+00:00

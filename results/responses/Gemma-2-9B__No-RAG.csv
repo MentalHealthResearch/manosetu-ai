@@ -1,0 +1,499 @@
+answer_id,model,model_tag,condition,question_id,question_text,response_text,retrieved_story_ids,retrieval_scores,rag_collection,prompt_version,generation_tokens,generation_seconds,generated_at_utc
+Gemma-2-9B__No-RAG__Q01,Gemma-2-9B,gemma2:9b,No-RAG,1,My parents expect me to crack competitive exams and secure a government job. The pressure is killing me—what do I do?,"It sounds like you're feeling incredibly overwhelmed by the pressure your parents are putting on you. It's completely understandable to feel that way – those expectations can be really heavy to carry.  
+
+Your feelings are valid, and it's important to acknowledge the stress you're experiencing.  Remember, your worth isn't defined by your exam results or job title. 
+
+Here are a few things that might help:
+
+1. **Talk to your parents:**  Try having an open and honest conversation with them about how their expectations are making you feel. Explain that you need their support, not just pressure. 
+2. **Find healthy coping mechanisms:**  Explore activities that help you manage stress, like exercise, spending time in nature, or practicing mindfulness. 
+3. **Seek support:**  Talking to a trusted friend, family member, or counselor can provide you with a safe space to process your feelings and gain perspective. 
+
+
+Remember, you're not alone in this.  
+",,,,benchmark_v1,207,21.012,2026-09-27T15:29:06.975291+00:00
+Gemma-2-9B__No-RAG__Q02,Gemma-2-9B,gemma2:9b,No-RAG,2,I get nervous even saying my name during introductions. What if people judge me?,"It's completely understandable to feel nervous about introductions, especially when you're worried about being judged.  It's a common feeling, and you're not alone in experiencing it. 
+
+Your feelings are valid, and it's brave of you to acknowledge them.  
+
+Here are a few things that might help:
+
+1. **Practice:** Try saying your name out loud a few times before an introduction.  You could even practice with a friend or family member for a bit of extra support. 
+2. **Focus on your breath:** When you feel nervous, take a few deep breaths to calm yourself down.  This can help center you and make you feel more at ease.
+3. **Remember:** Most people are too focused on themselves to be judging you harshly. They're probably just as nervous about making a good impression as you are. 
+
+
+If you find these feelings are overwhelming or interfering with your daily life, consider reaching out to a mental health professional for additional support.  
+",,,,benchmark_v1,210,20.97,2026-09-27T15:29:27.959361+00:00
+Gemma-2-9B__No-RAG__Q03,Gemma-2-9B,gemma2:9b,No-RAG,3,"My grandmother is unwell, and I'm terrified she might pass away. I can't function properly","It's completely understandable that you're terrified.  Losing a loved one is incredibly difficult, and the uncertainty can be especially hard to cope with. It's also normal to feel like you can't function properly when you're dealing with such intense emotions. 
+
+Your feelings are valid, and it's important to allow yourself to grieve and process this fear.  
+
+Here are a few things that might help:
+
+1. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or therapist can provide comfort and support. 
+2. **Focus on spending quality time with your grandmother:**  Even small moments of connection can be meaningful. 
+3. **Practice self-care:**  Make sure you're eating healthy, getting enough sleep, and engaging in activities that bring you joy. 
+
+Remember, you're not alone in this.  If you're feeling overwhelmed, please reach out to a crisis hotline or mental health professional for additional support. 
+",,,,benchmark_v1,210,20.867,2026-09-27T15:29:48.837888+00:00
+Gemma-2-9B__No-RAG__Q04,Gemma-2-9B,gemma2:9b,No-RAG,4,My best friend ghosted me after years of trust. I feel lost and worthless,"It's completely understandable that you feel lost and worthless after your best friend ghosted you.  Years of trust broken can be incredibly painful, and it's okay to feel hurt and confused.  
+
+Remember that their actions reflect more on them than on you.  It doesn't mean you're not worthy of friendship or love.  
+
+Here are a few things that might help:
+
+1. **Allow yourself to grieve the loss of the friendship.**  It's okay to feel sad, angry, and even betrayed. Don't try to suppress these feelings.
+2. **Reach out to other supportive friends or family members.**  Talking about how you're feeling can be helpful. 
+3. **Focus on self-care.**  Do things that make you feel good, like spending time in nature, listening to music, or engaging in hobbies you enjoy. 
+
+
+Remember, you're not alone in this.  Healing takes time, be patient with yourself. 
+",,,,benchmark_v1,207,20.544,2026-09-27T15:30:09.389460+00:00
+Gemma-2-9B__No-RAG__Q05,Gemma-2-9B,gemma2:9b,No-RAG,5,I've been rejected from five interviews in a row. I feel like a failure and can't get back up.,"It's completely understandable to feel discouraged after facing several rejections. It's tough to put yourself out there and not get the results you hoped for.  Know that your feelings of disappointment and frustration are valid.  
+
+It's important to remember that job searching can be a long and challenging process. Five rejections don't define your worth or abilities.  
+
+Here are a few things that might help:
+
+1. **Take some time for self-care:**  Do something that brings you joy and helps you relax. This could be spending time with loved ones, engaging in a hobby, or simply taking a break.
+2. **Reflect on the interviews:**  Think about what went well and what you could improve for next time.  
+3. **Reach out for support:**  Talk to a friend, family member, or career counselor about how you're feeling.  
+
+Remember, you're not alone in this journey. Keep going, and don't give up on yourself. 
+",,,,benchmark_v1,211,21.273,2026-09-27T15:30:30.670267+00:00
+Gemma-2-9B__No-RAG__Q06,Gemma-2-9B,gemma2:9b,No-RAG,6,"I was wrongly accused of something in my hostel group chat, and I feel furious. I want revenge.","It's completely understandable that you're feeling furious. Being wrongly accused can be incredibly hurtful and frustrating. Feeling a desire for revenge is a natural reaction to that kind of injustice. 
+
+However, revenge often leads to more pain and complications in the long run. It's important to find healthier ways to process these feelings. 
+
+Here are a few things that might help:
+
+1. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or counselor can help you process what happened and feel supported. 
+2. **Focus on self-care:** Engage in activities that bring you joy and help you relax, like exercise, spending time in nature, or listening to music. 
+3. **Consider addressing the situation directly:** If you feel comfortable, you could calmly and respectfully explain your side of the story to the people involved in the group chat. 
+
+Remember, you deserve to be treated with respect. Focus on taking care of yourself and finding constructive ways to move forward. 
+
+
+",,,,benchmark_v1,211,20.51,2026-09-27T15:30:51.187771+00:00
+Gemma-2-9B__No-RAG__Q07,Gemma-2-9B,gemma2:9b,No-RAG,7,One moment I'm super confident; next I feel like I'll fail everything. I hate this instability.,"It sounds incredibly frustrating to experience such a rollercoaster of emotions. Feeling confident one moment and then overwhelmed with doubt the next is tough to navigate.  
+
+It's important to remember that your feelings are valid, and you're not alone in experiencing these shifts. Many people go through periods of emotional instability. 
+
+Here are a few things that might help:
+
+1. **Practice mindfulness:** Try focusing on your breath and being present in the moment. This can help ground you when you feel your emotions shifting. 
+2. **Journaling:** Writing down your thoughts and feelings can be a helpful way to process them and identify any patterns.
+3. **Talk to someone you trust:** Sharing your experience with a friend, family member, or therapist can provide support and perspective. 
+
+
+Remember, taking care of your mental health is a journey, and it's okay to ask for help along the way. 
+",,,,benchmark_v1,189,18.655,2026-09-27T15:31:09.849586+00:00
+Gemma-2-9B__No-RAG__Q08,Gemma-2-9B,gemma2:9b,No-RAG,8,"I like someone, but I don't know if I'm good enough for them. I overthink everything.","It's completely normal to feel unsure about whether you're ""good enough"" for someone you like.  Those feelings of self-doubt can be really tough to deal with, especially when overthinking gets involved.  
+
+Remember, your worth isn't determined by someone else's opinion. You are valuable and deserving of love just as you are.  
+
+Here are a few things that might help:
+
+1. **Challenge those negative thoughts:** When you catch yourself thinking ""I'm not good enough,"" try to counter that with something positive about yourself. What are your strengths? What do you bring to a relationship?
+2. **Focus on connection:** Instead of worrying about whether you're ""good enough,"" try to focus on getting to know this person better.  Genuine connection comes from shared experiences and open communication.
+3. **Be kind to yourself:**  It's okay to feel nervous or insecure.  Treat yourself with the same compassion and understanding you would offer a friend going through a similar situation. 
+
+
+Remember, you deserve to be happy and feel confident in yourself.  
+",,,,benchmark_v1,229,22.99,2026-09-27T15:31:32.846028+00:00
+Gemma-2-9B__No-RAG__Q09,Gemma-2-9B,gemma2:9b,No-RAG,9,My brother and I fight constantly about who does more chores. I feel disrespected.,"It sounds incredibly frustrating to feel constantly at odds with your brother, especially about something as basic as chores. Feeling disrespected in a family relationship is never easy. 
+
+It's completely valid to feel upset about this situation. It's important to remember that you deserve to be treated with respect, and your feelings are important. 
+
+Here are a few things that might help:
+
+1. **Try talking to your brother directly.** Choose a calm moment and explain how his words or actions make you feel. Focus on ""I"" statements, like ""I feel disrespected when..."" instead of blaming him. 
+2. **Consider making a chore chart together.** This can help create a clear division of labor and prevent future arguments. 
+3. **If talking directly doesn't work, maybe involve a neutral third party.** This could be a parent, another family member, or even a trusted friend. They might be able to help mediate the conversation and find a solution. 
+
+
+Remember, you're not alone in this. Family conflicts are common, and there are ways to work through them.  
+",,,,benchmark_v1,229,22.935,2026-09-27T15:31:55.789022+00:00
+Gemma-2-9B__No-RAG__Q10,Gemma-2-9B,gemma2:9b,No-RAG,10,I moved for work and know no one here. I cry most nights.,"It sounds incredibly tough to be feeling so lonely. Moving to a new place and starting over can be really challenging, especially when you don't have a support system in place. It's completely understandable that you're crying most nights – those feelings of isolation are very real. 
+
+Please know that you're not alone in feeling this way. Many people experience loneliness after a big move. 
+
+Here are a few things that might help:
+
+1. **Reach out to your former friends and family:** Even a quick phone call or video chat can make a difference in feeling connected. 
+2. **Explore local groups or activities:** Look for clubs, classes, or volunteer opportunities that align with your interests. This can be a great way to meet people who share your passions.
+3. **Be patient with yourself:** Building a new support system takes time. Don't put pressure on yourself to make friends instantly. Just focus on taking small steps each day. 
+
+
+Remember, it's okay to feel this way, and things can get better.  
+",,,,benchmark_v1,221,21.993,2026-09-27T15:32:17.786776+00:00
+Gemma-2-9B__No-RAG__Q11,Gemma-2-9B,gemma2:9b,No-RAG,11,I'm devastated because I scored much lower than expected in my semester exam. The stress is overwhelming-how do I cope?,"It's completely understandable to feel devastated after an exam result that didn't meet your expectations.  It's tough when you put in effort and don't see the outcome you hoped for.  Feeling overwhelmed by stress is a natural reaction to this kind of disappointment. 
+
+First, remember that one exam doesn't define your worth or intelligence. It's just one piece of the bigger picture.  
+
+Here are a few things that might help:
+
+1. **Allow yourself to feel your emotions.** Don't try to suppress your disappointment or frustration. Acknowledge how you're feeling and give yourself time to process it. 
+2. **Talk to someone you trust.** Sharing your feelings with a friend, family member, or mentor can be incredibly helpful. They can offer support and perspective.
+3. **Focus on what you can control.**  Look at the exam results objectively.  Are there specific areas where you struggled?  Can you identify strategies to improve in those areas for future exams?
+
+
+Remember, you're not alone in this. Many people experience setbacks, and it's how we learn and grow. Be kind to yourself and take things one step at a time. 
+",,,,benchmark_v1,250,25.275,2026-09-27T15:32:43.070908+00:00
+Gemma-2-9B__No-RAG__Q12,Gemma-2-9B,gemma2:9b,No-RAG,12,My heart races before every lab presentation; I feel I'll mess up and be judged,"It's completely understandable to feel anxious before a lab presentation.  It's a common experience, and your feelings are valid.  Many people worry about being judged or making mistakes, especially in situations where they feel they need to perform. 
+
+Here are a few things that might help:
+
+1. **Practice:**  Rehearsing your presentation beforehand can boost your confidence and help you feel more prepared.  
+
+2. **Focus on your message:**  Remember why you're giving the presentation – to share your knowledge and research.  Concentrate on delivering your message clearly and engagingly.
+
+3. **Deep breaths:**  When you start to feel your heart racing, take a few slow, deep breaths. This can help calm your nerves and center your focus. 
+
+
+Remember, everyone makes mistakes, and it doesn't define you.  Focus on doing your best and be kind to yourself. 
+",,,,benchmark_v1,190,18.889,2026-09-27T15:33:01.965822+00:00
+Gemma-2-9B__No-RAG__Q13,Gemma-2-9B,gemma2:9b,No-RAG,13,I feel paralyzed by fear of getting rejected from internships,"It's completely understandable to feel paralyzed by fear of rejection, especially when it comes to something as important as internships.  It's a big step, and the possibility of not getting what you want can be really scary.  
+
+Know that your feelings are valid, and many people experience this kind of anxiety. It doesn't mean you're weak or that you won't succeed. 
+
+Here are a few things that might help:
+
+1. **Focus on what you can control:** You can't control whether someone accepts you, but you can control how well you prepare your application and how you present yourself in interviews. 
+2. **Practice self-compassion:** Be kind to yourself throughout the process. Rejection is a part of life, and it doesn't define your worth. 
+3. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or mentor can be really helpful. They can offer support and encouragement. 
+
+
+Remember, you're not alone in this. Keep going, and be proud of yourself for putting yourself out there. 
+",,,,benchmark_v1,230,22.616,2026-09-27T15:33:24.590161+00:00
+Gemma-2-9B__No-RAG__Q14,Gemma-2-9B,gemma2:9b,No-RAG,14,Since moving cities I feel a persistent sadness I can't shake.,"It's completely understandable to feel sad after moving to a new city.  Big changes can be really tough, even if they're positive. It's like your whole world shifted, and it takes time to adjust and find your footing again.  
+
+It sounds like you're going through a difficult time, and your feelings are valid.  Don't be hard on yourself for feeling this way. 
+
+Here are a few things that might help:
+
+1. **Connect with people:**  Even small interactions can make a difference.  Try joining a club, taking a class, or simply striking up conversations with people in your neighborhood. 
+2. **Explore your new surroundings:**  Get to know your city!  Visit parks, museums, or try new restaurants.  Discovering new things can help you feel more connected to your new home.
+3. **Practice self-care:** Make sure you're taking care of yourself physically and emotionally.  Eat healthy foods, get enough sleep, and engage in activities that bring you joy.
+
+
+Remember, it's okay to ask for help if you need it.  There are resources available to support you during this transition. 
+",,,,benchmark_v1,247,24.157,2026-09-27T15:33:48.755188+00:00
+Gemma-2-9B__No-RAG__Q15,Gemma-2-9B,gemma2:9b,No-RAG,15,Nothing I do seems to matter; what's the point of working toward goals?,"It sounds incredibly frustrating to feel like your efforts don't make a difference. That feeling of hopelessness can be really heavy to carry.  
+
+It's important to remember that your feelings are valid, and it's okay to feel this way sometimes.  
+
+Here are a few things that might help:
+
+1. **Focus on small wins:** Instead of looking at big, overwhelming goals, try breaking them down into smaller, more manageable steps.  Celebrating those small victories can help build momentum and a sense of accomplishment. 
+2. **Connect with others:**  Talking to someone you trust about how you're feeling can be incredibly helpful. Sharing your struggles can lessen their weight and offer a different perspective.
+3. **Practice self-care:**  Make sure you're taking care of your basic needs – eating well, getting enough sleep, and engaging in activities you enjoy.  
+
+Remember, you're not alone in feeling this way. If you're struggling, please reach out to a trusted friend, family member, or mental health professional.  
+",,,,benchmark_v1,221,22.309,2026-09-27T15:34:11.071030+00:00
+Gemma-2-9B__No-RAG__Q16,Gemma-2-9B,gemma2:9b,No-RAG,16,I explode at teammates when deadlines slip-how do I stay calm?,"It sounds incredibly frustrating to feel your anger rising when deadlines are missed. It's understandable to feel stressed and upset in those situations.  
+
+It's brave of you to reach out and want to find healthier ways to cope.  
+
+Here are a few things that might help:
+
+1. **Take a moment to breathe:** When you feel your anger building, try taking a few deep breaths. This can help calm your nervous system and give you a moment to think before reacting. 
+2. **Communicate assertively:** Instead of exploding, try calmly expressing your concerns to your teammates. Use ""I"" statements to explain how the missed deadline affects you and work together to find solutions.
+3. **Practice self-care:** Make sure you're taking care of yourself outside of work.  Getting enough sleep, eating well, and exercising can help you manage stress and regulate your emotions.
+
+
+Remember, it's okay to feel frustrated, but it's important to find healthy ways to express those feelings.  
+",,,,benchmark_v1,212,20.884,2026-09-27T15:34:31.965047+00:00
+Gemma-2-9B__No-RAG__Q17,Gemma-2-9B,gemma2:9b,No-RAG,17,"My moods swing wildly during project weeks-happy, then discouraged.","It sounds like you're experiencing some intense emotional shifts during project weeks. That's completely understandable!  Projects can be demanding and bring up a lot of different feelings all at once. 
+
+It's important to remember that your feelings are valid, and it's okay to feel both happy and discouraged during these times.  
+
+Here are a few things that might help:
+
+1. **Try to identify your triggers:** What specific aspects of the project seem to cause these mood swings? Once you know your triggers, you can start to develop coping strategies.
+2. **Practice self-care:** Make sure you're taking breaks, eating well, getting enough sleep, and engaging in activities you enjoy. This can help you manage stress and regulate your emotions.
+3. **Talk to someone:** Sharing your feelings with a trusted friend, family member, or therapist can be incredibly helpful. 
+
+
+Remember, you're not alone in this.  
+",,,,benchmark_v1,198,18.917,2026-09-27T15:34:50.891262+00:00
+Gemma-2-9B__No-RAG__Q18,Gemma-2-9B,gemma2:9b,No-RAG,18,My parents and I clash over my career choices-constant tension at home.,"It sounds incredibly frustrating to be dealing with constant tension at home because of your career choices. It's completely understandable to feel stressed and upset when there's such a disconnect with your parents. 
+
+Your feelings are valid, and it's important to remember that you have the right to make decisions about your own future.  
+
+Here are a few things that might help:
+
+1. **Try having a calm conversation with your parents.** Explain how their words and actions make you feel, and listen to their perspective as well.  
+2. **Set some boundaries.** This could mean limiting the amount of time you spend discussing your career with them, or choosing to have these conversations in a neutral space.
+3. **Focus on your own goals.** Remember why you chose this path and keep reminding yourself of your aspirations. 
+
+Remember, you're not alone in this. Many people experience conflict with their families about career choices.  
+",,,,benchmark_v1,194,18.253,2026-09-27T15:35:09.152870+00:00
+Gemma-2-9B__No-RAG__Q19,Gemma-2-9B,gemma2:9b,No-RAG,19,My partner and I misinterpret texts and end up arguing,"It sounds really frustrating to constantly misinterpret texts and end up arguing with your partner.  It's completely understandable to feel upset and stressed about that.  
+
+Misunderstandings in communication happen to everyone, especially through text where tone and nuance can be easily lost.  
+
+Here are a few things that might help:
+
+1. **Talk about it:**  Have an open and honest conversation with your partner about how these misunderstandings are making you both feel.  Try to be understanding of each other's perspectives.
+2. **Clarify:** When you're unsure about the meaning of a text, don't assume the worst.  Ask your partner for clarification instead of jumping to conclusions. 
+3. **Take a break:** If things start to get heated, take a break from texting and come back to it when you're both calmer.
+
+
+Remember, communication is a two-way street.  Keep working together and be patient with each other.  
+",,,,benchmark_v1,202,19.201,2026-09-27T15:35:28.503790+00:00
+Gemma-2-9B__No-RAG__Q20,Gemma-2-9B,gemma2:9b,No-RAG,20,I can't stand being corrected; it feels like a blow to my identity.,"It sounds like being corrected really triggers something for you, and that's understandable.  It's natural to want to feel confident in who you are, and sometimes feeling corrected can make us question that. 
+
+It's important to remember that being corrected doesn't necessarily mean someone is attacking your identity.  They might just be trying to share information or clarify something. 
+
+Here are a few things that might help:
+
+1. **Take a moment to breathe:** When you feel that sting, try taking a few deep breaths to calm yourself down. This can help you process the situation more calmly.
+2. **Consider the source:** Is the person correcting you someone you trust and respect?  Their intentions might be good, even if their delivery isn't perfect.
+3. **Focus on learning:**  See if you can reframe being corrected as an opportunity to learn something new. 
+
+
+Remember, you're not alone in feeling this way. If you find yourself struggling, talking to a trusted friend or family member can be helpful. 
+",,,,benchmark_v1,220,21.082,2026-09-27T15:35:49.593028+00:00
+Gemma-2-9B__No-RAG__Q21,Gemma-2-9B,gemma2:9b,No-RAG,21,I often think I'm not good enough compared with peers.,"It's completely understandable to feel that way sometimes.  Comparing ourselves to others is a common human experience, but it can be really tough on our self-esteem.  
+
+Remember that everyone is on their own unique journey, with different strengths, challenges, and timelines. What you see on the surface might not be the whole picture.  
+
+Here are a few things that might help:
+
+1. **Focus on your own progress:**  Think about how far you've come and celebrate your accomplishments, big and small. 
+2. **Practice self-compassion:**  Treat yourself with the same kindness and understanding you would offer a friend going through a similar experience.
+3. **Limit social media:**  Constantly comparing yourself to others online can be detrimental to your mental well-being. Take breaks and focus on real-life connections. 
+
+
+If these feelings are persistent and affecting your daily life, consider reaching out to a trusted friend, family member, or mental health professional.  
+",,,,benchmark_v1,206,19.988,2026-09-27T15:36:09.589641+00:00
+Gemma-2-9B__No-RAG__Q22,Gemma-2-9B,gemma2:9b,No-RAG,22,All I do is code and study; I feel alone and drained.,"It sounds like you're feeling really overwhelmed and isolated.  It's understandable to feel that way when your life revolves around coding and studying.  It's important to remember that you're not alone in feeling this way, and it's okay to take a break and prioritize your well-being.
+
+Here are a few things that might help:
+
+1. **Schedule some time for activities you enjoy outside of coding and studying.** This could be anything from reading a book to going for a walk to spending time with friends and family. 
+2. **Connect with other people who share your interests.** There are many online and offline communities for programmers and students. 
+3. **Practice self-care.** Make sure you're getting enough sleep, eating healthy foods, and exercising regularly. 
+
+Remember, taking care of your mental health is just as important as taking care of your physical health.  
+",,,,benchmark_v1,190,18.233,2026-09-27T15:36:27.832139+00:00
+Gemma-2-9B__No-RAG__Q23,Gemma-2-9B,gemma2:9b,No-RAG,23,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?,"It's completely understandable to feel emotionally drained after a sudden change.  Big shifts in life can be really tough, even if they're positive.  It sounds like you're going through a lot right now. 
+
+Remember, your feelings are valid. It's okay to feel overwhelmed and exhausted.  
+
+Here are a few things that might help:
+
+1. **Practice self-care:**  Focus on things that bring you comfort and help you recharge. This could be taking a warm bath, listening to calming music, spending time in nature, or anything else that feels soothing.
+2. **Connect with others:**  Talk to someone you trust about how you're feeling.  Sharing your experience can be incredibly helpful, even if it's just with a friend or family member.
+3. **Take things one day at a time:**  Don't try to tackle everything at once. Break down your tasks into smaller, more manageable steps. Be kind to yourself and allow yourself time to adjust. 
+
+
+If you're struggling to cope, please remember that there are resources available to help.  
+",,,,benchmark_v1,233,22.514,2026-09-27T15:36:50.356975+00:00
+Gemma-2-9B__No-RAG__Q24,Gemma-2-9B,gemma2:9b,No-RAG,24,Why do I get so attached to people that their absence breaks me?,"It sounds like you're going through a really tough time. Feeling deeply connected to people and experiencing intense sadness when they're not around is completely understandable. It speaks to your capacity for love and empathy. 
+
+It's important to remember that these feelings are valid, and you're not alone in experiencing them. Many people struggle with this kind of emotional intensity. 
+
+Here are a few things that might help:
+
+1. **Practice self-compassion:** Be kind to yourself during these moments. Acknowledge your pain and allow yourself to feel it without judgment. 
+2. **Focus on building healthy coping mechanisms:**  Find activities that bring you joy and help you manage your emotions, like spending time in nature, listening to music, or practicing mindfulness.
+3. **Connect with supportive people:**  Talk to trusted friends or family members about how you're feeling. Sharing your experiences can be incredibly helpful. 
+
+
+Remember, it's okay to ask for help if you need it.  
+",,,,benchmark_v1,209,19.974,2026-09-27T15:37:10.347292+00:00
+Gemma-2-9B__No-RAG__Q25,Gemma-2-9B,gemma2:9b,No-RAG,25,I'm unable to let go of my disappointment after a failure. I feel stuck.,"It's completely understandable to feel disappointed after a failure, and it's brave of you to acknowledge those feelings. It's common to feel stuck when disappointment lingers.  
+
+Remember, you're not alone in this experience. Everyone faces setbacks at some point. It sounds like you're ready to move forward, which is a great first step. 
+
+Here are a few things that might help:
+
+1. **Acknowledge your feelings:** Allow yourself to feel the disappointment without judgment.  Writing in a journal or talking to someone you trust can be helpful.
+2. **Focus on what you learned:**  Even in setbacks, there are often valuable lessons to be gained. Reflect on what happened and what you can take away from the experience.
+3. **Set small, achievable goals:**  Instead of focusing on the big picture, break down your next steps into smaller, manageable goals. This can help you regain a sense of progress and momentum. 
+
+
+Remember, you have the strength to move past this. Be kind to yourself and take things one step at a time. 
+",,,,benchmark_v1,225,21.616,2026-09-27T15:37:31.968569+00:00
+Gemma-2-9B__No-RAG__Q26,Gemma-2-9B,gemma2:9b,No-RAG,26,"My emotions fluctuate drastically-one moment I'm happy, then overwhelmed. Why?","It sounds like you're going through a really tough time with your emotions feeling all over the place. That can be incredibly draining and confusing.  It's important to remember that you're not alone in experiencing these kinds of shifts. 
+
+There are many reasons why emotions can fluctuate, and it's often a combination of things.  Stress, changes in your routine, or even things happening in the world around you can all play a role. 
+
+Here are a few things that might help:
+
+1. **Try to identify your triggers:**  Pay attention to what happens before you feel overwhelmed or happy. Are there certain situations, people, or thoughts that seem to bring on these shifts? 
+2. **Practice grounding techniques:** When you feel overwhelmed, try focusing on your senses. Notice the feeling of your feet on the ground, the sounds around you, or the temperature of the air. This can help bring you back to the present moment.
+3. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or therapist can be incredibly helpful. They can offer support and a listening ear. 
+
+
+Remember, taking care of your mental health is important. If you're struggling, please don't hesitate to reach out for professional help. 
+",,,,benchmark_v1,267,25.853,2026-09-27T15:37:57.831936+00:00
+Gemma-2-9B__No-RAG__Q27,Gemma-2-9B,gemma2:9b,No-RAG,27,I feel fear when facing new challenges. I avoid trying,"It's completely understandable to feel fear when facing new challenges. It's a natural human response. Avoiding new things can feel like a way to protect yourself from that fear, but it can also make it harder to grow and experience new things. 
+
+You're not alone in feeling this way. Many people struggle with similar feelings.  
+
+Here are a few things that might help:
+
+1. **Start small:** Instead of tackling a big challenge head-on, break it down into smaller, more manageable steps. This can make it feel less overwhelming.
+2. **Practice mindfulness:** When you feel fear creeping in, try taking a few deep breaths and focusing on the present moment. This can help calm your anxiety.
+3. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or therapist can be incredibly helpful. They can offer support and encouragement. 
+
+
+Remember, it's okay to feel fear. Be kind to yourself and take things one step at a time. 
+",,,,benchmark_v1,211,20.272,2026-09-27T15:38:18.113510+00:00
+Gemma-2-9B__No-RAG__Q28,Gemma-2-9B,gemma2:9b,No-RAG,28,I constantly feel like I'm not good enough compared to others.,"It sounds like you're going through a tough time feeling inadequate compared to others. That feeling of not being good enough is really common, and it's important to remember that it doesn't define you.  
+
+Everyone has their own unique strengths and challenges. Comparing yourself to others can be a trap that leads to unnecessary stress and self-doubt. 
+
+Here are a few things that might help:
+
+1. **Focus on your own progress:** Instead of comparing yourself to others, try celebrating your own accomplishments, no matter how small they seem. 
+2. **Practice self-compassion:** Be kind to yourself. Everyone makes mistakes and has areas they want to improve. Treat yourself with the same understanding and support you would offer a friend.
+3. **Challenge negative thoughts:** When you catch yourself thinking ""I'm not good enough,"" try to challenge that thought. Ask yourself for evidence to support it and consider alternative, more positive perspectives. 
+
+
+Remember, you are worthy and valuable just as you are.  
+",,,,benchmark_v1,213,23.207,2026-09-27T15:38:41.323951+00:00
+Gemma-2-9B__No-RAG__Q29,Gemma-2-9B,gemma2:9b,No-RAG,29,I feel lonely even in a crowd. No one understands me.,"It sounds like you're feeling really isolated, even when you're surrounded by people. That can be a tough experience. It's completely valid to feel that way, and it's important to acknowledge those feelings. 
+
+Sometimes, feeling understood can be hard to find. It might help to try connecting with people who share your interests or hobbies.  Joining a club or group related to something you enjoy could be a good way to meet like-minded individuals. 
+
+Another thing that might be helpful is journaling. Writing down your thoughts and feelings can be a great way to process them and gain some clarity. Remember, you're not alone in feeling this way, and there are steps you can take to feel more connected. 
+",,,,benchmark_v1,153,18.598,2026-09-27T15:38:59.932354+00:00
+Gemma-2-9B__No-RAG__Q30,Gemma-2-9B,gemma2:9b,No-RAG,30,I keep replaying bad memories- can't move on.,"It sounds like you're going through a really tough time, and it's understandable that you're struggling to move on from these memories. It's common to feel stuck when painful experiences keep replaying in our minds.  
+
+Know that your feelings are valid, and it's okay to feel overwhelmed.  
+
+Here are a few things that might help:
+
+1. **Journaling:** Writing down your thoughts and feelings about these memories can sometimes help process them. 
+2. **Mindfulness:**  Practicing mindfulness techniques, like focusing on your breath or being present in the moment, can help shift your attention away from the memories. 
+3. **Talking to someone:** Sharing your experiences with a trusted friend, family member, or therapist can provide support and perspective. 
+
+Remember, you're not alone in this, and there are resources available to help you cope. If you're feeling overwhelmed or like you need immediate support, please reach out to a local crisis hotline or mental health professional. 
+",,,,benchmark_v1,213,23.426,2026-09-27T15:39:23.368557+00:00
+Gemma-2-9B__No-RAG__Q31,Gemma-2-9B,gemma2:9b,No-RAG,31,I feel like no one appreciates what I do,"It sounds really tough to feel like your efforts aren't appreciated. That can be incredibly disheartening. It's important to remember that your feelings are valid, and it's okay to feel this way. 
+
+Sometimes, it can be helpful to talk to someone you trust about how you're feeling. Sharing your thoughts and experiences with a friend, family member, or therapist can provide support and perspective. 
+
+You could also try focusing on the things you *do* enjoy about your work or the positive impact you have, even if it's not always recognized.  
+
+Remember, you deserve to feel valued and appreciated.  If you're struggling, please know that you're not alone and there are resources available to help. 
+",,,,benchmark_v1,156,15.198,2026-09-27T15:39:38.580830+00:00
+Gemma-2-9B__No-RAG__Q32,Gemma-2-9B,gemma2:9b,No-RAG,32,I avoid responsibilities because I fear I'll fail.,"It sounds like you're carrying a lot of weight with that fear of failure. It's completely understandable to feel that way –  nobody wants to feel like they're letting themselves or others down.  
+
+It's brave of you to acknowledge this pattern in your life.  
+
+Here are a few things that might help:
+
+1. **Start small:**  Instead of tackling big responsibilities head-on, try breaking them down into smaller, more manageable steps.  
+2. **Focus on progress, not perfection:** Remember that it's okay to make mistakes – they're part of the learning process. Celebrate your successes, no matter how small.
+3. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or therapist can be incredibly helpful. They can offer support and encouragement as you work through this. 
+
+
+Remember, you're not alone in this.  
+",,,,benchmark_v1,192,18.917,2026-09-27T15:39:57.509779+00:00
+Gemma-2-9B__No-RAG__Q33,Gemma-2-9B,gemma2:9b,No-RAG,33,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?,"It's completely understandable to feel emotionally drained after a sudden change.  Big shifts in life can be really tough, even if they're positive.  It sounds like you're going through a lot right now. 
+
+Remember, your feelings are valid. It's okay to feel overwhelmed and exhausted.  
+
+Here are a few things that might help:
+
+1. **Practice self-care:**  Focus on things that bring you comfort and recharge you, even if it's just for a few minutes each day. This could be taking a warm bath, listening to calming music, or spending time in nature.
+2. **Connect with others:**  Talking to someone you trust about how you're feeling can be incredibly helpful.  Even just sharing your experience can lighten the load.
+3. **Be patient with yourself:**  Adjusting to change takes time.  Don't put pressure on yourself to ""bounce back"" quickly.  Allow yourself to grieve the past and embrace the new chapter at your own pace. 
+
+
+If you're struggling to cope, please know that there are resources available to support you.  
+",,,,benchmark_v1,237,26.644,2026-09-27T15:40:24.165645+00:00
+Gemma-2-9B__No-RAG__Q34,Gemma-2-9B,gemma2:9b,No-RAG,34,"I want to get job in a top mnc like oracle, ibm... i had tried in ibm but i went to interview round and get disqualified so i'm somewhat depressed.","It's completely understandable to feel disappointed after putting effort into an interview and not getting the job, especially when it's with a company you admire like IBM.  It's okay to feel down about it – those feelings are valid. 
+
+Remember, one interview doesn't define your worth or your potential.  It's just one step in a journey.  
+
+Here are a few things that might help:
+
+1. **Reflect on the experience:** Think about what went well in the interview and what you could improve for next time.  
+2. **Reach out to your network:** Talk to friends, family, or mentors about your experience. They can offer support and maybe even helpful advice.
+3. **Keep applying:** Don't let this setback discourage you. There are many other opportunities out there. Keep refining your resume and practicing your interview skills. 
+
+
+You've got this!  
+",,,,benchmark_v1,191,19.697,2026-09-27T15:40:43.882544+00:00
+Gemma-2-9B__No-RAG__Q35,Gemma-2-9B,gemma2:9b,No-RAG,35,I lost many opportunities... whereas my friends got many opportunities where they have done malpractices... what to do should i copy or write in a genuine way.,"It sounds incredibly frustrating to feel like you're missing out on opportunities, especially when it seems like others are getting ahead through unfair means. It's completely understandable to feel angry, disappointed, and even tempted to take shortcuts. 
+
+Remember, your worth isn't defined by the opportunities you get, but by your integrity and the effort you put in.  
+
+Here are a few things that might help:
+
+1. **Focus on what you can control:** You can't change the past or what others do, but you can focus on your own actions.  Keep working hard, honing your skills, and putting yourself out there. 
+2. **Seek support:** Talk to someone you trust about how you're feeling. Sharing your frustrations can help you process them and gain perspective.
+3. **Remember your values:** Staying true to yourself and your values is important.  While it might be tempting to copy others, it's ultimately more fulfilling to build your success on honesty and hard work. 
+
+
+Keep your head up. You've got this. 
+",,,,benchmark_v1,223,23.544,2026-09-27T15:41:07.435762+00:00
+Gemma-2-9B__No-RAG__Q36,Gemma-2-9B,gemma2:9b,No-RAG,36,I dont have enough money to survive because of that i am felling sad and i cant enjoy my life happily so what is the solution for that.,"It's completely understandable to feel sad and frustrated when you're struggling financially.  It's a tough situation to be in, and it can feel like it's impacting every aspect of your life.  
+
+Remember, you're not alone in this. Many people face financial challenges at some point.  
+
+Here are a few things that might help:
+
+1. **Reach out to local resources:** There are often organizations that offer assistance with food, housing, or job training. A quick online search for ""financial assistance"" in your area could be a good starting point. 
+2. **Create a budget:**  Even a simple budget can help you track your income and expenses, and identify areas where you might be able to save money. 
+3. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or therapist can be incredibly helpful. They can offer support and maybe even some helpful advice. 
+
+Remember, things can get better. Focus on taking small steps each day, and be kind to yourself during this difficult time. 
+",,,,benchmark_v1,224,22.65,2026-09-27T15:41:30.102499+00:00
+Gemma-2-9B__No-RAG__Q37,Gemma-2-9B,gemma2:9b,No-RAG,37,I am getting demotivated like what to do in life so what should i do,"It's completely understandable to feel demotivated sometimes.  Life can feel overwhelming and it's okay to question your direction.  
+
+First, know that your feelings are valid. It's important to acknowledge this feeling of being stuck.  
+
+Here are a few things that might help:
+
+1. **Take some time for self-reflection:**  Think about what brings you joy, what you're good at, and what kind of impact you want to make. Journaling can be a helpful tool for this.
+2. **Break down big goals:**  Instead of focusing on the enormity of ""what to do in life,"" try setting smaller, achievable goals. This can create a sense of progress and momentum.
+3. **Connect with others:**  Talk to friends, family, or a trusted mentor about how you're feeling. Sometimes just sharing your thoughts can be incredibly helpful. 
+
+
+Remember, you're not alone in this.  Be kind to yourself and take things one step at a time. 
+",,,,benchmark_v1,215,22.391,2026-09-27T15:41:52.508251+00:00
+Gemma-2-9B__No-RAG__Q38,Gemma-2-9B,gemma2:9b,No-RAG,38,How can I fight loneliness? im too shy to talk to others.,"It's completely understandable to feel lonely, and shyness can make it harder to connect with others.  It takes courage to reach out, so know that your feelings are valid. 
+
+Here are a few things that might help:
+
+1. **Start small:**  Instead of focusing on big social gatherings, try joining a small group or class related to a hobby you enjoy. This can create a more comfortable environment to meet people with shared interests. 
+2. **Practice online connections:**  Online communities can be a great way to connect with people who share your passions, even if it's just through comments or messages. 
+3. **Be kind to yourself:**  Remember that building connections takes time. Don't get discouraged if it doesn't happen overnight. Celebrate small victories, like saying hello to someone new or joining an online conversation. 
+
+
+If you're feeling overwhelmed by loneliness, remember that you're not alone. There are resources available to help. 
+",,,,benchmark_v1,205,20.448,2026-09-27T15:42:12.966426+00:00
+Gemma-2-9B__No-RAG__Q39,Gemma-2-9B,gemma2:9b,No-RAG,39,I went through divorce recently so i am in a state of mental trauma.,"I'm so sorry to hear you're going through this difficult time. Divorce can be incredibly painful and it's completely understandable that you're feeling mentally traumatized. Your feelings are valid, and it's important to acknowledge the pain you're experiencing. 
+
+Remember, healing takes time, and there's no right or wrong way to process this.  
+
+Here are a few things that might help:
+
+1. **Reach out to someone you trust:** Talking to a friend, family member, or therapist can provide support and help you process your emotions. 
+2. **Practice self-care:** Focus on activities that bring you comfort and joy, like spending time in nature, listening to music, or engaging in hobbies.
+3. **Consider joining a support group:** Connecting with others who have gone through similar experiences can be incredibly helpful. 
+
+
+If you're feeling overwhelmed or like you need immediate support, please don't hesitate to reach out to a local crisis hotline or mental health professional. You're not alone in this. 
+",,,,benchmark_v1,221,21.935,2026-09-27T15:42:34.917653+00:00
+Gemma-2-9B__No-RAG__Q40,Gemma-2-9B,gemma2:9b,No-RAG,40,I am having love failure how to get rid of the trauma.,"It's completely understandable to feel hurt and overwhelmed after a love failure. It's a painful experience, and it's okay to feel the full range of emotions that come with it.  
+
+Remember, you're not alone in this. Many people go through heartbreak, and it's a part of life.  
+
+Here are a few things that might help:
+
+1. **Allow yourself to grieve:** Don't try to suppress your feelings. Cry, journal, talk to trusted friends or family. Processing your emotions is important for healing.
+2. **Practice self-care:** Focus on things that bring you joy and comfort. Spend time with loved ones, engage in hobbies, eat healthy foods, and get enough sleep.
+3. **Seek support:** If you're struggling to cope, consider talking to a therapist or counselor. They can provide a safe space to process your feelings and develop healthy coping mechanisms. 
+
+
+Remember, healing takes time. Be patient with yourself and allow yourself to move through this at your own pace. 
+",,,,benchmark_v1,218,21.678,2026-09-27T15:42:56.610307+00:00

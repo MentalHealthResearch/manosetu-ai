@@ -1,0 +1,81 @@
+item_id,system,question_id,story_used,uses_retrieved_episode,episode_used,grounding,parallel_quality,meta_talk,note
+H68,RAG1,1,1,1,ramayanam:Dataset_ramayanam/ayodhyakanda/164,2.0,3.0,0,
+H16,RAG1,2,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/667,2.0,2.0,0,
+H28,RAG1,3,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/649,2.0,3.0,0,
+H66,RAG1,4,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/557;gita:gita_chapter2_verse_files/346,2.0,2.0,0,
+H44,RAG1,5,1,1,ramayanam:Dataset_ramayanam/aranyakanda/281;ramayanam:Dataset_ramayanam/kishkindhakanda/580,2.0,3.0,0,
+H53,RAG1,6,0,0,,,,0,No story used
+H36,RAG1,7,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/589,2.0,3.0,0,
+H54,RAG1,8,1,1,gita:gita_chapter2_verse_files/336;mahabharat:688,2.0,3.0,0,
+H23,RAG1,9,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/652,2.0,2.0,0,
+H11,RAG1,10,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/539,2.0,4.0,0,
+H10,RAG1,11,1,1,mahabharat:700,2.0,2.0,0,
+H57,RAG1,12,1,1,mahabharat:687;mahabharat:712,2.0,4.0,0,
+H61,RAG1,13,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/589;gita:gita_chapter3_verse_files/435,2.0,4.0,0,
+H47,RAG1,14,1,1,ramayanam:Dataset_ramayanam/ayodhyakanda/211;ramayanam:Dataset_ramayanam/ayodhyakanda/123,2.0,4.0,0,
+H75,RAG1,15,1,1,gita:gita_chapter2_verse_files/376;ramayanam:Dataset_ramayanam/kishkindhakanda/581,2.0,3.0,0,
+H07,RAG1,16,1,1,mahabharat:734,0.0,4.0,0,Places Ramayana Lakshmana-Rama episode in the Mahabharat
+H50,RAG1,17,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/565;ramayanam:Dataset_ramayanam/kishkindhakanda/629,2.0,2.0,1,Refers to 'Passage 1' and 'Passage 2'
+H25,RAG1,18,1,1,ramayanam:Dataset_ramayanam/balakanda/12,1.0,3.0,0,Dasaratha 'understood importance of request' not in episode (he refuses)
+H70,RAG1,19,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/605;ramayanam:Dataset_ramayanam/kishkindhakanda/599;ramayanam:Dataset_ramayanam/kishkindhakanda/612,1.0,3.0,0,Claims Sugreeva and Hanuma 'had to learn to communicate' mutually; not in episodes
+H01,RAG1,20,1,1,mahabharat:691,2.0,2.0,0,Karna loyalty dilemma supported; weak link to being corrected
+H55,RAG1,21,1,1,mahabharat:712,2.0,4.0,0,
+H56,RAG1,22,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/539,2.0,3.0,0,
+H64,RAG1,23,1,1,mahabharat:700;mahabharat:707,2.0,3.0,0,
+H19,RAG1,24,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/539,2.0,3.0,0,
+H76,RAG1,25,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/549;mahabharat:730,2.0,4.0,0,
+H78,RAG1,26,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/565;mahabharat:707,2.0,3.0,1,Refers to 'The Ramayan passage'
+H29,RAG1,27,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/589,1.0,4.0,0,Indecision tied to facing Vali; episode ties it to seeing Rama and Lakshmana
+H03,RAG1,28,1,1,mahabharat:712,2.0,4.0,0,
+H40,RAG1,29,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/523,2.0,4.0,0,
+H22,RAG1,30,1,1,mahabharat:730,2.0,4.0,0,
+H77,RAG1,31,1,1,gita:gita_chapter3_verse_files/423,2.0,3.0,0,
+H12,RAG1,32,1,1,gita:gita_chapter2_verse_files/376,2.0,4.0,0,Gita teaching referenced without characters
+H80,RAG1,33,1,1,mahabharat:700;mahabharat:707,2.0,3.0,0,
+H14,RAG1,34,1,1,mahabharat:718,0.0,4.0,0,Says Vanara search party story is from the Mahabharata
+H49,RAG1,35,1,1,mahabharat:712;mahabharat:730,2.0,4.0,0,
+H67,RAG1,36,1,1,mahabharat:730,2.0,2.0,0,
+H06,RAG1,37,1,1,mahabharat:709,0.0,3.0,0,Attributes Draupadi's despair over injustice to Yudhisthira himself
+H74,RAG1,38,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/559,1.0,3.0,0,Calls Rama 'a powerful king'; he was an exiled prince then
+H39,RAG1,39,1,1,mahabharat:730,1.0,3.0,0,Says Yudhisthira lost his family; episode says family humiliated
+H26,RAG1,40,1,1,mahabharat:731,2.0,2.0,0,
+H32,RAG2,1,1,1,mahabharat:687,2.0,4.0,0,
+H79,RAG2,2,1,1,mahabharat:712,2.0,2.0,0,
+H33,RAG2,3,1,1,mahabharat:690,2.0,2.0,0,
+H37,RAG2,4,0,0,,,,0,No story used
+H42,RAG2,5,1,1,mahabharat:730,2.0,3.0,0,
+H30,RAG2,6,1,1,ramayanam:Dataset_ramayanam/ayodhyakanda/153,0.0,3.0,0,Implies Bharata restrained himself; episode says he vented abusive wrath
+H35,RAG2,7,1,1,mahabharat:687,2.0,4.0,0,
+H08,RAG2,8,1,1,mahabharat:712,1.0,3.0,0,"Arjuna 'pressured to follow path not his own', 'less conventional path' not in episode"
+H38,RAG2,9,0,0,,,,0,No story used
+H51,RAG2,10,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/509,2.0,2.0,0,
+H63,RAG2,11,1,1,mahabharat:709,2.0,2.0,0,
+H41,RAG2,12,0,0,,,,0,No story used
+H62,RAG2,13,1,1,mahabharat:706,2.0,3.0,0,
+H59,RAG2,14,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/491,2.0,3.0,0,
+H21,RAG2,15,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/516,2.0,3.0,0,
+H34,RAG2,16,1,1,mahabharat:720,1.0,4.0,0,"Adds sage 'isn't unaffected' by difficulty; interpretive, not in verse"
+H18,RAG2,17,0,0,,,,0,Only seasons metaphor; no character or scripture named
+H20,RAG2,18,0,0,,,,0,No story used
+H05,RAG2,19,1,1,mahabharat:690,2.0,2.0,0,
+H04,RAG2,20,1,1,mahabharat:691,2.0,2.0,0,
+H73,RAG2,21,1,1,mahabharat:712,2.0,4.0,0,
+H43,RAG2,22,1,1,mahabharat:699,2.0,3.0,0,
+H17,RAG2,23,1,1,mahabharat:707,2.0,4.0,0,
+H65,RAG2,24,1,1,ramayanam:Dataset_ramayanam/ayodhyakanda/110,1.0,2.0,0,Implies exile was for people's well-being; episode says secret departure was
+H69,RAG2,25,1,1,mahabharat:707,2.0,4.0,0,
+H24,RAG2,26,1,1,mahabharat:707,2.0,4.0,0,
+H52,RAG2,27,0,0,,,,0,No story used
+H02,RAG2,28,1,1,mahabharat:712,2.0,4.0,0,
+H09,RAG2,29,0,0,,,,0,No story used
+H31,RAG2,30,1,1,mahabharat:690,2.0,2.0,0,
+H48,RAG2,31,1,1,mahabharat:691,2.0,3.0,0,
+H72,RAG2,32,1,1,mahabharat:689,1.0,3.0,0,'Facing a difficult battle' not in episode; accurate to wider epic
+H45,RAG2,33,1,1,mahabharat:707,1.0,3.0,0,Arjuna's fear/sadness facing battle not in episode; accurate to wider epic
+H15,RAG2,34,1,1,mahabharat:730,2.0,4.0,0,
+H46,RAG2,35,1,1,mahabharat:691,2.0,3.0,0,
+H58,RAG2,36,0,0,,,,0,No story used
+H71,RAG2,37,1,1,mahabharat:715,2.0,3.0,0,
+H27,RAG2,38,1,1,ramayanam:Dataset_ramayanam/kishkindhakanda/509,2.0,3.0,0,
+H13,RAG2,39,1,1,mahabharat:690,2.0,2.0,0,
+H60,RAG2,40,1,1,mahabharat:690,2.0,2.0,0,

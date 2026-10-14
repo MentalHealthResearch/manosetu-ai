@@ -1,0 +1,520 @@
+answer_id,model,model_tag,condition,question_id,question_text,response_text,retrieved_story_ids,retrieval_scores,rag_collection,prompt_version,generation_tokens,generation_seconds,generated_at_utc
+Mistral-7B__RAG__Q01,Mistral-7B,mistral:7b,RAG,1,My parents expect me to crack competitive exams and secure a government job. The pressure is killing me—what do I do?," I understand that the pressure to excel in competitive exams can feel overwhelming, and it's essential to address this stress to maintain your mental well-being.
+
+Firstly, it's important to remember the Bhagavad Gita's teachings on detachment. You have the right to perform your prescribed duty (in this case, preparing for exams), but not to the fruits of action (the outcome of the exams). Focus on giving your best effort in studying, and try not to worry about the results.
+
+Secondly, consider seeking support from your parents and teachers. Communicate openly about your feelings and ask for their understanding and guidance. They may be able to help you manage expectations and find resources to cope with the pressure.
+
+Lastly, prioritize self-care. Make time for activities that bring you joy and relaxation, such as reading, exercise, or spending time with friends. Remember, your well-being is just as important as your academic success.
+
+In the spirit of the Ramayana, remember that your parents want what they believe is best for you, just as Bharata wanted what was righteous. By communicating your feelings and seeking support, you can navigate this challenging situation with grace and resilience.",gita:gita_chapter2_verse_files/376;ramayanam:Dataset_ramayanam/ayodhyakanda/164;gita:gita_chapter3_verse_files/427,0.251390;0.248652;0.243245,narrative_therapy_corpus,benchmark_v1,265,25.368,2026-09-27T13:49:25.980707+00:00
+Mistral-7B__RAG__Q02,Mistral-7B,mistral:7b,RAG,2,I get nervous even saying my name during introductions. What if people judge me?," I'm really sorry to hear that you're feeling this way, but let me assure you that it's completely normal to feel nervous during introductions. It's a common human experience, and many people share similar feelings.
+
+In the ancient Indian epic, the Ramayana, Hanuma, a monkey king, demonstrates effective interpersonal communication by using gentle, respectful, and courteous speech to build rapport before revealing his purpose. This shows that being authentic and true to oneself can help ease tension in social situations.
+
+In another epic, the Mahabharata, Krishna advises staying true to one's authentic nature and personal duty (Svadharma). He warns against mimicking others, emphasizing the importance of self-actualization and overcoming comparison-driven social anxiety.
+
+Sugreeva, another character from the Ramayana, expresses deep appreciation when Rama, the prince, befriends him. Sugreeva felt honored by Rama's friendship, demonstrating that vulnerability and modesty can be powerful in social interactions.
+
+So, my advice to you is to embrace your authentic self during introductions. Remember that it's okay to be yourself, and people who truly matter will appreciate and respect you for who you are.
+
+Here are a few practical next steps:
+
+1. Practice self-affirmations before meetings to boost your confidence.
+2. Prepare a brief introduction about yourself that highlights your unique qualities and interests.
+3. Focus on active listening and showing genuine interest in others during conversations to build rapport.",ramayanam:Dataset_ramayanam/kishkindhakanda/617;mahabharat:712;ramayanam:Dataset_ramayanam/kishkindhakanda/667,0.212057;0.192518;0.167836,narrative_therapy_corpus,benchmark_v1,341,16.145,2026-09-27T13:49:42.273608+00:00
+Mistral-7B__RAG__Q03,Mistral-7B,mistral:7b,RAG,3,"My grandmother is unwell, and I'm terrified she might pass away. I can't function properly"," I'm really sorry to hear that you're going through such a difficult time. Losing a loved one can be incredibly challenging, and it's completely normal to feel overwhelmed and scared.
+
+In the ancient Indian epic, the Ramayana, Rama, a righteous prince, faced similar feelings when he lost his father. He acknowledged the inevitability of death and the pain it brings, but also found solace in the acceptance of life's impermanence. This acceptance can help us navigate our own grief, reminding us that it's okay to feel sad and scared, but also to find strength in the love we shared with our loved ones.
+
+In another epic, the Mahabharata, Bhisma, the grandsire of the Kuru dynasty, understood the despair of his grandson, Duryodhana, and acted out of compassion to boost his morale. He blew his conchshell loudly, symbolizing strength and hope, even though he knew their side was doomed. This act can inspire us to find ways to support and comfort each other during difficult times.
+
+Remember, it's okay to ask for help and lean on others for support. Reach out to friends, family, or a support group if you need someone to talk to or just to be there for you. If you're feeling overwhelmed, it might also be helpful to seek professional help, such as a counselor or therapist.
+
+Take care of yourself during this difficult time. Remember that it's okay to grieve, and it's okay to ask for help. You're not alone in this, and there are people who care about you and want to help you through this.",gita:gita_verse_files/303;ramayanam:Dataset_ramayanam/ayodhyakanda/196;ramayanam:Dataset_ramayanam/kishkindhakanda/649,0.214522;0.213406;0.212677,narrative_therapy_corpus,benchmark_v1,361,27.099,2026-09-27T13:50:09.531463+00:00
+Mistral-7B__RAG__Q04,Mistral-7B,mistral:7b,RAG,4,My best friend ghosted me after years of trust. I feel lost and worthless," I'm really sorry to hear that you're feeling this way, and I want you to know that it's okay to feel lost and hurt after such a sudden change in your friendship. It's important to remember that everyone goes through challenging times, and it's how we cope with these challenges that defines us.
+
+In the ancient Indian epic, the Ramayana, Rama felt a similar sense of loss when he was separated from his wife Sita. However, he found hope in the idea that life could renew itself, just as nature does after a season of winter. Similarly, you too can find renewal and growth, even if it may not seem possible right now.
+
+In the Bhagavad Gita, Krishna teaches Arjuna that the soul is eternal and cannot be destroyed, even though the physical body may change. This teaches us that our worth is not defined by our relationships or circumstances, but by our eternal spirit. Remember, you are more than your current situation.
+
+Here are a few practical steps you can take:
+
+1. Reach out to someone you trust and share your feelings with them. Sometimes, talking about our feelings can help us process them and find a sense of clarity.
+
+2. Engage in activities that bring you joy and help you feel connected to yourself. This could be anything from reading a book, going for a walk, or practicing a hobby.
+
+3. Consider seeking support from a mental health professional. They can provide you with tools and strategies to help you cope with your feelings and work towards healing.
+
+Remember, it's okay to take things one step at a time. You are stronger than you think, and you have the capacity to heal and grow from this experience.",ramayanam:Dataset_ramayanam/kishkindhakanda/557;gita:gita_chapter2_verse_files/346;gita:gita_chapter2_verse_files/355,0.203680;0.202437;0.191280,narrative_therapy_corpus,benchmark_v1,370,19.047,2026-09-27T13:50:28.709764+00:00
+Mistral-7B__RAG__Q05,Mistral-7B,mistral:7b,RAG,5,I've been rejected from five interviews in a row. I feel like a failure and can't get back up.," I'm really sorry to hear that you've been feeling this way after a series of rejections. It's completely normal to feel discouraged and to question yourself after such experiences, but it's important to remember that these feelings are temporary and can be overcome.
+
+In the story of Rama, we see a character who also faced numerous challenges and setbacks, yet he continued to persevere. Rama's story teaches us that even in the face of great adversity, it's essential to keep trying and not to let despair paralyze our efforts.
+
+One practical step you can take is to focus on self-care. Make sure you're getting enough rest, eating well, and engaging in activities that bring you joy. It's also important to take some time to reflect on what you've learned from each interview and how you can improve for the next one.
+
+Another step is to seek support from others. Talk to friends, family, or a mentor about your feelings and ask for their advice. You may also find it helpful to join a support group or network with others who are going through similar experiences.
+
+Lastly, remember that rejection is a part of life and it's not a reflection of your worth as a person. Keep in mind that each interview is an opportunity to learn and grow, and that the right opportunity will come along when you least expect it.
+
+Take care of yourself, and know that you're not alone in this journey. Keep pushing forward, and I have no doubt that you'll find success.",ramayanam:Dataset_ramayanam/aranyakanda/281;ramayanam:Dataset_ramayanam/aranyakanda/285;ramayanam:Dataset_ramayanam/kishkindhakanda/580,0.209878;0.184537;0.184148,narrative_therapy_corpus,benchmark_v1,333,19.001,2026-09-27T13:50:47.876527+00:00
+Mistral-7B__RAG__Q06,Mistral-7B,mistral:7b,RAG,6,"I was wrongly accused of something in my hostel group chat, and I feel furious. I want revenge."," I'm really sorry to hear that you're feeling angry and seeking revenge. It's completely understandable to feel upset when you've been wronged, but it's important to remember that revenge often leads to more harm than good.
+
+In the story of the Ramayana, we see characters like Khara and Surpanakha who let their anger and desire for revenge consume them, leading to disastrous consequences. Instead, let's try to learn from their mistakes and find a more constructive way to address this situation.
+
+First, take some time to calm down and reflect on the situation. It's essential to understand the facts and not let emotions cloud your judgment. Try to communicate with the person who accused you, expressing your feelings and asking for an explanation.
+
+Second, if communication fails, consider involving a mutual friend or authority figure who can help mediate the situation. Remember, the goal should be to resolve the issue, not to humiliate or harm the other person.
+
+Lastly, focus on self-care. This situation may have caused you stress and upset, so it's important to take care of your mental and physical health. Exercise, meditation, or talking to a trusted friend or counselor can help manage your feelings and provide perspective.
+
+Remember, it's okay to feel angry, but it's important to channel that anger into something positive. Let's learn from the characters in the Ramayana and strive for peace and understanding instead of revenge.",ramayanam:Dataset_ramayanam/aranyakanda/236;ramayanam:Dataset_ramayanam/ayodhyakanda/63;ramayanam:Dataset_ramayanam/aranyakanda/238,0.229826;0.225977;0.218333,narrative_therapy_corpus,benchmark_v1,321,20.996,2026-09-27T13:51:09.063758+00:00
+Mistral-7B__RAG__Q07,Mistral-7B,mistral:7b,RAG,7,One moment I'm super confident; next I feel like I'll fail everything. I hate this instability.," I'm really sorry that you're feeling this way, but I'm unable to provide the personalized help that you need. It's completely normal to experience moments of self-doubt, even when you're generally confident. This can be particularly challenging, as it may feel like a rollercoaster of emotions.
+
+In the ancient Indian epic, the Ramayana, Sugreeva, a wise monkey king, also struggled with similar feelings. He was so frightened that he found it hard to make decisions (Passage 1). However, he was able to overcome his fear and lead his troops to victory.
+
+In the Bhagavad Gita, Krishna advises that doubting one's beliefs can lead to unhappiness (Passage 2). Committed belief, on the other hand, can help us find inner peace and progress.
+
+Sugreeva also warned about the dangers of over-generalized suspicion (Passage 3). While it's important to be aware of potential risks, it's equally important not to let fear control our lives.
+
+Here are a few practical steps that might help:
+
+1. Practice mindfulness: Focus on the present moment and try to let go of worries about the future.
+2. Challenge negative thoughts: When you notice self-doubt creeping in, try to counter it with evidence of your past successes.
+3. Seek support: Talk to someone you trust about how you're feeling. Sharing your feelings can help you feel less alone and more understood.
+
+Remember, it's okay to ask for help when you need it. If you're feeling overwhelmed or at immediate risk, please reach out to a local crisis support service. You're not alone in this, and there are people who care and want to help.",ramayanam:Dataset_ramayanam/kishkindhakanda/589;gita:gita_chapter4_verse_files/484;ramayanam:Dataset_ramayanam/kishkindhakanda/608,0.296138;0.290076;0.289570,narrative_therapy_corpus,benchmark_v1,393,19.351,2026-09-27T13:51:28.568531+00:00
+Mistral-7B__RAG__Q08,Mistral-7B,mistral:7b,RAG,8,"I like someone, but I don't know if I'm good enough for them. I overthink everything."," I'm really sorry that you're feeling this way, but I'm unable to provide the personalized support that you need. However, I can share some insights from ancient texts that might help you navigate your feelings.
+
+In the Bhagavad Gita, Krishna explains that our minds are like a battlefield where our senses create attractions and aversions (Passage 1). It's natural to feel drawn to someone you like, but it's important not to let these feelings control you. Recognize that these feelings are temporary and try to make conscious, rational decisions.
+
+Another passage emphasizes the importance of self-mastery and mind control (Passage 2). Arjuna, a character in the Mahabharata, was once paralyzed by indecision, much like you might be feeling now. But Krishna helped him regain control of his mind, and you too can learn from this.
+
+In your case, it seems like overthinking is causing you distress. To help manage this, you could try the following:
+
+1. Practice mindfulness: Focus on the present moment and try to let go of worries about the future or regrets about the past.
+
+2. Challenge negative thoughts: When you start to overthink, try to identify and challenge any negative thoughts that might be causing your distress.
+
+3. Self-compassion: Be kind to yourself. Remember that everyone has flaws, and it's okay not to be perfect.
+
+If you're still struggling, it might be helpful to speak with a mental health professional who can provide personalized support and guidance.",gita:gita_chapter3_verse_files/435;mahabharat:688;gita:gita_chapter2_verse_files/336,0.194088;0.187989;0.186434,narrative_therapy_corpus,benchmark_v1,350,17.65,2026-09-27T13:51:46.537121+00:00
+Mistral-7B__RAG__Q09,Mistral-7B,mistral:7b,RAG,9,My brother and I fight constantly about who does more chores. I feel disrespected.," I'm really sorry to hear that you're feeling disrespected in your relationship with your brother. It's important to remember that everyone has unique strengths and contributions, and it's essential to acknowledge and appreciate those differences.
+
+In the ancient Indian epic, the Ramayana, we see a similar dynamic between brothers Rama and Lakshmana. Despite their close bond, they had their moments of disagreement. However, they always found a way to respect each other's roles and maintain harmony.
+
+In another context, we find Dhrtarastra, who, despite being the father of the Kurus, struggled with nepotism and fear, which led to tension with his nephews, the Pandavas. This story serves as a reminder that our feelings and actions can sometimes be influenced by our insecurities and biases.
+
+In your situation, it might be helpful to have an open and honest conversation with your brother about how you feel. Express your feelings without blaming or criticizing him. You could also try to find a compromise where you both share responsibilities more evenly, ensuring that each of you feels valued and respected.
+
+Lastly, consider seeking advice from a trusted third party, such as a family member, friend, or counselor, who can help mediate the conversation and provide guidance on finding a solution that works for both of you. Remember, it's okay to ask for help when you need it. You're not alone in this, and there are resources available to support you.",ramayanam:Dataset_ramayanam/kishkindhakanda/648;gita:gita_verse_files/292;ramayanam:Dataset_ramayanam/kishkindhakanda/652,0.239518;0.220848;0.187272,narrative_therapy_corpus,benchmark_v1,325,16.147,2026-09-27T13:52:02.865312+00:00
+Mistral-7B__RAG__Q10,Mistral-7B,mistral:7b,RAG,10,I moved for work and know no one here. I cry most nights.," I'm really sorry to hear that you're feeling lonely and sad after moving for work. It's completely normal to feel this way when we're in a new environment and away from familiar faces.
+
+In the epic Ramayana, Rama, a character who was also separated from his loved ones, expressed his feelings of loneliness and sorrow. Just like Rama, it's okay to acknowledge and feel your emotions. It's important to remember that you're not alone in this experience.
+
+Here are a few practical steps that might help:
+
+1. Reach out: Connect with your colleagues at work. Sharing a bit about yourself can help build relationships and make you feel more connected.
+
+2. Explore local communities: Look for groups or clubs that align with your interests. This can be a great way to meet people who share similar passions.
+
+3. Self-care: Make sure to take care of yourself physically, emotionally, and mentally. This could include regular exercise, a balanced diet, and activities that help you relax, like reading, meditation, or listening to music.
+
+Remember, it takes time to adjust to new surroundings. Be patient with yourself and allow yourself to feel your emotions. If you ever feel overwhelmed or need immediate support, don't hesitate to reach out to local emergency or crisis services. You're important, and your feelings matter.",ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/563;ramayanam:Dataset_ramayanam/kishkindhakanda/508,0.271720;0.233841;0.231870,narrative_therapy_corpus,benchmark_v1,299,14.151,2026-09-27T13:52:17.178189+00:00
+Mistral-7B__RAG__Q11,Mistral-7B,mistral:7b,RAG,11,I'm devastated because I scored much lower than expected in my semester exam. The stress is overwhelming-how do I cope?," I'm really sorry to hear that you're feeling overwhelmed and disappointed about your exam results. It's completely normal to feel this way, especially when we set high expectations for ourselves.
+
+In the ancient Indian epic, the Mahabharata, King Yudhishthira also experienced intense feelings of guilt and disappointment after the Kurukshetra war. However, he was guided by wise elders who helped him process his emotions and find a way forward.
+
+Similarly, you can take a few practical steps to cope with your feelings:
+
+1. Acknowledge your feelings: It's important to acknowledge and accept your emotions. Recognize that it's okay to feel disappointed and overwhelmed.
+
+2. Seek support: Reach out to friends, family, or a mentor who can provide emotional support and help you work through your feelings.
+
+3. Reframe your perspective: Try to see this as an opportunity for growth rather than a setback. Understand that one exam does not define your worth or abilities.
+
+4. Plan for improvement: Make a study plan for the next semester, focusing on areas where you struggled. This will help you feel more in control and motivated.
+
+5. Practice self-care: Ensure you're taking care of your physical and mental health. This could include getting enough sleep, eating well, exercising, and taking breaks when needed.
+
+Remember, it's okay to take time to process your feelings and seek help when needed. You're not alone in this, and there are many resources available to support you.",mahabharat:731;mahabharat:700;mahabharat:701,0.237449;0.236989;0.236779,narrative_therapy_corpus,benchmark_v1,340,17.766,2026-09-27T13:52:35.115231+00:00
+Mistral-7B__RAG__Q12,Mistral-7B,mistral:7b,RAG,12,My heart races before every lab presentation; I feel I'll mess up and be judged," I'm really sorry to hear that you're feeling anxious about your lab presentations. It's completely normal to feel nervous before speaking in front of others, but your feelings seem to be causing you significant distress.
+
+Let's take a cue from the ancient wisdom of the Bhagavad Gita. In this sacred text, Krishna advises Arjuna to focus on his duty (in your case, preparing and presenting) without being overly attached to the results (the judgment or outcome). By shifting your focus from the potential judgment of others to the authenticity of your effort, you might find that your anxiety decreases.
+
+Remember, it's important to perform your own natural duty (Svadharma), even if it's not perfect. Comparing yourself to others can breed fear and anxiety, so try to stay true to your own path.
+
+Here are a few practical steps you could consider:
+
+1. Preparation: Make sure you're well-prepared for your presentation. This will help boost your confidence and reduce anxiety.
+
+2. Practice: Rehearse your presentation multiple times to become more comfortable with the material and the delivery.
+
+3. Mindfulness: Try mindfulness techniques, such as deep breathing exercises, to help manage your anxiety before the presentation.
+
+4. Perspective: Remember that everyone makes mistakes, and it's okay if things don't go perfectly. Focus on learning from your experiences rather than fearing them.
+
+5. Self-compassion: Be kind to yourself. Acknowledge your feelings, but try not to let them control you. Instead, channel that energy into your presentation.
+
+If your anxiety persists or if you feel it's affecting your daily life, it might be helpful to speak with a mental health professional. They can provide additional strategies and support to help you manage your anxiety.",mahabharat:687;gita:gita_chapter2_verse_files/376;mahabharat:712,0.282451;0.264135;0.262722,narrative_therapy_corpus,benchmark_v1,401,20.066,2026-09-27T13:52:55.354543+00:00
+Mistral-7B__RAG__Q13,Mistral-7B,mistral:7b,RAG,13,I feel paralyzed by fear of getting rejected from internships," I'm really sorry that you're feeling this way, but I'm unable to provide the emotional support that you need. It's important to remember, however, that feelings of fear and anxiety are common, especially when facing challenges like applying for internships.
+
+The ancient text, the Bhagavad Gita, offers some insights that might help. In Chapter 3, Verse 435, it explains that our senses naturally experience attraction and aversion towards things, and this can create an emotional rollercoaster. However, it's crucial not to let these feelings control us, as attachment and aversion can act as major obstacles on the path of self-mastery.
+
+In another passage from the Ramayana, Sugreeva struggled to make a steadfast decision due to overwhelming fright (Ramayanam, Kishkindhakanda, Verse 589). Just like Sugreeva, you might feel paralyzed by fear, but remember that it's okay to feel scared. What's important is to take a step forward despite the fear.
+
+Here are a few practical steps you can take:
+
+1. Preparation: Make sure your application materials are well-prepared and tailored to the internship you're applying for.
+2. Practice: Practice answering common interview questions to build your confidence.
+3. Persistence: Don't let rejection discourage you. Keep applying and learning from each experience.
+
+Remember, it's okay to ask for help. Reach out to a mentor, career counselor, or trusted friend for support. If you're feeling overwhelmed or in immediate danger, please seek help from local emergency or crisis support services. You're not alone in this, and it's important to take care of yourself during this process. Wishing you all the best!",gita:gita_chapter3_verse_files/435;ramayanam:Dataset_ramayanam/kishkindhakanda/589;gita:gita_chapter3_verse_files/433,0.237794;0.214507;0.182841,narrative_therapy_corpus,benchmark_v1,401,20.492,2026-09-27T13:53:15.985592+00:00
+Mistral-7B__RAG__Q14,Mistral-7B,mistral:7b,RAG,14,Since moving cities I feel a persistent sadness I can't shake.," I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It's completely normal to feel a sense of loss and sadness when moving to a new city, especially if you've left behind cherished memories and relationships. The narratives from the Ramayana you shared beautifully illustrate the profound emotional impact of change and separation.
+
+Just as Rama's absence was deeply felt in Ayodhya, causing a palpable shift in the city's atmosphere, your absence might be felt by those you left behind. Similarly, the vibrant sounds and sights of your new city might serve as emotional triggers, intensifying your feelings of loss.
+
+It's important to remember that it's okay to grieve and take time to adjust. Here are a few practical steps that might help:
+
+1. Reach out to friends and family: Connecting with loved ones can provide comfort and support during this transition.
+2. Explore your new city: Finding new places to enjoy and activities to engage in can help you create new, positive memories.
+3. Practice self-care: Ensure you're getting enough sleep, eating well, and taking time for relaxation and hobbies.
+
+If your feelings of sadness persist or become overwhelming, it might be helpful to speak with a mental health professional. They can provide guidance and support tailored to your specific needs. Remember, it's okay to ask for help when you need it. You're not alone in this, and there are people who care and want to help you through this challenging time.",ramayanam:Dataset_ramayanam/ayodhyakanda/123;ramayanam:Dataset_ramayanam/kishkindhakanda/508;ramayanam:Dataset_ramayanam/ayodhyakanda/211,0.291324;0.289483;0.277095,narrative_therapy_corpus,benchmark_v1,346,19.399,2026-09-27T13:53:35.502852+00:00
+Mistral-7B__RAG__Q15,Mistral-7B,mistral:7b,RAG,15,Nothing I do seems to matter; what's the point of working toward goals?," I'm really sorry that you're feeling this way, but I'm unable to provide the kind of help that you need. It's important to remember, however, that every action we take, no matter how small, has an impact.
+
+In the Bhagavad Gita, a sacred Hindu text, it is said that we should focus on our duty and let go of the need for the outcome. This means that we should strive to do our best, but not become overly attached to the results. By doing this, we can find peace and reduce anxiety.
+
+In the Ramayana, another important Hindu text, Lakshmana shows us the power of determination. He declares that they will search every forest, cross every ocean, and tear down every stronghold to rescue Sita. This shows us that even in the face of seemingly insurmountable obstacles, we can find the strength to keep going.
+
+So, my suggestion is to focus on the task at hand, do your best, and let go of the need for a specific outcome. And remember, every small action can make a difference. If you're struggling with feelings of hopelessness, it might be helpful to speak with a mental health professional who can provide you with the support you need.",gita:gita_chapter2_verse_files/376;gita:gita_chapter4_verse_files/463;ramayanam:Dataset_ramayanam/kishkindhakanda/581,0.308732;0.293742;0.293741,narrative_therapy_corpus,benchmark_v1,273,13.464,2026-09-27T13:53:49.120764+00:00
+Mistral-7B__RAG__Q16,Mistral-7B,mistral:7b,RAG,16,I explode at teammates when deadlines slip-how do I stay calm?," I understand that it can be challenging to maintain calmness when deadlines slip, especially in a team setting. It's important to remember that everyone makes mistakes and faces challenges. Here are a few practical steps you can take to help manage your emotions:
+
+1. Practice deep breathing exercises: Taking slow, deep breaths can help calm your nervous system and reduce feelings of anger or frustration.
+
+2. Reframe your thoughts: Instead of focusing on the negative aspects of the situation, try to find the positive. For example, instead of thinking ""My teammates are letting me down,"" you could think ""We're all working hard to meet this deadline, and it's just taking a bit longer than expected.""
+
+3. Channel your energy: Similar to Rama in the Mahabharata, try to channel your energy into finding a solution rather than lashing out. Ask your teammates for updates, offer assistance, and work together to find a way to meet the deadline.
+
+4. Practice detachment: As Krishna advises Arjuna in the Bhagavad Gita, try to focus on your duty (meeting the deadline) rather than the outcome (whether the deadline is met or not). This can help reduce feelings of anxiety and frustration.
+
+5. Seek support: If you're finding it difficult to manage your emotions, consider reaching out to a trusted colleague, mentor, or counselor for support. They can help you develop strategies for managing stress and anger in a healthy way.
+
+Remember, it's okay to feel frustrated, but it's important to find constructive ways to express those feelings. By practicing these techniques, you can help maintain your calm and work effectively with your team.",mahabharat:734;gita:gita_chapter2_verse_files/376;ramayanam:Dataset_ramayanam/kishkindhakanda/629,0.238952;0.221595;0.220655,narrative_therapy_corpus,benchmark_v1,368,18.918,2026-09-27T13:54:08.175596+00:00
+Mistral-7B__RAG__Q17,Mistral-7B,mistral:7b,RAG,17,"My moods swing wildly during project weeks-happy, then discouraged."," I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It's completely normal to experience emotional highs and lows, especially during challenging periods like project weeks.
+
+Just like Hanuman in the Ramayana, who felt gladness and then took action, it's important to acknowledge your feelings and then find ways to channel them productively. Here are a few practical steps that might help:
+
+1. **Self-care**: Make sure you're taking care of your physical health. Eat well, exercise, and get enough sleep. These basic needs can greatly impact your mood and energy levels.
+
+2. **Break it down**: Large projects can seem overwhelming. Try breaking them down into smaller, manageable tasks. This can make the work feel less daunting and help you maintain a sense of progress.
+
+3. **Support system**: Reach out to friends, family, or mentors for support. Sharing your feelings with someone else can provide a fresh perspective and help you feel less alone.
+
+4. **Mindfulness**: Practice mindfulness techniques, such as meditation or deep breathing exercises, to help manage stress and maintain focus.
+
+5. **Professional help**: If your mood swings persist or are causing significant distress, it may be helpful to seek advice from a mental health professional. They can provide strategies tailored to your specific needs.
+
+Remember, it's okay to not be okay sometimes. It's important to be patient with yourself and to seek help when you need it. You're not alone in this, and there are resources available to support you.",ramayanam:Dataset_ramayanam/kishkindhakanda/565;ramayanam:Dataset_ramayanam/kishkindhakanda/629;ramayanam:Dataset_ramayanam/kishkindhakanda/632,0.310236;0.307407;0.303748,narrative_therapy_corpus,benchmark_v1,355,17.722,2026-09-27T13:54:26.287658+00:00
+Mistral-7B__RAG__Q18,Mistral-7B,mistral:7b,RAG,18,My parents and I clash over my career choices-constant tension at home.," I'm really sorry to hear that you're experiencing tension at home due to differences in career choices. It's important to remember that such situations can be challenging, but they're also opportunities for growth and understanding.
+
+In the Ramayana, King Dasaratha and Visvamitra faced a similar dilemma, with Dasaratha expressing his concerns about sending his young son Rama on a dangerous mission. This passage highlights the intense emotions that can arise when we face difficult decisions, especially those that involve our loved ones.
+
+Similarly, in the Mahabharata, Dhrtarastra's anxiety over the outcome of the Kurukshetra war led him to question his secretary, Sanjaya. His question reveals a deep-seated fear of losing control and power.
+
+In both cases, the characters were dealing with intense emotions and fears. In your situation, it might be helpful to approach the issue with empathy and understanding, just as Krishna advised in the Bhagavad Gita. Instead of focusing on the disagreement, you could try to find common ground and discuss your career choices in a spirit of service and dedication.
+
+Here are a few practical steps you might consider:
+
+1. Open a dialogue: Have an honest conversation with your parents about your career choices. Express your feelings and listen to their concerns.
+
+2. Find common ground: Discuss the values and goals that are important to both you and your parents. This can help you find a career path that aligns with their expectations while still allowing you to pursue your passions.
+
+3. Seek advice: If you're still unsure about your career choices, consider seeking advice from a career counselor or mentor. They can provide guidance and help you make informed decisions.
+
+Remember, it's okay to have differences, but it's also important to find a way to work through them. With patience, understanding, and open communication, you can navigate this challenging situation and find a solution that works for everyone.
+
+Take care and stay strong.",ramayanam:Dataset_ramayanam/balakanda/12;gita:gita_verse_files/292;gita:gita_chapter3_verse_files/427,0.225652;0.224238;0.224003,narrative_therapy_corpus,benchmark_v1,444,23.852,2026-09-27T13:54:50.280035+00:00
+Mistral-7B__RAG__Q19,Mistral-7B,mistral:7b,RAG,19,My partner and I misinterpret texts and end up arguing," I'm really sorry to hear that miscommunication in your relationship is causing stress. It's quite common for misunderstandings to occur, especially in text-based conversations where tone and intent can be difficult to discern.
+
+In the ancient Indian epic, the Ramayana, we see characters like Sugreeva and Hanuma navigating complex situations through open dialogue and attentive listening. Sugreeva, for instance, listens fully to Hanuma's advice and formulates a measured response (Passage 1). Similarly, Hanuma steps forward to intervene verbally, using his articulate speech to calm an anxious Sugreeva (Passage 2).
+
+In your situation, I'd suggest taking a page from their book. When you find yourself in a disagreement, try to set aside any initial reactions and instead focus on actively listening to your partner's perspective. This can help you understand their intentions and feelings more clearly.
+
+On the other hand, when it's your turn to speak, make sure to express yourself clearly and calmly. This can help your partner understand your perspective better.
+
+Lastly, don't hesitate to have open conversations about your concerns. By discussing your miscommunications, you can work together to find solutions that help you both feel heard and understood.
+
+Remember, it's okay to seek help if needed. If your disagreements are causing significant distress, consider reaching out to a counselor or therapist who can provide guidance and support. You're not alone in this, and there are resources available to help you navigate through difficult times.",ramayanam:Dataset_ramayanam/kishkindhakanda/605;ramayanam:Dataset_ramayanam/kishkindhakanda/599;ramayanam:Dataset_ramayanam/kishkindhakanda/612,0.283788;0.267082;0.250358,narrative_therapy_corpus,benchmark_v1,342,16.924,2026-09-27T13:55:07.330052+00:00
+Mistral-7B__RAG__Q20,Mistral-7B,mistral:7b,RAG,20,I can't stand being corrected; it feels like a blow to my identity.," I understand that being corrected can sometimes feel like a challenge to your identity, but it's essential to remember that it's an opportunity for growth and self-improvement. In the ancient Indian epic, the Mahabharata, Krishna advises staying true to one's authentic nature and personal duty (Svadharma), warning against mimicking others (Passage 1). This passage emphasizes the importance of authenticity and self-actualization, which can help you navigate feelings of being corrected.
+
+In another epic, the Ramayana, Hanuma uses candid, witty feedback to call out Sugreeva's irrational fickleness (Passage 2). This benevolent confrontation can serve as an example of how direct, lighthearted communication can help you address and correct your own irrational thoughts or behaviors.
+
+Karna's story from the Mahabharata illustrates the profound impact of early childhood trauma and social rejection on identity (Passage 3). Despite being offered the throne, Karna chose gratitude and moral integrity over power and royal status, remaining faithful to his benefactor, even though he knew it would lead to his tragic demise. Karna's story shows that loyalty and authentic validation can shape identity more than biological kinship.
+
+In your case, it might be helpful to approach corrections as opportunities to learn and grow, rather than threats to your identity. Remember that everyone makes mistakes, and it's through these experiences that we can develop a stronger sense of self. Here are a few practical steps you can take:
+
+1. Practice self-compassion: Be kind to yourself when you make mistakes or receive corrections. Remember that everyone is human and prone to error.
+2. Reflect on the correction: Take some time to think about the correction you received and consider what you can learn from it. Ask yourself, ""What can I do differently next time?""
+3. Seek understanding: If you're unsure about the correction, don't hesitate to ask for clarification. It's important to understand the reasoning behind the correction so you can grow from the experience.",mahabharat:712;ramayanam:Dataset_ramayanam/kishkindhakanda/603;mahabharat:691,0.192673;0.159439;0.139003,narrative_therapy_corpus,benchmark_v1,453,22.726,2026-09-27T13:55:30.175148+00:00
+Mistral-7B__RAG__Q21,Mistral-7B,mistral:7b,RAG,21,I often think I'm not good enough compared with peers.," I'm really sorry to hear that you're feeling this way, but I'm unable to provide personalized advice. However, I can share some insights from the ancient Indian scripture, the Bhagavad Gita, which might help you feel more at ease.
+
+In the Bhagavad Gita, Krishna emphasizes the importance of staying true to your authentic nature and personal duty (Svadharma). He advises against comparing yourself to others and instead encourages focusing on your own path. Remember, it's far better to perform your own natural duty, even if imperfectly, than to master another's.
+
+Comparing yourself to others can breed fear and anxiety, as you've mentioned. Krishna also suggests that wise individuals should refrain from unsettling the minds of unlearned individuals who are attached to their current paths. Instead, they should inspire and guide them to perform their duties in a spirit of dedication and service.
+
+Embracing your authentic skills and responsibilities, flaws included, fosters real self-esteem and resilience. It's essential to understand that everyone has unique strengths and weaknesses, and it's these differences that make us all special.
+
+Here are a few practical steps you can take:
+
+1. Reflect on your own strengths and passions. Focusing on what you're good at can help boost your self-esteem and motivation.
+2. Practice self-compassion. Be kind to yourself, and remember that everyone makes mistakes and faces challenges.
+3. Seek support. Talk to trusted friends, family, or a mental health professional if you're struggling with feelings of inadequacy or self-doubt.",mahabharat:712;gita:gita_chapter3_verse_files/427;gita:gita_chapter3_verse_files/436,0.260632;0.244647;0.232631,narrative_therapy_corpus,benchmark_v1,369,18.086,2026-09-27T13:55:48.392064+00:00
+Mistral-7B__RAG__Q22,Mistral-7B,mistral:7b,RAG,22,All I do is code and study; I feel alone and drained.," I'm really sorry that you're feeling this way, but it's wonderful that you've reached out for support. It's common to feel lonely and drained when we're focusing intensely on our work, especially if it involves a lot of solitary activities like coding and studying.
+
+Just like Rama in the Ramayana, you might find yourself feeling a sense of emptiness or alienation when those around you seem to be enjoying life while you're feeling drained. It's important to remember that everyone has their own unique experiences and challenges, and it's okay to take a break and seek connection when you need it.
+
+Here are a few practical steps you can take:
+
+1. Reach out to a friend or family member and share how you're feeling. Sometimes, just talking about what we're going through can help us feel less alone.
+
+2. Make time for activities you enjoy outside of work. This could be anything from reading a book, going for a walk, or practicing a hobby. Taking breaks to do things you love can help recharge your batteries and reduce feelings of loneliness.
+
+3. Consider joining a study group or online community related to your field. This can provide a sense of connection and support with others who are going through similar experiences.
+
+Remember, it's okay to ask for help and it's okay to take care of yourself. You're not alone in this, and there are people who care about you and want to support you. If you ever feel like you're in immediate danger or need urgent help, please reach out to a local crisis hotline. Take care of yourself, and remember that it's okay to take breaks and prioritize your mental health.",ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/563;ramayanam:Dataset_ramayanam/kishkindhakanda/559,0.226666;0.207555;0.206397,narrative_therapy_corpus,benchmark_v1,374,17.91,2026-09-27T13:56:06.435532+00:00
+Mistral-7B__RAG__Q23,Mistral-7B,mistral:7b,RAG,23,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?," I'm really sorry to hear that you're feeling emotionally drained after a sudden change in your life circumstances. It's completely normal to feel this way, and it's important to remember that you're not alone.
+
+In the ancient Indian epic, the Mahabharata, King Yudhishthira experienced a profound sense of despair and survivor's guilt after a traumatic event. However, through guidance and wisdom from Bhishma and Krishna, he was able to find clarity and transform his trauma into a commitment to righteous governance.
+
+Similarly, in the Bhagavad Gita, Krishna advises Arjuna to endure life's experiences patiently, recognizing that they are temporary and impermanent. This aligns with the concept of 'Titiksha' or forbearance, which is a key component of Dialectical Behavior Therapy (DBT).
+
+Here are a few practical steps you can take to cope:
+
+1. Practice mindfulness: Focus on the present moment and try to observe your thoughts and feelings without judgment. This can help you to better understand and manage your emotions.
+
+2. Seek support: Reach out to friends, family, or a mental health professional if you need someone to talk to. Sharing your feelings with others can help you to feel less alone and more understood.
+
+3. Practice self-care: Make sure to take care of your physical health by eating well, exercising, and getting enough sleep. This can help to boost your mood and energy levels.
+
+Remember, it's okay to take things one step at a time and to be patient with yourself as you navigate through this challenging time. You are strong, and you have the ability to cope and grow from this experience.
+
+Wishing you all the best on your journey towards healing and growth.",mahabharat:700;gita:gita_chapter2_verse_files/380;mahabharat:707,0.280075;0.266670;0.264263,narrative_therapy_corpus,benchmark_v1,403,21.148,2026-09-27T13:56:27.702885+00:00
+Mistral-7B__RAG__Q24,Mistral-7B,mistral:7b,RAG,24,Why do I get so attached to people that their absence breaks me?," I'm really sorry that you're feeling this way, but I'm unable to provide the emotional support that you need. It's important to remember that feelings of attachment to people are a natural part of being human, and it's okay to feel sad when those connections are lost.
+
+The Bhagavad Gita, an ancient Indian scripture, provides some insight into this issue. It explains that our thoughts and feelings can lead us down a path of emotional dysregulation, as we develop attachments to the objects of our senses, including people. This can result in feelings of intense longing and sadness when those attachments are separated from us.
+
+In the Ramayana, Rama, a legendary hero, also experienced feelings of loneliness and heartache when he observed the bond between other animals. This shows that even great heroes can feel the pain of separation.
+
+To help manage these feelings, it might be helpful to practice mindfulness and self-compassion. Mindfulness can help you become more aware of your thoughts and feelings, and self-compassion can help you treat yourself with kindness and understanding during difficult times.
+
+Additionally, it can be helpful to seek out social support from friends, family, or a mental health professional. Talking about your feelings with someone you trust can help you process them and find ways to cope.
+
+Remember, it's okay to ask for help and it's okay to feel sad. You are not alone, and there are many resources available to support you. If you are feeling overwhelmed or at risk of harming yourself, please reach out to a local crisis hotline or emergency services for immediate help.",mahabharat:732;gita:gita_chapter2_verse_files/391;ramayanam:Dataset_ramayanam/kishkindhakanda/539,0.290664;0.290533;0.285607,narrative_therapy_corpus,benchmark_v1,352,17.504,2026-09-27T13:56:45.277272+00:00
+Mistral-7B__RAG__Q25,Mistral-7B,mistral:7b,RAG,25,I'm unable to let go of my disappointment after a failure. I feel stuck.," I'm really sorry to hear that you're feeling stuck due to your disappointment after a failure. It's important to remember that everyone experiences setbacks, and it's a natural part of life.
+
+In the ancient Indian epic, the Ramayana, Lakshmana once said, ""Despair paralyzes effort, O brother; those who succumb to sorrow lose their capacity for action and ultimate victory..."" This passage highlights the impact of unchecked sorrow on our ability to take action and move forward. It's crucial to acknowledge your feelings, but try not to let them consume you.
+
+Similarly, in the Mahabharata, King Yudhisthira faced intense regret after losing his kingdom through gambling. Sage Brihadasva offered him a story of King Nala, who also faced adversity but regained his domain through endurance. The sage reminded Yudhisthira, ""Time rotates like a wheel; sorrow follows joy, and joy follows sorrow. Do not let grief undermine your resolve."" This narrative therapy helped Yudhisthira reframe his perspective and find strength to move forward.
+
+In your case, it might be helpful to take a step back and reflect on the situation that caused your disappointment. Acknowledge your feelings, but try to identify any lessons or insights you can gain from the experience. Remember that it's okay to take time to heal and regroup before moving forward.
+
+Here are a few practical steps you can take:
+
+1. Practice self-compassion: Be kind to yourself and acknowledge that everyone makes mistakes.
+2. Seek support: Reach out to friends, family, or a mental health professional if you need someone to talk to.
+3. Focus on what you can control: Instead of dwelling on the past, focus on what you can do now to improve the situation.
+
+Remember, it's okay to feel stuck sometimes, but it's important to take steps to move forward. You've got this!",ramayanam:Dataset_ramayanam/kishkindhakanda/580;mahabharat:730;ramayanam:Dataset_ramayanam/kishkindhakanda/549,0.350036;0.320460;0.310430,narrative_therapy_corpus,benchmark_v1,432,20.648,2026-09-27T13:57:06.000811+00:00
+Mistral-7B__RAG__Q26,Mistral-7B,mistral:7b,RAG,26,"My emotions fluctuate drastically-one moment I'm happy, then overwhelmed. Why?"," I'm really sorry that you're feeling this way, but I'm unable to provide the personalized help that you need. It's completely normal to experience emotional fluctuations, and it seems like you might be going through a challenging time.
+
+In the ancient Indian text, the Bhagavad Gita, Krishna describes a sage of steady wisdom who remains undisturbed amidst miseries and does not crave pleasures (Passage 1). This can serve as a benchmark for emotional regulation and psychological homeostasis.
+
+In another passage, Rama laments feeling restless despite being in peaceful surroundings (Passage 2). This shows that even in serene environments, internal distress can persist, making it difficult to find peace.
+
+Krishna also counsels Arjuna on the impermanence of distress and the importance of enduring it patiently (Passage 3). This aligns with the concepts of radical acceptance and distress tolerance in Dialectical Behavior Therapy (DBT).
+
+To help manage your emotions, consider these practical steps:
+
+1. Practice mindfulness: Focus on the present moment, acknowledging your feelings without judgment.
+2. Seek support: Reach out to trusted friends, family, or mental health professionals for guidance and understanding.
+3. Embrace self-compassion: Be kind to yourself, recognizing that everyone experiences emotional fluctuations and that it's okay to ask for help.
+
+If you're feeling overwhelmed or at immediate risk, please consider reaching out to local emergency or crisis support services. You're not alone, and there are people who care and want to help.",mahabharat:720;ramayanam:Dataset_ramayanam/kishkindhakanda/565;mahabharat:707,0.322107;0.313879;0.310341,narrative_therapy_corpus,benchmark_v1,355,16.995,2026-09-27T13:57:23.074732+00:00
+Mistral-7B__RAG__Q27,Mistral-7B,mistral:7b,RAG,27,I feel fear when facing new challenges. I avoid trying," I'm really sorry to hear that you're feeling fearful when facing new challenges, but it's completely okay to feel this way. It's important to remember that feelings are a natural part of the human experience, and everyone experiences them differently.
+
+In the ancient Indian epic, the Ramayana, we find a character named Sugreeva who, like you, struggled with fear. He was so frightened that he found it hard to make decisions. This might resonate with you, as you mentioned avoiding new challenges due to fear.
+
+However, Sugreeva also teaches us an important lesson about managing fear. He learned that it's essential to assess the risks and be aware of potential dangers, but not to let fear control his life. He sought help from others, like Rama, to provide him with a sense of safety and protection.
+
+Similarly, you can take steps to manage your fear and face new challenges. Here are a few practical next steps:
+
+1. Acknowledge your feelings: Recognize that it's okay to feel fear, and give yourself permission to feel it. Acknowledging your feelings is the first step towards managing them.
+
+2. Break it down: Break down the challenge into smaller, manageable steps. This can make the task seem less overwhelming and more achievable.
+
+3. Seek support: Reach out to trusted friends, family, or mental health professionals for support. Having a support system can help you feel more confident and less alone in facing your fears.
+
+Remember, it's okay to take things at your own pace. You don't have to face new challenges alone, and it's important to prioritize your mental health and well-being. If you ever feel like you're in immediate danger or at risk of self-harm, please seek local emergency or crisis support. You are important, and your feelings matter.",ramayanam:Dataset_ramayanam/kishkindhakanda/589;ramayanam:Dataset_ramayanam/kishkindhakanda/608;ramayanam:Dataset_ramayanam/kishkindhakanda/679,0.440471;0.388920;0.375869,narrative_therapy_corpus,benchmark_v1,407,19.328,2026-09-27T13:57:42.478424+00:00
+Mistral-7B__RAG__Q28,Mistral-7B,mistral:7b,RAG,28,I constantly feel like I'm not good enough compared to others.," I'm really sorry to hear that you're feeling this way, but I'm unable to provide one-on-one counseling. However, I can share some insights from ancient wisdom that might help you feel more at ease.
+
+In the Bhagavad Gita, Krishna emphasizes the importance of staying true to your authentic nature and personal duty (Svadharma). He advises against mimicking others, as it can lead to fear and anxiety. Instead, he encourages focusing on your own path and embracing your unique skills and responsibilities, even with their flaws.
+
+Another passage highlights that the mind can act as a friend or a foe, depending on your self-mastery. By developing self-control and self-discipline, you can foster resilience and healthy self-efficacy.
+
+Remember, everyone has their own journey, and it's essential to focus on your progress rather than comparing yourself to others. Here are a few practical steps to help you:
+
+1. Reflect on your personal values, strengths, and passions. Focus on developing these areas rather than trying to emulate others.
+2. Practice mindfulness and self-compassion. Acknowledge your feelings without judgment and treat yourself with kindness.
+3. Seek support from trusted friends, family, or mental health professionals if needed. Sharing your feelings with others can help you feel less alone and provide valuable perspectives.
+
+It's important to remember that it's okay to not be perfect and that everyone experiences self-doubt at times. By focusing on your authentic self and practicing self-mastery, you can cultivate a more positive and resilient mindset.",mahabharat:712;gita:gita_chapter3_verse_files/436;mahabharat:688,0.224875;0.195851;0.195458,narrative_therapy_corpus,benchmark_v1,365,17.81,2026-09-27T13:58:00.358005+00:00
+Mistral-7B__RAG__Q29,Mistral-7B,mistral:7b,RAG,29,I feel lonely even in a crowd. No one understands me.," I'm really sorry that you're feeling this way, but I'm unable to provide the kind of personalized help that you need. It's important to remember that feelings of loneliness, even in a crowd, are quite common and can be intensified by observing bond-affirming behavior in others, as Rama experienced in the Ramayana.
+
+Just like Rama, you might find comfort in confiding in a trusted friend or family member about your feelings. Sharing your thoughts and emotions with someone who cares about you can help you feel less alone and more understood.
+
+Another step could be to engage in activities that bring you joy and help you connect with others who share similar interests. This could be anything from joining a club or group, volunteering, or even taking up a new hobby.
+
+Lastly, consider seeking professional help if your feelings of loneliness persist. A mental health professional can provide you with strategies and support to help you navigate these feelings and find ways to connect with others.
+
+Remember, it's okay to ask for help and it's okay to not be okay. You are not alone in this, and there are resources available to help you. If you're in immediate danger or at risk of self-harm, please reach out to local emergency or crisis support services. Take care of yourself.",ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/559;ramayanam:Dataset_ramayanam/kishkindhakanda/523,0.336071;0.300905;0.239877,narrative_therapy_corpus,benchmark_v1,289,13.648,2026-09-27T13:58:14.081425+00:00
+Mistral-7B__RAG__Q30,Mistral-7B,mistral:7b,RAG,30,I keep replaying bad memories- can't move on.," I'm really sorry that you're feeling this way, but I'm unable to provide the kind of help that you need. It's important to remember that everyone experiences difficult moments, and it's natural for memories of past struggles to resurface. However, when these memories become overwhelming and prevent us from moving forward, it can be helpful to seek out new perspectives.
+
+In the ancient Indian epic, the Mahabharata, King Yudhisthira also struggled with intense regret and sorrow. Sage Brihadasva reminded him that life's challenges are cyclical, and that sorrow follows joy and joy follows sorrow. Just as King Yudhisthira was able to find a way to endure and eventually regain his kingdom, you too can find a way to move forward.
+
+Another example can be found in the Ramayana, where Rama reminisced about joyful moments with his wife Seetha to cope with her present absence. By focusing on these positive memories, Rama was able to find comfort and strength.
+
+In the Bhagavad Gita, Krishna reminds Arjuna that both he and Arjuna have passed through countless births, but while Krishna retains full, flawless memory of all of them, Arjuna cannot. This teaches us that our perception and memory are selective and bounded by physical constraints. Recognizing our limited perspective can help cultivate intellectual humility and reliance on higher guidance.
+
+To help you move on from your difficult memories, here are a few practical steps you can take:
+
+1. Practice mindfulness and meditation to help quiet your mind and find inner peace.
+2. Seek out positive distractions, such as spending time with loved ones, engaging in hobbies, or practicing self-care.
+3. Consider speaking with a mental health professional who can provide additional support and guidance.",mahabharat:730;ramayanam:Dataset_ramayanam/kishkindhakanda/511;gita:gita_chapter4_verse_files/454,0.272365;0.268669;0.254612,narrative_therapy_corpus,benchmark_v1,408,19.779,2026-09-27T13:58:33.925877+00:00
+Mistral-7B__RAG__Q31,Mistral-7B,mistral:7b,RAG,31,I feel like no one appreciates what I do," I'm really sorry to hear that you're feeling unappreciated. It's a common human experience to desire recognition for our efforts, and it can be disheartening when it seems like our contributions go unnoticed.
+
+Let's take a look at the Bhagavad Gita, a sacred text that offers wisdom on many aspects of life, including work and appreciation. In Chapter 3, Verse 423, it's mentioned that Lord Krishna, despite being the Supreme Being and lacking any need for work or recognition, still engages in duty to maintain cosmic order and model responsible behavior. This shows that even when we feel unappreciated, we can find motivation in the intrinsic value of our actions.
+
+In Chapter 2, Verse 378, Krishna encourages us to work not for personal gain, but as an act of devotion. By reframing our work as a service to something greater than ourselves, we can tap into a deeper well of motivation and reduce the ego's constant anxiety over 'getting mine.'
+
+Lastly, in Chapter 18, Verse 66, Krishna says, ""You have the right to work, but never to the fruit of work."" This means that while we should strive to do our best, we should also learn to let go of the need for external validation.
+
+Remember, it's important to validate your own efforts and find satisfaction in the work itself, rather than relying on others for validation. Here are a few practical steps you might find helpful:
+
+1. Reframe your work as a service or devotion to something greater than yourself.
+2. Practice self-compassion and acknowledge your own efforts and achievements.
+3. Seek out opportunities to express gratitude and appreciation for others' contributions. This can help foster a more positive and supportive environment.",gita:gita_chapter3_verse_files/423;gita:gita_chapter2_verse_files/378;gita:gita_verse_files/299,0.214632;0.209460;0.191127,narrative_therapy_corpus,benchmark_v1,404,20.886,2026-09-27T13:58:54.877604+00:00
+Mistral-7B__RAG__Q32,Mistral-7B,mistral:7b,RAG,32,I avoid responsibilities because I fear I'll fail.," I'm really glad you reached out. It's completely normal to feel anxious about taking on responsibilities, especially when we fear failure. Let's explore a wisdom from the Bhagavad Gita that might help you navigate these feelings.
+
+In the Bhagavad Gita, Krishna advises Arjuna to perform his prescribed duty without being attached to the results. This means focusing on the effort you put into your responsibilities, rather than worrying about the outcome. By doing so, you can eliminate performance anxiety and the temptation to quit.
+
+Another passage emphasizes the importance of renouncing the fruits of your actions and being firmly rooted in your self. This can help clear mental ambiguity and empower fearless, effective action.
+
+Lastly, Krishna asserts that following your own natural path (sva-dharma) is far better than adopting another's path (para-dharma). Embracing your authentic skills and responsibilities, even with flaws, fosters real self-esteem and resilience.
+
+So, here are some practical steps for you:
+
+1. Focus on the effort: Instead of worrying about the outcome, concentrate on giving your best in the present moment.
+2. Let go of attachment: Try to detach from the results of your actions. Remember, you control the effort, but the universe controls the outcome.
+3. Embrace your path: Recognize and accept your unique skills and responsibilities. Don't compare yourself to others or try to live someone else's life.
+
+By following these steps, you can approach your responsibilities with confidence and reduce your anxiety about potential failure. If you ever feel overwhelmed or need additional support, don't hesitate to reach out. You're doing great, and I believe in you!",gita:gita_chapter2_verse_files/376;gita:gita_chapter4_verse_files/485;gita:gita_chapter3_verse_files/436,0.376381;0.333792;0.332318,narrative_therapy_corpus,benchmark_v1,393,19.378,2026-09-27T13:59:14.322545+00:00
+Mistral-7B__RAG__Q33,Mistral-7B,mistral:7b,RAG,33,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?," I'm really sorry to hear that you're feeling emotionally drained after a sudden change in your life circumstances. It's completely normal to feel this way, and it's important to remember that you're not alone in experiencing such emotions.
+
+In the ancient Indian epic, the Mahabharata, King Yudhishthira also felt overwhelmed by the aftermath of a significant life change. However, through guidance from Bhishma and Krishna, he was able to find a way to cope and eventually grow from his experience.
+
+One key lesson from this story is the importance of seeking wisdom and guidance during challenging times. Just as Yudhishthira found solace in the teachings of Bhishma and Krishna, you too can seek support from trusted friends, family, or mental health professionals.
+
+Another lesson is the concept of 'Radical Acceptance,' as mentioned in the Bhagavad Gita. This means accepting that life is inherently challenging and that it's important to let go of the idea that we can control everything to avoid pain. By accepting the reality of our situation, we can find a sense of peace and focus on what we can control.
+
+Lastly, Krishna also emphasized the importance of 'Titiksha,' or forbearance. This means learning to endure difficult emotions patiently without being disturbed. This doesn't mean suppressing your feelings, but rather acknowledging them and finding ways to cope with them.
+
+In terms of practical steps, here are a few suggestions:
+
+1. Seek support: Reach out to trusted friends, family, or mental health professionals for guidance and emotional support.
+2. Practice mindfulness: Focus on the present moment and try to accept your feelings without judgment.
+3. Engage in self-care: Make sure to take care of your physical health by eating well, exercising, and getting enough sleep.
+4. Find meaning: Reflect on what you can learn from this experience and how it can help you grow.
+5. Be patient: Remember that healing takes time, and it's important to be patient with yourself as you work through your emotions.",mahabharat:700;gita:gita_chapter2_verse_files/380;mahabharat:707,0.280075;0.266670;0.264263,narrative_therapy_corpus,benchmark_v1,464,22.944,2026-09-27T13:59:37.353507+00:00
+Mistral-7B__RAG__Q34,Mistral-7B,mistral:7b,RAG,34,"I want to get job in a top mnc like oracle, ibm... i had tried in ibm but i went to interview round and get disqualified so i'm somewhat depressed."," I'm really sorry to hear that you're feeling down after not getting the job at IBM. It's important to remember that setbacks are a part of life and they don't define our worth or potential.
+
+Let's take inspiration from the story of Hanuman in the Mahabharata. Just like him, you too possess matchless speed, wisdom, and power. You've shown courage by applying for a top MNC like IBM, and that's a significant achievement. Jambavan, Hanuman's mentor, reminded him of his forgotten strengths when he was feeling hopeless. Similarly, I encourage you to remember your own strengths and capabilities.
+
+In another instance, Hanuma advised maintaining a firm intellect and confident body language under stress. This could mean focusing on your executive self-possession and presenting yourself with confidence during interviews.
+
+Lastly, Krishna in the Bhagavad Gita explained that meaningful growth requires enduring initial discomfort to reap sustainable well-being. So, while this setback might seem like poison now, it could lead to nectar in the form of valuable learning and growth.
+
+Here are a few practical steps:
+1. Reflect on what you learned from the interview process and how you can improve for future opportunities.
+2. Practice self-care and engage in activities that bring you joy and relaxation.
+3. Keep applying to jobs and remember to stay positive and confident. Each application brings you closer to your goal.",mahabharat:718;ramayanam:Dataset_ramayanam/kishkindhakanda/604;mahabharat:721,0.188395;0.183177;0.154790,narrative_therapy_corpus,benchmark_v1,317,15.706,2026-09-27T13:59:53.164601+00:00
+Mistral-7B__RAG__Q35,Mistral-7B,mistral:7b,RAG,35,I lost many opportunities... whereas my friends got many opportunities where they have done malpractices... what to do should i copy or write in a genuine way.," I'm really sorry to hear that you're feeling this way, but I'm glad you've reached out. It's important to remember that everyone's journey is unique, and it's essential to stay true to yourself.
+
+In the ancient Indian text, the Bhagavad Gita, Krishna emphasizes the importance of authenticity and following one's own path (Svadharma). He warns against mimicking others, as it can lead to fear and anxiety. Instead, he encourages us to focus on our own natural duties and skills, even if they're not perfect.
+
+In another story from the Mahabharata, King Yudhisthira faced a similar situation, feeling regret and humiliation after losing his kingdom through a game of dice. However, he was reminded that life's challenges are cyclical, and it's crucial not to let grief undermine our resolve.
+
+Given your situation, it might be helpful to reflect on your strengths and unique qualities. Instead of feeling envious of your friends, try to learn from their successes while staying true to your own path. If you feel the need to improve certain skills, focus on doing so in an authentic and genuine way, rather than resorting to malpractices.
+
+Remember, it's okay to take your time and make progress at your own pace. It's essential to prioritize your mental health and well-being. If you're feeling overwhelmed, consider reaching out to a trusted friend, family member, or mental health professional for support.
+
+Wishing you strength and resilience on your journey.",mahabharat:712;gita:gita_chapter3_verse_files/436;mahabharat:730,0.268860;0.246660;0.211354,narrative_therapy_corpus,benchmark_v1,348,16.791,2026-09-27T14:00:10.055477+00:00
+Mistral-7B__RAG__Q36,Mistral-7B,mistral:7b,RAG,36,I dont have enough money to survive because of that i am felling sad and i cant enjoy my life happily so what is the solution for that.," I'm really sorry to hear that you're feeling this way due to financial difficulties. It's important to remember that feelings are a natural part of life, and it's okay to feel sad when things aren't going as we'd like.
+
+In the ancient Indian epic, the Mahabharata, King Yudhisthira faced a similar challenge when he lost his kingdom through gambling. However, he was reminded by Sage Brihadasva that life's challenges are cyclical, and sorrow follows joy. This perspective might help you too, as it encourages us to keep moving forward despite our current circumstances.
+
+In another story from the Mahabharata, Rama felt profound grief when his wife Sita was abducted. His brother Lakshmana helped him regain focus by reminding him of the importance of problem-solving and not giving in to despair. This story demonstrates the power of supportive intervention and reality testing during difficult times.
+
+In a similar vein, Arjuna from the Bhagavad Gita recognized that his knowledge and material success were insufficient to alleviate his existential and psychological crisis. He sought spiritual guidance, which ultimately helped him find peace.
+
+Here are a few practical steps you might consider:
+
+1. Reach out to local community resources or organizations that offer financial assistance or counseling services.
+2. Prioritize self-care by engaging in activities that bring you joy, even if they're simple or low-cost.
+3. Connect with friends or family members who can provide emotional support and help you brainstorm solutions.
+
+Remember, it's okay to ask for help, and it's important to take care of yourself during challenging times. You are not alone, and there are resources available to support you. If you're feeling overwhelmed or at immediate risk, please seek local emergency or crisis support.",mahabharat:730;mahabharat:717;gita:gita_chapter2_verse_files/338,0.263145;0.241621;0.241068,narrative_therapy_corpus,benchmark_v1,406,20.04,2026-09-27T14:00:30.188745+00:00
+Mistral-7B__RAG__Q37,Mistral-7B,mistral:7b,RAG,37,I am getting demotivated like what to do in life so what should i do," I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It's important to remember that feelings of demotivation are common and can be overcome.
+
+Let's take inspiration from the teachings of Krishna in the Bhagavad Gita. Krishna advises us not to disturb the beliefs of others, especially those who are attached to their work. Instead, he encourages us to inspire them to perform their duties with dedication and service, elevating their work to a higher spiritual alignment.
+
+In the Mahabharata, Krishna also teaches us the importance of self-responsibility and mental mastery. He says that the mind can be our greatest friend or our worst enemy. By conquering our minds, we can transform it into a supportive internal partner.
+
+Lastly, when Queen Draupadi was feeling frustrated and despairing, Yudhisthira reminded her that doing good is its own intrinsic reward. He advised against letting bitterness take root in her heart.
+
+So, my friend, let's start by taking small steps towards self-mastery. Find something you enjoy and dedicate yourself to it, even if it's just for a few minutes each day. Remember that doing good is its own reward, and let go of any expectations for immediate results.
+
+If you're still feeling overwhelmed, it might be helpful to speak with a mental health professional who can provide you with additional support and guidance. Take care of yourself, and remember that it's okay to ask for help when you need it.",gita:gita_chapter3_verse_files/427;mahabharat:715;mahabharat:709,0.307490;0.277914;0.273535,narrative_therapy_corpus,benchmark_v1,345,17.132,2026-09-27T14:00:47.403728+00:00
+Mistral-7B__RAG__Q38,Mistral-7B,mistral:7b,RAG,38,How can I fight loneliness? im too shy to talk to others.," I'm really sorry to hear that you're feeling lonely, but it's wonderful that you've reached out for support. It's important to remember that feelings of loneliness are common and can be challenging, especially when we feel shy about reaching out to others.
+
+In the ancient Indian epic, the Ramayana, Rama, a character who faced many trials and tribulations, also experienced feelings of loneliness. However, he found solace in confiding in his brother Lakshmana, just as you can find comfort in sharing your feelings with someone you trust.
+
+One practical step you can take is to find a trusted friend, family member, or counselor to talk to about your feelings. It doesn't have to be a long conversation; even a brief check-in can help alleviate some of the burden.
+
+Another step is to engage in activities that bring you joy and help distract you from feelings of loneliness. This could be reading a book, listening to music, or taking a walk in nature.
+
+Lastly, consider joining a group or club that aligns with your interests. This can provide opportunities to meet new people and build connections. Remember, it's okay to start small and gradually increase your social interactions as you feel more comfortable.
+
+Remember, it's okay to feel lonely sometimes, and it's important to be patient and kind with yourself as you navigate these feelings. If you ever feel overwhelmed or at risk, please reach out to a local crisis hotline for immediate support. You're not alone in this, and there are resources available to help you.",ramayanam:Dataset_ramayanam/kishkindhakanda/539;ramayanam:Dataset_ramayanam/kishkindhakanda/559;ramayanam:Dataset_ramayanam/kishkindhakanda/563,0.330806;0.262040;0.243304,narrative_therapy_corpus,benchmark_v1,346,16.203,2026-09-27T14:01:03.678815+00:00
+Mistral-7B__RAG__Q39,Mistral-7B,mistral:7b,RAG,39,I went through divorce recently so i am in a state of mental trauma.," I'm really sorry to hear about your recent divorce, and I want you to know that it's completely normal to feel a range of intense emotions during such a challenging time. You're not alone, and it's important to remember that many people have gone through similar experiences and come out stronger on the other side.
+
+In the ancient Indian epic, the Mahabharata, King Yudhishthira also experienced intense grief and guilt after a significant loss. However, he was able to find solace and guidance from wise elders like Sage Vyasa and Bhishma. They helped him understand the complexities of duty, destiny, and repentance, which ultimately allowed him to release his guilt and accept his responsibilities.
+
+Similarly, during his twelve-year exile, King Yudhisthira struggled with regret and shame. Sage Brihadasva visited him and shared the story of King Nala, who also faced loss and humiliation but was able to regain his kingdom through endurance. The sage reminded Yudhisthira that life's challenges are cyclical, and that it's important not to let grief undermine one's resolve.
+
+In a similar vein, Krishna, in the Bhagavad Gita, emphasized the importance of self-mastery and mental control. He taught that the mind can be both a friend and an enemy, and that it's up to us to conquer it and transform it into a supportive internal partner.
+
+I encourage you to seek out supportive friends, family, or a mental health professional who can help you navigate this difficult time. Remember that it's okay to ask for help, and that taking care of your mental health is an important step towards healing and growth.
+
+Take care, and know that you are strong and capable of overcoming this challenge.",mahabharat:731;mahabharat:730;mahabharat:715,0.280895;0.276400;0.271361,narrative_therapy_corpus,benchmark_v1,397,19.419,2026-09-27T14:01:23.174384+00:00
+Mistral-7B__RAG__Q40,Mistral-7B,mistral:7b,RAG,40,I am having love failure how to get rid of the trauma.," I'm really sorry that you're going through a tough time. It's completely normal to feel traumatized after a love failure, as it can stir up a range of intense emotions.
+
+Firstly, remember that it's okay to feel this way. It's important to acknowledge and validate your feelings, just as Hanuma validated Sugreeva's past fear but affirmed its present irrelevance in the narrative from the Ramayana.
+
+Secondly, seek support from trusted friends, family, or mental health professionals. They can provide a listening ear, offer advice, and help you navigate through this difficult time.
+
+Lastly, practice self-care. Engage in activities that you enjoy and that help you relax, such as reading, listening to music, or exercising. It's also beneficial to maintain a healthy lifestyle, as this can help improve your overall well-being.
+
+Remember, time heals wounds, and with patience and support, you will be able to move forward. In the Mahabharata, King Yudhishthira was consumed by intense grief and guilt, but with the help of his elders and community, he was able to release his guilt and accept his responsibilities. Similarly, you too can find a way to heal and move forward.
+
+If you are feeling suicidal or in immediate danger, please reach out to local emergency or crisis support services. You are not alone, and there is always help available.",ramayanam:Dataset_ramayanam/kishkindhakanda/602;mahabharat:731;mahabharat:704,0.389785;0.369270;0.366321,narrative_therapy_corpus,benchmark_v1,316,15.937,2026-09-27T14:01:39.181733+00:00

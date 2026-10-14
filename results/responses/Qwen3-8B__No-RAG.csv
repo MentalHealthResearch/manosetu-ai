@@ -1,0 +1,339 @@
+answer_id,model,model_tag,condition,question_id,question_text,response_text,retrieved_story_ids,retrieval_scores,rag_collection,prompt_version,generation_tokens,generation_seconds,generated_at_utc
+Qwen3-8B__No-RAG__Q01,Qwen3-8B,qwen3:8b,No-RAG,1,My parents expect me to crack competitive exams and secure a government job. The pressure is killing me—what do I do?,"I'm so sorry you're feeling this way. It sounds like you're carrying a huge weight, and it's completely understandable to feel overwhelmed when the expectations feel too much. You're not alone in this—many young people face similar pressures, and it's important to remember that your well-being matters just as much as your achievements.
+
+First, take a moment to breathe and acknowledge how hard this is. It's okay to feel stressed, and it's okay to need support. Try to speak with someone you trust—maybe a friend, a teacher, or a counselor. Sharing your feelings can help lighten the load.
+
+Second, consider setting small, manageable goals for yourself. Break down your study plan into smaller steps, and celebrate each small success. This can help reduce the feeling of being overwhelmed and give you a sense of control.
+
+Lastly, don’t forget to take care of your mental and physical health. Make time for rest, hobbies, and activities that bring you joy. You deserve to feel balanced and supported, and it's okay to ask for help when you need it.
+
+If you ever feel like you're in immediate danger or struggling to cope, please reach out to a local crisis line or emergency service. You're not alone, and help is available. You matter, and your well-being is important.",,,,benchmark_v1,265,16.709,2026-10-06T14:36:14.657273+00:00
+Qwen3-8B__No-RAG__Q02,Qwen3-8B,qwen3:8b,No-RAG,2,I get nervous even saying my name during introductions. What if people judge me?,"It’s completely normal to feel nervous about being seen or judged, especially when it comes to something as simple as saying your name. Your feelings are valid, and it’s okay to feel this way. Many people experience similar anxiety in social situations, and it doesn’t mean there’s anything wrong with you.
+
+First, try to remind yourself that most people are more focused on their own experiences than on judging others. When you speak, others are likely thinking about their own thoughts, not yours. You don’t have to be perfect — just being present is enough.
+
+Second, practice grounding techniques when you feel anxious. Take a few deep breaths, or focus on a physical sensation, like the feeling of your hands or the air around you. These small moments can help you feel more centered and less overwhelmed.
+
+Lastly, consider starting with smaller, low-pressure interactions where you feel more comfortable. Over time, these small steps can build confidence and reduce the fear of judgment. You’re not alone in this, and it’s okay to take things at your own pace.
+
+If this anxiety feels overwhelming or persistent, reaching out to a trusted friend, counselor, or support group can be incredibly helpful. You don’t have to face this alone. You’re doing important work by acknowledging your feelings and seeking support. You are worthy of kindness and understanding — both from yourself and others.",,,,benchmark_v1,274,17.142,2026-10-06T14:36:31.808384+00:00
+Qwen3-8B__No-RAG__Q03,Qwen3-8B,qwen3:8b,No-RAG,3,"My grandmother is unwell, and I'm terrified she might pass away. I can't function properly","I'm so sorry you're feeling this way. It's completely natural to feel terrified when someone you love is unwell, especially someone as important as your grandmother. Your fear shows how much she means to you, and that's a sign of a deep, caring heart.
+
+First, try to take small, manageable steps. If you're feeling overwhelmed, reach out to someone you trust—like a family member, friend, or healthcare professional. You don’t have to face this alone. They can help you navigate this difficult time.
+
+Second, consider reaching out to your grandmother’s doctor or care team. They can provide updates, reassurance, and guidance on what to expect. Sometimes knowing more can help ease some of the uncertainty.
+
+Lastly, take care of yourself. It’s okay to feel scared, but also okay to ask for help. Try to rest when you can, eat something, and breathe deeply. You can’t do this alone, and it’s okay to need support.
+
+If at any point you feel like you can’t cope, please reach out to a local crisis line or emergency service. You're not alone, and help is available. You're doing your best, and that matters.",,,,benchmark_v1,243,15.333,2026-10-06T14:36:47.147784+00:00
+Qwen3-8B__No-RAG__Q04,Qwen3-8B,qwen3:8b,No-RAG,4,My best friend ghosted me after years of trust. I feel lost and worthless,"I'm so sorry you're feeling this way. It's incredibly painful to be betrayed by someone you trusted, and it's completely normal to feel lost and worthless after such a hurtful experience. You're not alone in feeling this way, and it's okay to grieve the loss of that relationship.
+
+First, allow yourself to feel whatever emotions come up—sadness, anger, confusion. There's no right or wrong way to process this. You deserve to be heard and supported.
+
+Second, reach out to someone you trust—whether it's a family member, another friend, or a counselor. Talking through your feelings can help you begin to heal. If you're not sure who to talk to, consider reaching out to a local crisis line or support group. They can offer guidance and a safe space to share.
+
+Third, take small steps to reconnect with yourself. Try journaling, going for a walk, or engaging in a hobby that brings you comfort. These small acts can help you feel more grounded and remind you of your worth.
+
+You are not defined by this loss. You are still a valuable, caring, and deserving person. Healing takes time, but you're already taking important steps by acknowledging your pain and reaching out for support. You're not alone in this, and you deserve compassion and care.",,,,benchmark_v1,266,16.689,2026-10-06T14:37:03.843701+00:00
+Qwen3-8B__No-RAG__Q05,Qwen3-8B,qwen3:8b,No-RAG,5,I've been rejected from five interviews in a row. I feel like a failure and can't get back up.,"I'm really sorry you're feeling this way. It's so hard to go through rejection after rejection, and it's completely normal to feel like you're falling apart. But please know that your worth isn't tied to these outcomes. You're not a failure — you're just going through a tough moment.
+
+First, take a moment to breathe and acknowledge your feelings. It's okay to feel upset, and it's okay to need some time to process. Try to talk to someone you trust — a friend, family member, or mentor — who can listen without judgment. Sometimes just sharing your thoughts can help lighten the load.
+
+Second, consider taking a short break from job searching. Give yourself permission to step back and recharge. Even a few days can make a big difference in how you feel and how you approach things when you return.
+
+Lastly, focus on what you *can* control. Update your resume, reach out to your network, or explore new opportunities. But also take time to care for yourself — rest, eat well, and do something that brings you comfort. You're not alone in this, and things can get better. If you ever feel overwhelmed or in crisis, please reach out to a local support line or emergency service — you deserve help, and you're not alone.",,,,benchmark_v1,261,16.446,2026-10-06T14:37:20.296777+00:00
+Qwen3-8B__No-RAG__Q06,Qwen3-8B,qwen3:8b,No-RAG,6,"I was wrongly accused of something in my hostel group chat, and I feel furious. I want revenge.","I'm so sorry you're feeling this way. It's completely natural to feel furious when you're wrongly accused—it's a strong reaction to being misunderstood or disrespected. Your feelings are valid, and it's okay to be upset.
+
+Instead of seeking revenge, which can lead to more conflict and hurt, let's focus on what you can control. First, take a moment to breathe and calm down. When emotions are high, it's easy to act impulsively. Once you're more centered, you can choose how to respond.
+
+Second, consider reaching out to someone you trust—whether it's a friend, a counselor, or a mentor. Talking through what happened can help you process your anger and gain perspective. You don’t have to face this alone.
+
+Third, think about how you want to move forward. If you feel safe doing so, you could calmly address the situation with the people involved, explaining your side and asking for clarity. If that feels too risky, it’s okay to walk away and focus on protecting your own well-being.
+
+You deserve to be treated with respect and fairness. If you're struggling to manage your anger or feel overwhelmed, reaching out to a trusted adult or a mental health professional can provide support. You're not alone, and there are people who care about you.",,,,benchmark_v1,264,16.651,2026-10-06T14:37:36.953398+00:00
+Qwen3-8B__No-RAG__Q07,Qwen3-8B,qwen3:8b,No-RAG,7,One moment I'm super confident; next I feel like I'll fail everything. I hate this instability.,"It’s completely normal to feel this way — like you're swinging between confidence and doubt. That kind of emotional instability can feel really overwhelming, and it’s okay to feel frustrated with yourself for not having more control. What matters is that you're acknowledging how you're feeling, and that’s a big step.
+
+First, try to give yourself some grace. These shifts in mood don’t mean you’re weak or failing — they’re just part of how your mind works right now. It’s like a rollercoaster, and it’s okay to feel both the thrill and the dip.
+
+Second, try to pause and check in with yourself. When you feel the shift, take a few deep breaths and ask, “What do I need right now?” Sometimes just a moment of calm can help you reset.
+
+Third, consider writing down what’s going on. Putting your thoughts on paper can help you see patterns or triggers, and it can also be a way to release some of that emotional weight.
+
+You’re not alone in feeling this way, and it’s okay to reach out to someone you trust. If these feelings ever feel too heavy to handle on your own, please know that help is available — and you’re not alone in needing it. You’re doing your best, and that matters.",,,,benchmark_v1,261,16.398,2026-10-06T14:37:53.357617+00:00
+Qwen3-8B__No-RAG__Q08,Qwen3-8B,qwen3:8b,No-RAG,8,"I like someone, but I don't know if I'm good enough for them. I overthink everything.","It’s completely normal to feel uncertain when you care about someone — especially when you're overthinking. Your feelings are valid, and it’s okay to feel this way. You're not alone in this, and it doesn’t mean you're not worthy or good enough. What matters is that you're being honest with yourself and taking care of your emotional well-being.
+
+Here are a few practical steps you can take:
+
+1. **Practice self-compassion** — treat yourself with the same kindness you’d offer a friend. Remind yourself that you're doing your best, and that's enough. You don’t need to be perfect to be loved.
+
+2. **Focus on what you can control** — instead of overthinking every detail, try to be present in the moment. What can you do today to feel more confident or to connect with the person in a meaningful way?
+
+3. **Talk to someone you trust** — whether it's a friend, family member, or a counselor, sharing your feelings can help you feel less alone and gain new perspective.
+
+Remember, your worth isn’t tied to whether someone likes you back. You are valuable just as you are. If these thoughts feel overwhelming, consider reaching out to a mental health professional for support. You don’t have to face this alone.",,,,benchmark_v1,263,16.789,2026-10-06T14:38:10.154477+00:00
+Qwen3-8B__No-RAG__Q09,Qwen3-8B,qwen3:8b,No-RAG,9,My brother and I fight constantly about who does more chores. I feel disrespected.,"I'm really sorry you're feeling this way. It's so frustrating when family conflicts feel unfair and disrespectful, especially when it's something as simple as chores. It's completely valid to feel hurt and disrespected when you feel like your efforts aren't recognized or valued.
+
+First, try to take a moment to acknowledge your feelings. It's okay to feel upset, and it's important to honor that. Next, consider having a calm, honest conversation with your brother. You could say something like, “I feel like I’m doing a lot of the chores, and I wish we could find a way to share the load more fairly.” This opens the door for dialogue without blame.
+
+Lastly, think about creating a chore schedule together. Writing down tasks and responsibilities can help both of you see the balance more clearly. If the tension continues, it might be helpful to involve a neutral third party, like a family mediator or counselor, to help facilitate a more peaceful resolution.
+
+You're not alone in feeling this way, and it's important to take care of your emotional well-being. If these feelings are overwhelming, reaching out to a trusted friend or a mental health professional can provide additional support. You deserve to feel respected and heard.",,,,benchmark_v1,248,15.777,2026-10-06T14:38:25.938338+00:00
+Qwen3-8B__No-RAG__Q10,Qwen3-8B,qwen3:8b,No-RAG,10,I moved for work and know no one here. I cry most nights.,"I’m so sorry you’re feeling this way. Moving for work is a big change, and it’s completely normal to feel lonely and overwhelmed when you’re in a new place. It’s okay to cry — your feelings are valid, and you’re not alone in this.
+
+First, try to reach out to people in your new community. Maybe start by connecting with coworkers or joining a local group or class that interests you. Even small interactions can help you feel more connected. If you’re not sure where to start, consider reaching out to friends or family back home — sometimes just talking through your feelings can help.
+
+Second, take care of your basic needs. Make sure you’re eating well, getting enough sleep, and moving your body in ways that feel good to you. Small steps toward self-care can make a big difference in how you feel emotionally.
+
+Lastly, don’t hesitate to seek support if you’re struggling. Sometimes talking to a trusted friend, counselor, or therapist can help you process your emotions and feel less isolated. You don’t have to face this alone.
+
+You’re doing your best, and that matters. Healing takes time, and it’s okay to feel this way right now. You’re not lost — you’re just adjusting to a new chapter. I’m here to listen if you need to talk.",,,,benchmark_v1,266,16.865,2026-10-06T14:38:42.812170+00:00
+Qwen3-8B__No-RAG__Q11,Qwen3-8B,qwen3:8b,No-RAG,11,I'm devastated because I scored much lower than expected in my semester exam. The stress is overwhelming-how do I cope?,"I'm so sorry you're feeling this way—it's completely normal to feel devastated when things don’t go as planned. You’re not alone in feeling overwhelmed by stress, and it’s okay to feel this way. What matters is that you're reaching out and seeking support.
+
+First, take a moment to acknowledge your feelings without judgment. It’s okay to feel upset, disappointed, or even frustrated. Let yourself feel these emotions without trying to push them away.
+
+Second, try to break down the situation into smaller parts. Ask yourself, “What can I do right now to feel a little better?” This might be taking a walk, talking to someone you trust, or simply breathing deeply for a few minutes. Small steps can make a big difference.
+
+Third, consider reaching out to someone you trust—whether it’s a friend, family member, or teacher. Sometimes just sharing your feelings can lighten the load. If you're struggling to cope, don’t hesitate to seek professional support; counselors are here to help you navigate difficult emotions and build resilience.
+
+You are doing your best, and that matters. This setback doesn’t define your worth or your future. You’ve already shown strength by facing this challenge. Be gentle with yourself, and remember that healing and growth take time. You're not alone in this.",,,,benchmark_v1,263,16.489,2026-10-06T14:38:59.310181+00:00
+Qwen3-8B__No-RAG__Q12,Qwen3-8B,qwen3:8b,No-RAG,12,My heart races before every lab presentation; I feel I'll mess up and be judged,"I'm so sorry you're feeling this way—it's completely normal to feel nervous before a big moment like a lab presentation. Your feelings of anxiety are valid, and it's okay to feel like you might not be perfect. What you're experiencing is a natural response to the pressure of being judged, and it's not a sign of weakness.
+
+Here are a few practical steps you can try:
+
+1. **Breathe deeply** before you start. Try inhaling for four counts, holding for four, and exhaling for four. This can help calm your nervous system and reduce the racing heart.
+
+2. **Reframe your thoughts**. Instead of thinking, “I’ll mess up,” try saying, “I’ll do my best, and that’s enough.” Remind yourself that it’s okay to make mistakes—everyone does, and it’s part of learning.
+
+3. **Prepare a small comfort item** or a calming phrase to repeat to yourself during the presentation. This can help ground you in the moment and reduce overwhelm.
+
+You're not alone in feeling this way, and it's okay to take time to care for yourself. If these feelings feel overwhelming or persistent, consider reaching out to a trusted friend, mentor, or counselor for support. You deserve kindness and understanding, both from yourself and others. You’ve got this.",,,,benchmark_v1,271,17.177,2026-10-06T14:39:16.496579+00:00
+Qwen3-8B__No-RAG__Q13,Qwen3-8B,qwen3:8b,No-RAG,13,I feel paralyzed by fear of getting rejected from internships,"I'm so sorry you're feeling this way—it's really hard to carry that kind of fear, and it's completely okay to feel overwhelmed. Rejection can feel like a huge blow, especially when you're putting so much effort into something you care about. You're not alone in this, and it's a sign of strength that you're reflecting on these feelings at all.
+
+First, try to be kind to yourself. It's easy to feel like you're not good enough, but that doesn't mean it's true. You've already taken a big step by applying—your courage matters. Second, consider breaking this down into smaller steps. Maybe focus on one application at a time, and celebrate each small win, like submitting an application or getting a response. Third, reach out to someone you trust—whether it's a friend, family member, or a mentor. Sometimes just talking through your worries can help lighten the load.
+
+If these feelings feel too heavy to carry alone, please know that help is available. You don’t have to face this by yourself. If you ever feel like you're in immediate danger or struggling to cope, reaching out to a local crisis line or mental health professional can make a big difference. You're not alone, and you're worth so much. Take care.",,,,benchmark_v1,263,16.512,2026-10-06T14:39:33.016771+00:00
+Qwen3-8B__No-RAG__Q14,Qwen3-8B,qwen3:8b,No-RAG,14,Since moving cities I feel a persistent sadness I can't shake.,"I'm so sorry you're feeling this way. It's completely normal to feel sad after moving to a new city — change can be really hard on our emotions, especially when it means leaving behind familiar places, people, and routines. You're not alone in feeling this way, and it's okay to take time to adjust.
+
+First, try to be gentle with yourself. Allow yourself to feel whatever you're feeling without judgment. It's okay to cry, to feel overwhelmed, or to just sit with the sadness. You don’t have to “get over it” quickly.
+
+Second, consider reaching out to someone you trust — a friend, family member, or even a neighbor. Sometimes just talking about how you're feeling can help lighten the load. If you're not sure who to talk to, that’s okay too — it’s a sign of strength to recognize when you need support.
+
+Lastly, try to take small steps to reconnect with your new environment. Maybe walk around your neighborhood, explore a local café, or join a community group or class. These small actions can help you feel more grounded and connected over time.
+
+If the sadness feels overwhelming or persistent, please know that help is available. You don’t have to face this alone. If you ever feel unsafe or in immediate distress, please reach out to a local emergency service or a crisis hotline — you're not alone, and help is always within reach.",,,,benchmark_v1,286,18.265,2026-10-06T14:39:51.286854+00:00
+Qwen3-8B__No-RAG__Q15,Qwen3-8B,qwen3:8b,No-RAG,15,Nothing I do seems to matter; what's the point of working toward goals?,"It’s really hard to feel like nothing you do matters, and that kind of emptiness can be really heavy to carry. What you're describing sounds like a deep sense of hopelessness, and that’s not something you should have to face alone. It’s okay to feel this way, and it’s important to know that you're not alone in feeling this way.
+
+First, try to reach out to someone you trust—whether it’s a friend, family member, or a mental health professional. Sometimes just talking about how you're feeling can make a big difference. If you're not sure who to talk to, a local crisis line or support group might be a good place to start.
+
+Second, consider writing down a few small things that have brought you comfort or a sense of purpose in the past. Even if they feel small, they can remind you that there are moments when things do matter. You might also try setting a tiny, manageable goal for the day—like taking a walk, calling someone, or doing something that feels even slightly meaningful.
+
+Lastly, if you're feeling overwhelmed or stuck, it’s okay to ask for help. You don’t have to carry this alone. There are people who care and who want to support you. If you ever feel like you're in immediate danger or struggling to cope, please reach out to a local emergency service or crisis line—they’re here to help. You are not alone, and your feelings are valid.",,,,benchmark_v1,295,18.855,2026-10-06T14:40:10.148692+00:00
+Qwen3-8B__No-RAG__Q16,Qwen3-8B,qwen3:8b,No-RAG,16,I explode at teammates when deadlines slip-how do I stay calm?,"I'm so sorry you're feeling this way—it's really hard to manage frustration when things don't go as planned, especially with deadlines. It's completely normal to feel overwhelmed, and it's brave of you to notice this and want to change it.
+
+First, try taking a moment to pause before reacting. When you feel your frustration rising, take a few deep breaths and count to ten. This can help you step back and respond more thoughtfully instead of reacting impulsively.
+
+Second, consider reflecting on what triggers your frustration. Are there specific situations or patterns that make you feel this way? Writing down your thoughts can help you understand your emotions better and find healthier ways to cope.
+
+Lastly, practice expressing your feelings calmly. Instead of exploding, try saying something like, “I’m feeling frustrated right now, and I need to take a moment to breathe.” This opens the door for communication without escalating tension.
+
+You're not alone in this, and it's okay to seek support. If you ever feel overwhelmed or unsure how to manage these emotions, reaching out to a trusted friend, mentor, or counselor can make a big difference. You're doing important work by wanting to grow and stay calm—keep being kind to yourself along the way.",,,,benchmark_v1,251,16.02,2026-10-06T14:40:26.176844+00:00
+Qwen3-8B__No-RAG__Q17,Qwen3-8B,qwen3:8b,No-RAG,17,"My moods swing wildly during project weeks-happy, then discouraged.","It’s completely normal to feel your mood shift during busy or intense times, like project weeks. It’s like your body and mind are working overtime, and that can definitely affect how you feel emotionally. What you’re describing sounds like a natural response to stress and high expectations — and it’s okay to feel that way.
+
+First, try to acknowledge your feelings without judgment. It’s not a sign of weakness to feel discouraged after being happy — it’s just part of the human experience. Give yourself permission to feel both, and remind yourself that these moods are temporary.
+
+Second, take small breaks to reset. Even a 5-minute walk, a deep breath, or a quick stretch can help calm your nervous system. Try to schedule short pauses throughout the day — your mind and body will thank you.
+
+Lastly, consider talking through your feelings with someone you trust — a friend, family member, or even a colleague. Sometimes just sharing what you’re going through can help you feel lighter and more supported.
+
+You’re not alone in this, and it’s okay to ask for help. If these mood swings feel overwhelming or persistent, reaching out to a mental health professional can be a great step. You deserve support, and there are people who care about your well-being.",,,,benchmark_v1,255,16.302,2026-10-06T14:40:42.485136+00:00
+Qwen3-8B__No-RAG__Q18,Qwen3-8B,qwen3:8b,No-RAG,18,My parents and I clash over my career choices-constant tension at home.,"I'm so sorry you're feeling this way. It's really hard when the people we care about don't understand or support our choices, especially when it comes to something as important as your career. It's completely normal to feel frustrated, hurt, or even isolated when there's tension at home. Your feelings are valid, and it's okay to feel overwhelmed by this situation.
+
+First, try to take a moment to breathe and acknowledge how you're feeling. It's important to give yourself space to process this without judgment. Next, consider having an open and calm conversation with your parents. Share your perspective with empathy, and let them know how their reactions affect you. Sometimes, simply being heard can help bridge the gap.
+
+Lastly, think about reaching out to a trusted friend, mentor, or counselor who can offer support and guidance. You don't have to navigate this alone. If the tension feels overwhelming or if you're struggling with your emotions, please know that help is available and you're not alone. You deserve to feel supported in your journey.",,,,benchmark_v1,212,13.508,2026-10-06T14:40:55.999444+00:00
+Qwen3-8B__No-RAG__Q19,Qwen3-8B,qwen3:8b,No-RAG,19,My partner and I misinterpret texts and end up arguing,"I'm so sorry you're feeling this way. It's really frustrating when miscommunication leads to arguments, especially with someone you care about. It's completely normal to feel hurt or confused when things don't go as expected, and it's important to acknowledge those feelings without judgment.
+
+First, try setting aside some time to talk calmly—maybe after both of you have had a chance to cool down. Use ""I"" statements to express how you feel, like, ""I felt hurt when I thought you didn't care about my message."" This helps keep the conversation focused on your feelings rather than blaming the other person.
+
+Second, consider setting up a ""check-in"" time where you both agree to review texts together to clarify any misunderstandings. This can help build trust and reduce future confusion.
+
+Lastly, remind yourselves that miscommunication is a common issue in relationships, and it's a sign that you care enough to work through it. If things feel overwhelming, don’t hesitate to reach out to a trusted friend, counselor, or local support service for guidance. You're not alone, and there are people who want to help.",,,,benchmark_v1,227,14.494,2026-10-06T14:41:10.500941+00:00
+Qwen3-8B__No-RAG__Q20,Qwen3-8B,qwen3:8b,No-RAG,20,I can't stand being corrected; it feels like a blow to my identity.,"I'm so sorry you're feeling this way. It's really hard to have your identity feel like it's being attacked when you're corrected — that must be incredibly painful and frustrating. Your feelings are valid, and it's okay to feel that way. You're not alone in this.
+
+First, try to give yourself space when you're feeling triggered. If someone corrects you, you might want to pause, take a breath, and remind yourself that their intent isn't to hurt you — it's just a difference in perspective. It’s okay to set boundaries if something feels too much.
+
+Second, consider reflecting on what being ""corrected"" means to you. Is it about feeling misunderstood, or is it about your sense of self? Sometimes, understanding your own values and identity can help you navigate these moments with more clarity and confidence.
+
+Lastly, if this is something that comes up often, you might find it helpful to talk with someone you trust — a friend, family member, or a counselor. They can offer support and help you explore what feels important to you.
+
+You're not alone, and your feelings matter. If you ever feel overwhelmed or in distress, please reach out to a local crisis line or support service — they're here to help. You deserve care and understanding.",,,,benchmark_v1,260,16.634,2026-10-06T14:41:27.141053+00:00
+Qwen3-8B__No-RAG__Q21,Qwen3-8B,qwen3:8b,No-RAG,21,I often think I'm not good enough compared with peers.,"It’s completely normal to feel like you’re not measuring up at times, and it’s important to know that these thoughts don’t define your worth. Comparing yourself to others can feel overwhelming, but it’s not a fair or accurate reflection of who you are. Everyone has unique strengths, challenges, and paths—your value isn’t tied to how you stack up against others.
+
+One practical step is to pause before comparing yourself. When you catch yourself thinking, “I’m not good enough,” try asking, “What’s the evidence for this thought?” Often, these comparisons are based on assumptions rather than reality. Writing down your thoughts can also help you see them more clearly and challenge them with kindness.
+
+Another step is to focus on your own progress. Instead of measuring yourself against others, set small, personal goals that feel meaningful to you. Celebrate even the smallest wins—like showing up for yourself, trying something new, or simply being kind to yourself on a tough day.
+
+Lastly, consider talking to someone you trust—whether a friend, family member, or a mental health professional. Sharing your feelings can lighten the load and help you feel less alone. If these thoughts feel overwhelming or persistent, reaching out for support is a sign of strength, not weakness.
+
+You are worthy, and your worth isn’t tied to comparisons. You’re doing your best, and that’s enough.",,,,benchmark_v1,279,17.724,2026-10-06T14:41:44.874908+00:00
+Qwen3-8B__No-RAG__Q22,Qwen3-8B,qwen3:8b,No-RAG,22,All I do is code and study; I feel alone and drained.,"It’s completely normal to feel alone and drained when you're spending a lot of time focused on work or study. You're not alone in feeling this way—many people who are deeply engaged in their work or learning also experience moments of isolation and exhaustion. What you're describing sounds like a sign that you might need to pause, reflect, and take care of yourself.
+
+First, try to set small, intentional boundaries around your work and study time. Even a 10-minute break can make a difference. Use that time to stretch, breathe, or simply sit quietly. It’s okay to step away and recharge.
+
+Second, consider reaching out to someone you trust—whether it’s a friend, family member, or a mentor. Sometimes just talking about how you're feeling can help you feel less alone. If you're not sure who to talk to, you can start with a simple message like, “I’ve been feeling really drained lately, and I’d really appreciate some support.”
+
+Lastly, take a moment to acknowledge your efforts. You’re doing important work, and it’s okay to feel the weight of it. Try writing down one thing you’re proud of or one small thing that brought you joy today. It can help shift your focus from what feels overwhelming to what still matters.
+
+You’re not alone in this, and it’s okay to ask for help. If you ever feel overwhelmed or in distress, please reach out to a trusted person or a local crisis support line. You deserve care and support.",,,,benchmark_v1,305,19.425,2026-10-06T14:42:04.308267+00:00
+Qwen3-8B__No-RAG__Q23,Qwen3-8B,qwen3:8b,No-RAG,23,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?,"I'm so sorry you're feeling this way. It's completely normal to feel emotionally drained after a sudden change in your life—your body and mind are working hard to adjust, and it's okay to feel overwhelmed. You're not alone in this, and it's a sign of strength that you're reaching out.
+
+First, try to give yourself permission to rest. It's okay to slow down and take things one step at a time. Even small moments of stillness—like sitting quietly or taking a walk—can help you feel more grounded.
+
+Second, consider reaching out to someone you trust. Sharing your feelings with a friend, family member, or support group can make a big difference. You don’t have to carry this alone.
+
+Lastly, try to reconnect with activities that bring you comfort or calm, even if it’s just for a few minutes. Whether it’s listening to music, journaling, or spending time in nature, these small acts can help you feel more present and less overwhelmed.
+
+If you ever feel like you're struggling to cope or need someone to talk to right now, please know that help is available. You can reach out to a local crisis line or a mental health professional who can offer support tailored to your needs.
+
+You're doing your best, and that matters. Take care of yourself, and remember—you're not alone.",,,,benchmark_v1,274,17.496,2026-10-06T14:42:21.810526+00:00
+Qwen3-8B__No-RAG__Q24,Qwen3-8B,qwen3:8b,No-RAG,24,Why do I get so attached to people that their absence breaks me?,"It’s completely natural to feel deeply connected to others, and it’s okay to feel hurt when they’re not around. Attachment is a sign of your capacity to love and care, which is a beautiful part of being human. It’s not a weakness—it’s a reflection of how much you value meaningful relationships.
+
+If their absence feels overwhelming, it might help to explore what those connections mean to you. Are there patterns in the people you attach to? Do they fill a specific need—like comfort, validation, or belonging? Understanding this can help you feel more in control of your emotional responses.
+
+One practical step is to practice self-compassion. When you feel hurt, remind yourself that it’s okay to feel this way. You’re not alone in experiencing these emotions. Another step is to build a sense of inner security. Try journaling about your feelings or engaging in activities that bring you joy and peace. Over time, this can help you feel more grounded, even when people are away.
+
+Lastly, consider reaching out to someone you trust—whether a friend, family member, or a mental health professional. Sharing your feelings can be incredibly healing. If you ever feel overwhelmed or in distress, please reach out to a local crisis line or support service. You’re not alone, and help is available.",,,,benchmark_v1,263,16.702,2026-10-06T14:42:38.518750+00:00
+Qwen3-8B__No-RAG__Q25,Qwen3-8B,qwen3:8b,No-RAG,25,I'm unable to let go of my disappointment after a failure. I feel stuck.,"I'm so sorry you're feeling this way. It's completely natural to feel disappointed after a failure—it’s a sign that you care deeply about what you were trying to achieve. You're not alone in feeling stuck, and it's okay to feel this way.
+
+First, try to acknowledge your feelings without judgment. Let yourself feel the disappointment, but also remind yourself that it doesn’t define your worth. You’re allowed to feel this way, and it’s part of the process of growing.
+
+Second, take a small step forward. It doesn’t have to be big—just something that feels manageable. Maybe write down what you learned from the experience, or talk to someone you trust about how you’re feeling. Sometimes sharing helps ease the weight.
+
+Lastly, be gentle with yourself. Healing takes time, and it’s okay to move at your own pace. You don’t have to rush through this. If you ever feel overwhelmed or in immediate distress, please reach out to a trusted friend, family member, or local crisis support. You’re not alone, and help is available.",,,,benchmark_v1,218,13.926,2026-10-06T14:42:52.454233+00:00
+Qwen3-8B__No-RAG__Q26,Qwen3-8B,qwen3:8b,No-RAG,26,"My emotions fluctuate drastically-one moment I'm happy, then overwhelmed. Why?","It’s completely normal for emotions to shift so quickly, and it’s okay to feel confused or overwhelmed by these changes. Emotions are like waves—they come and go, and sometimes they feel more intense than others. What you're describing sounds like a natural part of being human, and it doesn’t mean there’s anything wrong with you.
+
+First, try to give yourself permission to feel whatever you're feeling without judgment. It’s okay to have moments of joy followed by moments of overwhelm. You don’t have to “fix” your emotions right away.
+
+Second, consider keeping a simple journal to track your mood shifts. Writing down how you feel and what might have triggered them can help you notice patterns and gain a better understanding of what supports your emotional balance.
+
+Third, take small steps to care for yourself. Even a short walk, deep breathing, or a warm cup of tea can make a difference. When emotions feel overwhelming, grounding yourself in the present moment can help you feel more centered.
+
+You’re not alone in this, and it’s okay to reach out to someone you trust. If you ever feel like your emotions are becoming unmanageable or if you're in immediate danger, please reach out to a local crisis line or emergency service. You matter, and your feelings are valid. You are worthy of support and care.",,,,benchmark_v1,268,17.137,2026-10-06T14:43:09.603096+00:00
+Qwen3-8B__No-RAG__Q27,Qwen3-8B,qwen3:8b,No-RAG,27,I feel fear when facing new challenges. I avoid trying,"It’s completely normal to feel fear when facing new challenges, and it’s okay to feel like avoiding them sometimes. You’re not alone in this, and it’s a sign that you care about your well-being. Fear can feel overwhelming, but it doesn’t have to control you.
+
+One practical step is to start small. Try setting a tiny, manageable goal—something that feels just slightly outside your comfort zone. For example, if you’re avoiding a task, maybe commit to just 5 minutes of working on it. You don’t have to do everything at once.
+
+Another step is to practice self-compassion. When fear arises, remind yourself that it’s okay to feel this way. You’re not failing or weak for feeling afraid. Treat yourself with the same kindness you’d offer a friend in the same situation.
+
+Lastly, consider talking to someone you trust—whether it’s a friend, family member, or a mental health professional. Sharing your feelings can help lighten the load and give you new perspectives.
+
+You’re doing important work by being aware of these feelings. Take it one step at a time, and be gentle with yourself. You don’t have to face everything alone.",,,,benchmark_v1,240,15.331,2026-10-06T14:43:24.943316+00:00
+Qwen3-8B__No-RAG__Q28,Qwen3-8B,qwen3:8b,No-RAG,28,I constantly feel like I'm not good enough compared to others.,"I'm so sorry you're feeling this way—it's really hard to live with the constant pressure of comparing yourself to others. It’s not easy to feel like you’re not good enough, and it’s okay to feel that way sometimes. You're not alone in this, and it’s not a reflection of your worth.
+
+First, try to be kind to yourself. Just like you would to a friend who’s struggling, treat yourself with the same compassion. Remind yourself that everyone has their own journey, and comparisons don’t tell the whole story.
+
+Second, take a moment to reflect on what makes you unique. What are the things you're proud of, even if they seem small? Writing them down can help you reconnect with your strengths.
+
+Lastly, consider reaching out to someone you trust—whether it's a friend, family member, or a mental health professional. Talking through these feelings can be incredibly healing and can help you feel less isolated.
+
+If these feelings ever feel overwhelming or if you're struggling to cope, please know that help is available. You don’t have to face this alone. You are worthy, and your feelings matter.",,,,benchmark_v1,231,14.457,2026-10-06T14:43:39.408497+00:00
+Qwen3-8B__No-RAG__Q29,Qwen3-8B,qwen3:8b,No-RAG,29,I feel lonely even in a crowd. No one understands me.,"I’m so sorry you’re feeling this way. It’s really hard to feel lonely even when you’re surrounded by people, and it’s okay to feel that way—it doesn’t mean there’s anything wrong with you. What you’re describing sounds like a deep sense of isolation, and that can be really painful. You’re not alone in feeling this, and it’s important to know that you’re being heard.
+
+First, try to reach out to someone you trust—whether it’s a friend, family member, or a teacher. Sometimes just talking about how you feel can make a big difference. If you’re not sure who to talk to, consider reaching out to a local support group or a mental health professional. They can offer a safe space to explore these feelings without judgment.
+
+Second, take small steps to connect with others in ways that feel comfortable for you. It might be as simple as joining a hobby group, attending a community event, or even spending time with a pet. These small connections can help build a sense of belonging over time.
+
+Lastly, be gentle with yourself. It’s okay to feel this way, and it’s okay to take time to heal. You don’t have to figure everything out right away. If you ever feel overwhelmed or in immediate danger, please reach out to a local emergency service or crisis line—they’re here to help. You matter, and you’re not alone.",,,,benchmark_v1,284,17.773,2026-10-06T14:43:57.192014+00:00
+Qwen3-8B__No-RAG__Q30,Qwen3-8B,qwen3:8b,No-RAG,30,I keep replaying bad memories- can't move on.,"It’s really brave of you to share how you're feeling. Replaying bad memories can feel like a heavy burden, and it’s okay to feel stuck in that cycle. What you're describing is a common experience, and it doesn’t mean you're weak or broken—it just means you're hurting, and that’s valid.
+
+First, try to be gentle with yourself. When memories come up, it’s not always about the memory itself, but how it makes you feel. You might try grounding techniques, like focusing on your breath or naming five things you can see around you. This can help bring you back to the present moment.
+
+Second, consider writing down your thoughts or feelings when they come up. Sometimes putting them into words can help you process them better. You don’t have to share this with anyone, but writing can be a safe way to release what’s weighing on you.
+
+Lastly, reaching out to someone you trust—whether a friend, family member, or a mental health professional—can make a big difference. You don’t have to face this alone. If you ever feel overwhelmed or in immediate danger, please reach out to a local emergency service or crisis line. You are not alone, and help is available.",,,,benchmark_v1,249,15.5,2026-10-06T14:44:12.701040+00:00
+Qwen3-8B__No-RAG__Q31,Qwen3-8B,qwen3:8b,No-RAG,31,I feel like no one appreciates what I do,"I'm so sorry you're feeling that way. It's really hard when it feels like your efforts go unnoticed, and that can be really lonely and frustrating. Your feelings are valid, and it's okay to feel this way sometimes.
+
+First, try to take a moment to reflect on what you're doing and how it makes you feel. Sometimes, when we're overwhelmed or stressed, it's easy to forget how much we contribute to others, even in small ways. You might not always see it, but your actions matter.
+
+Second, consider reaching out to someone you trust—whether it's a friend, family member, or a mentor. Sometimes just sharing how you're feeling can help you feel heard and supported. You don't have to carry this alone.
+
+Lastly, take care of yourself. Try to do something that brings you comfort or joy, even if it's just for a few minutes. Small acts of self-compassion can make a big difference.
+
+If you ever feel overwhelmed or like no one understands you, please know that help is available. You're not alone, and there are people who care about you. If you're in immediate distress, please reach out to a local crisis line or emergency service. You deserve support and understanding.",,,,benchmark_v1,253,15.927,2026-10-06T14:44:28.638377+00:00
+Qwen3-8B__No-RAG__Q32,Qwen3-8B,qwen3:8b,No-RAG,32,I avoid responsibilities because I fear I'll fail.,"It’s completely understandable to feel that way—fear of failure can be really heavy to carry. You're not alone in feeling this way, and it’s okay to feel stuck or overwhelmed. What you're describing is a common experience, and it’s a sign that you care deeply about doing things well, which is a strength, not a weakness.
+
+First, try to be kind to yourself. It’s easy to feel like a failure when you’re struggling, but that doesn’t mean you are. You’re doing the best you can with what you have. One practical step is to break tasks into smaller, manageable parts. Sometimes the fear of failure comes from feeling like the whole thing has to be perfect, but even small steps can build confidence over time.
+
+Second, consider talking to someone you trust—whether it’s a friend, family member, or a professional. Sharing your feelings can help lighten the load and give you new perspectives. If you're not sure where to start, reaching out to a counselor or therapist can be a great way to explore these fears in a safe space.
+
+Lastly, practice self-compassion. When you feel the fear, remind yourself that it’s okay to feel that way, and that it doesn’t define your worth. You’re allowed to take things one step at a time. You’re not failing yourself by trying—what matters is that you’re showing up, even when it’s hard. You’re not alone, and help is available if you need it.",,,,benchmark_v1,303,19.573,2026-10-06T14:44:48.220379+00:00
+Qwen3-8B__No-RAG__Q33,Qwen3-8B,qwen3:8b,No-RAG,33,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?,"I'm so sorry you're feeling this way. It's completely normal to feel emotionally drained after a sudden change in your life—your body and mind are working hard to adjust, and it's okay to feel overwhelmed. You're not alone in this, and it's a sign of strength that you're reaching out.
+
+First, try to give yourself permission to rest. It's okay to slow down and take things one step at a time. Even small moments of stillness—like sitting quietly or taking a walk—can help you feel more grounded.
+
+Second, consider reaching out to someone you trust. Sharing your feelings with a friend, family member, or support group can make a big difference. You don’t have to carry this alone.
+
+Lastly, try to reconnect with activities that bring you comfort or calm, even if it’s just for a few minutes. Whether it’s listening to music, journaling, or spending time in nature, these small acts can help you feel more present and less overwhelmed.
+
+If you ever feel like you're struggling to cope or need someone to talk to right now, please know that help is available. You can reach out to a local crisis line or a mental health professional who can offer support tailored to your needs.
+
+You're doing your best, and that matters. Take care of yourself, and remember—you're not alone.",,,,benchmark_v1,274,17.544,2026-10-06T14:45:05.778165+00:00
+Qwen3-8B__No-RAG__Q34,Qwen3-8B,qwen3:8b,No-RAG,34,"I want to get job in a top mnc like oracle, ibm... i had tried in ibm but i went to interview round and get disqualified so i'm somewhat depressed.","I'm really sorry you're feeling this way. It's completely normal to feel disappointed after putting in so much effort and not getting the outcome you hoped for. Rejection in a competitive process like an interview with a top MNC can feel like a big setback, and it's okay to feel sad or discouraged.
+
+First, take a moment to acknowledge your feelings—there's no shame in feeling this way. You've already taken a brave step by applying and going through the interview process. That effort deserves recognition.
+
+Second, consider reflecting on what you learned from the experience. Interviews are not just about the job; they're also about growth. Think about what went well and what you might want to work on for next time. Sometimes, even if you don't get the job, you gain valuable insights and skills.
+
+Third, take some time for yourself. Allow yourself to rest and recharge. It's important to care for your mental health, especially during times of stress or disappointment. You don't have to push through alone—reach out to friends, family, or a trusted mentor for support.
+
+Remember, this is just one step in your journey. There are many paths to success, and you're not alone in this. If you ever feel overwhelmed, don't hesitate to reach out to a local support group or a mental health professional. You're doing your best, and that matters.",,,,benchmark_v1,280,17.9,2026-10-06T14:45:23.688872+00:00
+Qwen3-8B__No-RAG__Q35,Qwen3-8B,qwen3:8b,No-RAG,35,I lost many opportunities... whereas my friends got many opportunities where they have done malpractices... what to do should i copy or write in a genuine way.,"I'm so sorry you're feeling this way. It's really hard when things don't go as we hope, especially when it feels like others are moving forward while we're stuck. What you're going through is valid, and it's okay to feel frustrated or lost.
+
+First, take a moment to acknowledge your feelings without judgment. It's not easy to see others succeed in ways that feel unfair, and it's natural to feel that way. But it's important to remember that everyone's path is different, and what seems like a setback for you might be a detour for others.
+
+Second, focus on what you can control. Instead of comparing your journey to others, ask yourself: What steps can I take today to move forward? Maybe it's reaching out to someone you trust, setting small goals, or simply taking a walk to clear your mind. Small actions can lead to big changes over time.
+
+Third, consider writing down your thoughts in a journal. This can help you process your emotions and gain clarity. You don’t have to share it with anyone—just let it out in a safe space.
+
+You are not alone in this, and it's okay to ask for help. If you ever feel overwhelmed, reaching out to a trusted friend, counselor, or support group can make a big difference. You deserve kindness and support, and you're not failing because of where you are right now.",,,,benchmark_v1,284,18.141,2026-10-06T14:45:41.841011+00:00
+Qwen3-8B__No-RAG__Q36,Qwen3-8B,qwen3:8b,No-RAG,36,I dont have enough money to survive because of that i am felling sad and i cant enjoy my life happily so what is the solution for that.,"I'm so sorry you're feeling this way. It's really hard to go through life when you're struggling with financial stress, and it's completely normal to feel sad and disconnected when things feel overwhelming. You're not alone in this, and it's okay to feel this way.
+
+First, take a moment to acknowledge your feelings. It's important to be gentle with yourself right now. You're doing your best, and that matters. Next, consider reaching out to someone you trust—whether it's a friend, family member, or a community support group. Sometimes just talking through what you're going through can help you feel less alone and more supported.
+
+Also, think about small steps you can take to manage your situation. Maybe start by listing what you *do* have—your health, your skills, your relationships. These are real strengths that can help you move forward. If you're unsure where to start, reaching out to a local community center, a social worker, or a financial counselor might offer practical help and guidance.
+
+If you're feeling overwhelmed or hopeless, please know that help is available. You don't have to face this alone. If you're in immediate danger or feeling like you can't go on, please reach out to a local emergency service or crisis line. You are not alone, and there are people who care about you and want to help.",,,,benchmark_v1,278,17.758,2026-10-06T14:45:59.610714+00:00
+Qwen3-8B__No-RAG__Q37,Qwen3-8B,qwen3:8b,No-RAG,37,I am getting demotivated like what to do in life so what should i do,"It's completely normal to feel lost or unmotivated at times — it's a sign that you're human and that you're processing a lot. You're not alone in feeling this way, and it's okay to take a moment to pause and reflect. Let’s take this one step at a time.
+
+First, try to identify what’s making you feel this way. Is it stress, uncertainty, or something else? Writing down your thoughts can help you see patterns or triggers. Next, reach out to someone you trust — a friend, family member, or mentor. Sometimes just talking through your feelings can bring clarity and comfort. If you're not sure who to talk to, consider joining a support group or reaching out to a local community center.
+
+Lastly, give yourself permission to rest. It’s okay to feel stuck — it doesn’t mean you’re failing. Try to engage in small, gentle activities that bring you a little joy, like going for a walk, listening to music, or spending time in nature. These small steps can help rebuild your sense of connection and purpose.
+
+You don’t have to figure everything out right now. Take it slowly, and be kind to yourself. If you ever feel overwhelmed or in immediate distress, please reach out to a local crisis line or emergency service — you’re not alone, and help is available. You matter, and your feelings are valid.",,,,benchmark_v1,281,17.907,2026-10-06T14:46:17.527105+00:00
+Qwen3-8B__No-RAG__Q38,Qwen3-8B,qwen3:8b,No-RAG,38,How can I fight loneliness? im too shy to talk to others.,"It's completely normal to feel lonely, especially when you're shy and find it hard to connect with others. Your feelings are valid, and you're not alone in this. Loneliness can feel really heavy, but there are small, meaningful steps you can take to start building connection and comfort in your own skin.
+
+First, try to be gentle with yourself. Shyness doesn’t mean you’re unlovable or unimportant—it just means you may need more time and practice to feel comfortable in social situations. Start by setting small, achievable goals, like saying “hello” to someone or joining a group activity that interests you. Even a short conversation can feel like a victory.
+
+Second, consider building connections in ways that feel safer for you. Online communities, support groups, or even a pet can offer companionship and a sense of belonging. You don’t have to be perfect in social interactions—being present and kind to yourself is enough.
+
+Lastly, take time to nurture your own inner world. Engage in activities that bring you joy, like reading, writing, or creative hobbies. When you feel more grounded and content within yourself, it can make it easier to reach out to others.
+
+You are worthy of connection and care. If you ever feel overwhelmed or in distress, please reach out to a trusted friend, family member, or local support service. You don’t have to face this alone.",,,,benchmark_v1,283,18.063,2026-10-06T14:46:35.598558+00:00
+Qwen3-8B__No-RAG__Q39,Qwen3-8B,qwen3:8b,No-RAG,39,I went through divorce recently so i am in a state of mental trauma.,"I'm so sorry to hear you're going through a divorce and feeling this way. It's completely normal to feel overwhelmed, sad, or even numb after such a significant life change. You're not alone in this, and it's okay to feel whatever you're feeling right now.
+
+First, allow yourself to grieve. There’s no right or wrong way to process your emotions—whether it’s sadness, anger, or confusion. Give yourself permission to feel and to take time to heal.
+
+Second, reach out to someone you trust—whether it's a friend, family member, or a support group. Talking through your feelings can be incredibly healing and lessening in isolation.
+
+Third, consider reaching out to a mental health professional if you're struggling to cope. A therapist can offer a safe space to explore your emotions and help you navigate this difficult time with compassion and guidance.
+
+If you ever feel overwhelmed or in immediate distress, please reach out to a local crisis line or emergency services—they are here to help. You are not alone, and there is hope for healing. Take care of yourself, and know that it's okay to ask for help.",,,,benchmark_v1,232,14.876,2026-10-06T14:46:50.483457+00:00
+Qwen3-8B__No-RAG__Q40,Qwen3-8B,qwen3:8b,No-RAG,40,I am having love failure how to get rid of the trauma.,"I'm so sorry you're feeling this way. Love failure can leave deep emotional wounds, and it's completely normal to feel hurt, confused, or even numb. You're not alone in this, and it's okay to feel the way you do.
+
+First, allow yourself to feel without judgment. It's important to acknowledge your pain rather than push it away. Try writing down your feelings in a journal or talking to someone you trust. This can help you process what you're going through.
+
+Second, take small steps toward self-care. Even a short walk, a warm bath, or listening to music you love can help soothe your mind. Prioritize rest and nourishment—your body and mind need support during this time.
+
+Third, consider reaching out to a mental health professional. They can offer guidance tailored to your needs and help you navigate the healing process. If you're in immediate distress or feel unsafe, please reach out to a local crisis line or emergency service—they're here to help.
+
+You're not defined by this experience, and healing takes time. Be gentle with yourself, and know that you're worthy of care and support. You don’t have to face this alone.",,,,benchmark_v1,240,15.297,2026-10-06T14:47:05.790405+00:00

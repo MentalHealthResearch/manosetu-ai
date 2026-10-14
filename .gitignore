@@ -60,3 +60,31 @@ desktop.ini
 
 # Preserve the original nested repository only as local backup metadata
 mental_health_research/.git-original/
+
+# Local files kept out of the public repository (not needed to reproduce the paper)
+MythoClinic_Corrections_Prompts_RAG_Evaluator.docx
+Claude outputs/
+mental_health_research/*
+!mental_health_research/scripts/
+mental_health_research/scripts/*
+!mental_health_research/scripts/ingest_all_narrative_corpus.py
+psychologist_rag_evaluation_kit/*.bat
+psychologist_rag_evaluation_kit/*.ps1
+psychologist_rag_evaluation_kit/*.mjs
+psychologist_rag_evaluation_kit/protocol.md
+psychologist_rag_evaluation_kit/README.md
+psychologist_rag_evaluation_kit/ai_agent_evaluation/*.csv
+psychologist_rag_evaluation_kit/ai_agent_evaluation/blinded_*.md
+psychologist_rag_evaluation_kit/ai_agent_evaluation/qwen3/
+psychologist_rag_evaluation_kit/benchmark/AI_SIMULATED_RATINGS_README.md
+psychologist_rag_evaluation_kit/benchmark/README.md
+psychologist_rag_evaluation_kit/benchmark/create_ai_simulated_ratings.py
+psychologist_rag_evaluation_kit/data/ratings_master_template.csv
+psychologist_rag_evaluation_kit/data/response_manifest.csv
+psychologist_rag_evaluation_kit/models/Modelfile.local
+psychologist_rag_evaluation_kit/rater_packets/
+psychologist_rag_evaluation_kit/retrieval_ground_truth/README.md
+psychologist_rag_evaluation_kit/scripts/
+rag_v2/README.md
+rag_v2/*.bat
+**/node_modules

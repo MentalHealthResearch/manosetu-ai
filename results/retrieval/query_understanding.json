@@ -1,0 +1,357 @@
+{
+ "1": {
+  "constructs": [
+   "Stress Management",
+   "Work-Life Balance"
+  ],
+  "risk": "none",
+  "situation": "The user feels overwhelmed by parental expectations regarding their future career.",
+  "hypothetical_episode": "Like Arjuna facing the dilemma of war, the young prince grappled with the weight of societal expectations. His advisors urged him to heed his duty and fight, but he felt torn between obligation and personal desire.  Ultimately, Krishna's guidance helped Arjuna find balance, reminding him to act with purpose while staying true to his inner self."
+ },
+ "2": {
+  "constructs": [
+   "Anxiety"
+  ],
+  "risk": "none",
+  "situation": "The user experiences anxiety and fear of judgment in social situations, particularly when introducing themselves.",
+  "hypothetical_episode": "Like Arjuna trembling before the battlefield, this young soul fears the gaze of others.  He worries about their opinions, forgetting that true strength lies within. A wise mentor would remind him that courage is not the absence of fear, but acting despite it, and that genuine connections are built on authenticity, not pretense."
+ },
+ "3": {
+  "constructs": [
+   "Fear",
+   "Low Mood"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing fear and sadness due to their grandmother's illness.",
+  "hypothetical_episode": "Like Arjuna facing the impending battle of Kurukshetra, the young man grapples with the fear of losing his beloved grandmother.  His heart aches with sorrow, hindering his ability to act. A wise elder reminds him that while death is inevitable, cherishing the present moments and offering unwavering support to his grandmother brings solace and meaning in this difficult time."
+ },
+ "4": {
+  "constructs": [
+   "Relationship Challenges",
+   "Low Mood"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing feelings of worthlessness and disorientation due to a close friendship ending abruptly.",
+  "hypothetical_episode": "Like Arjuna facing the moral dilemma on the battlefield, the user grapples with the pain of betrayal by a trusted friend.  Just as Krishna guided Arjuna towards righteous action, the user needs support to navigate this emotional turmoil and rediscover their own strength and value."
+ },
+ "5": {
+  "constructs": [
+   "Low Mood",
+   "Self-Esteem"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing feelings of inadequacy and low self-worth due to repeated job interview rejections.",
+  "hypothetical_episode": "Like Arjuna facing defeat in the Kurukshetra war, the young warrior felt despair grip his heart.  His confidence shattered, he questioned his abilities.  Lord Krishna reminded him that even the greatest warriors face setbacks; it is through perseverance and self-belief that one overcomes adversity."
+ },
+ "6": {
+  "constructs": [
+   "Anger Management"
+  ],
+  "risk": "high",
+  "situation": "The user is experiencing intense anger due to a perceived injustice and desires retaliation.",
+  "hypothetical_episode": "Karna, despite his immense strength and prowess, was falsely accused of treachery by Duryodhana. Consumed by rage, he yearned for revenge against those who had wronged him. However, wise counsel from Krishna reminded Karna that true victory lay not in vengeance but in upholding dharma, the righteous path. By choosing forgiveness and justice over anger, Karna could find inner peace and ultimately achieve a greater purpose."
+ },
+ "7": {
+  "constructs": [
+   "Emotional Regulation",
+   "Anxiety"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing fluctuating self-confidence and feelings of anxiety due to a perceived lack of stability.",
+  "hypothetical_episode": "Prince Arjuna, renowned for his archery skills, grappled with crippling doubt before the Kurukshetra war. His wavering confidence threatened his ability to fulfill his duty. Lord Krishna guided him, emphasizing the importance of unwavering focus and surrendering one's actions to a higher purpose, ultimately restoring Arjuna's faith and resolve."
+ },
+ "8": {
+  "constructs": [
+   "Self-Esteem",
+   "Anxiety"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing anxiety and low self-esteem due to feelings of inadequacy in a romantic interest.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield, riddled with doubt about his abilities, this young heart grapples with insecurities.  Just as Krishna guided Arjuna to focus on his duty and trust in his strength, this individual needs encouragement to recognize their own worth and value beyond external validation."
+ },
+ "9": {
+  "constructs": [
+   "Relationship Challenges",
+   "Anger Management"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing conflict with their sibling over household responsibilities, leading to feelings of disrespect.",
+  "hypothetical_episode": "Like Arjuna wrestling with his inner turmoil before the Kurukshetra war, the user grapples with anger and resentment towards their brother.  Just as Krishna guided Arjuna to focus on duty and righteousness, a wise elder could help the user find peaceful solutions through open communication and understanding."
+ },
+ "10": {
+  "constructs": [
+   "Loneliness",
+   "Low Mood"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing significant distress due to social isolation after relocating for work.",
+  "hypothetical_episode": "Like Arjuna, separated from his comrades on the battlefield of Kurukshetra, this individual feels adrift in a new environment.  His heart aches for connection and familiarity, mirroring Arjuna's longing for his loved ones. Just as Krishna guided Arjuna to find strength within himself and connect with his purpose, this person can seek solace in building new relationships and rediscovering their passions in this unfamiliar place."
+ },
+ "11": {
+  "constructs": [
+   "Stress Management",
+   "Low Mood"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing distress and seeking coping strategies due to a disappointing academic performance.",
+  "hypothetical_episode": "Prince Arjuna, after a series of defeats in battle, felt overwhelmed by despair and doubt. His charioteer Krishna reminded him that true strength lies not in victory but in unwavering focus and dedication to duty. By channeling his energy towards self-improvement and remembering his purpose, Arjuna found renewed resolve and ultimately triumphed over adversity."
+ },
+ "12": {
+  "constructs": [
+   "Anxiety",
+   "Fear"
+  ],
+  "risk": "none",
+  "situation": "The user experiences anxiety and fear related to public speaking, specifically in academic settings.",
+  "hypothetical_episode": "Like Arjuna facing the Kurukshetra battlefield, the young student trembled before his presentation.  His mind raced with doubts, fearing judgment from his peers and teachers.  A wise mentor, like Krishna, guided him to focus on his knowledge and preparation, reminding him that true courage lies in facing one's fears with a calm and steady mind."
+ },
+ "13": {
+  "constructs": [
+   "Fear",
+   "Anxiety"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing anxiety due to the fear of rejection during internship applications.",
+  "hypothetical_episode": "Like Arjuna facing his doubts before the Kurukshetra war, the young seeker feels paralyzed by the fear of failure.  A wise mentor guides him, reminding him that courage lies not in the absence of fear but in acting despite it, just as Arjuna ultimately chose to fight for dharma."
+ },
+ "14": {
+  "constructs": [
+   "Low Mood",
+   "Sadness"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing persistent sadness since relocating to a new city.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield of Kurukshetra, filled with doubt and sorrow, the user grapples with a pervasive sadness after leaving their familiar surroundings.  Just as Krishna guided Arjuna to focus on his duty and find strength within, the user can seek solace in connecting with loved ones, exploring new experiences, and rediscovering purpose in their new environment."
+ },
+ "15": {
+  "constructs": [
+   "Feelings of Hopelessness",
+   "Low Mood"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing a lack of motivation and purpose, questioning the value of their efforts.",
+  "hypothetical_episode": " Arjuna, facing a seemingly insurmountable battle against his own kin, felt overwhelmed by despair. He questioned the meaning of victory when it brought only sorrow.  Krishna, his charioteer and guide, reminded him that duty and righteousness were paramount, even in the face of adversity. By focusing on his purpose and acting with unwavering devotion, Arjuna found renewed strength and clarity."
+ },
+ "16": {
+  "constructs": [
+   "Anger Management",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is struggling with anger outbursts directed at colleagues when work deadlines are missed.",
+  "hypothetical_episode": "Like Arjuna facing the Kauravas on the battlefield, the user feels overwhelmed by frustration and anger when deadlines are not met.  Just as Krishna guided Arjuna to focus on his duty and maintain composure amidst chaos, the user can learn techniques to manage their anger and respond calmly in stressful situations."
+ },
+ "17": {
+  "constructs": [
+   "Emotional Regulation",
+   "Stress Management"
+  ],
+  "risk": "none",
+  "situation": "The user experiences fluctuating emotions, particularly during periods of increased workload.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield at Kurukshetra, the young warrior's mind is tossed between elation at the challenge and despair at its weight.  A wise mentor guides him to focus on his breath, find stillness within, and remember that even amidst chaos, there is strength in unwavering purpose."
+ },
+ "18": {
+  "constructs": [
+   "Relationship Challenges",
+   "Stress Management"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing conflict with their parents regarding their career aspirations, leading to increased stress at home.",
+  "hypothetical_episode": "Like Arjuna wrestling with his duty in the Kurukshetra war, the young man grapples with the expectations of his family and his own desires.  A wise mentor, like Krishna, guides him to find a path that honors both his responsibilities and his aspirations, reminding him that true strength lies in finding balance."
+ },
+ "19": {
+  "constructs": [
+   "Relationship Challenges",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing conflict in their romantic relationship due to misunderstandings stemming from text communication.",
+  "hypothetical_episode": "Like Arjuna wrestling with his doubts before the Kurukshetra war, the young lover grapples with misinterpretations of their partner's words.  A wise elder advises them to seek clarity through open and honest conversation, just as Krishna guided Arjuna towards righteous action."
+ },
+ "20": {
+  "constructs": [
+   "Ego",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user experiences difficulty accepting criticism, perceiving it as a threat to their sense of self.",
+  "hypothetical_episode": "Like Arjuna facing the dilemma of war against his kin, this individual struggles with the ego's resistance to correction.  Just as Krishna guided Arjuna towards righteous action despite personal conflict, wise counsel can help this person understand that growth comes from embracing feedback and refining their identity."
+ },
+ "21": {
+  "constructs": [
+   "Self-Esteem"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing feelings of inadequacy and comparison to their peers.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield, riddled with doubt about his abilities, this young person struggles with comparisons to others.  A wise mentor, like Krishna, could guide them towards recognizing their own unique strengths and focusing on personal growth rather than external validation."
+ },
+ "22": {
+  "constructs": [
+   "Loneliness",
+   "Stress Management"
+  ],
+  "risk": "none",
+  "situation": "The user feels isolated and exhausted due to their demanding academic and professional commitments.",
+  "hypothetical_episode": "Like Arjuna facing the Kurukshetra battlefield, overwhelmed by the weight of duty and surrounded by enemies, this young scholar finds themselves trapped in a cycle of coding and studying.  Seeking guidance from Krishna, they learn that true strength lies not only in knowledge but also in nurturing connections and finding moments of peace amidst the chaos."
+ },
+ "23": {
+  "constructs": [
+   "Stress Management",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing emotional exhaustion due to recent life changes and seeks coping strategies.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield of Kurukshetra, overwhelmed by the weight of duty and uncertainty, the individual grapples with the sudden upheaval in their life.  A wise mentor, like Krishna, guides them towards mindfulness and acceptance, teaching them to find strength within and navigate the challenges with resilience."
+ },
+ "24": {
+  "constructs": [
+   "Relationship Challenges",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is struggling with intense emotional pain caused by the absence of others.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield, torn between duty and love for his kin, this young soul grapples with the pain of separation.  Just as Krishna guided Arjuna to focus on his dharma, a wise mentor can help them understand that true connection lies in acceptance and letting go, finding strength within themselves rather than solely in others."
+ },
+ "25": {
+  "constructs": [
+   "Low Mood",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing persistent sadness and difficulty coping with the emotional aftermath of a setback.",
+  "hypothetical_episode": "Like Arjuna facing his dilemma on the battlefield, the user struggles to move past their disappointment.  Just as Krishna guided Arjuna to focus on duty and let go of personal attachments, the user can learn to accept failure as a part of life's journey and channel their energy towards growth."
+ },
+ "26": {
+  "constructs": [
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing intense and unpredictable shifts in their emotional state.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield of Kurukshetra, filled with both excitement and fear, this individual grapples with a tumultuous inner world.  A wise mentor, like Krishna, could guide them to find stillness within, recognizing that true strength lies not in suppressing emotions but in understanding their ebb and flow."
+ },
+ "27": {
+  "constructs": [
+   "Fear",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user experiences anxiety and avoidance when confronted with new challenges.",
+  "hypothetical_episode": "Like Arjuna at Kurukshetra, the warrior faced fear in the face of battle.  His hesitation stemmed from the unknown and potential for loss. Krishna's guidance reminded him to focus on his duty and trust in his training, urging him to overcome fear with courage and righteous action."
+ },
+ "28": {
+  "constructs": [
+   "Self-Esteem"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing feelings of inadequacy and comparison to others.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield, riddled with doubt about his abilities, this young soul grapples with a sense of inferiority.  A wise mentor, like Krishna, would guide them to recognize their own strengths and focus on self-improvement rather than comparing themselves to others."
+ },
+ "29": {
+  "constructs": [
+   "Loneliness",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user feels isolated and misunderstood despite being surrounded by people.",
+  "hypothetical_episode": "Like Arjuna amidst the Kurukshetra battlefield, surrounded by his own army yet feeling utterly alone in his dilemma, this individual grapples with a profound sense of isolation.  A wise mentor, like Krishna, could guide them towards understanding their inner world and cultivating genuine connections based on empathy and shared values."
+ },
+ "30": {
+  "constructs": [
+   "Sadness",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is struggling to process and let go of negative past experiences.",
+  "hypothetical_episode": "Like Arjuna wrestling with his doubts before the Kurukshetra war, the user is trapped by memories that cloud their judgment.  A wise mentor, like Krishna, could guide them towards acceptance and forgiveness, helping them find peace in the present moment."
+ },
+ "31": {
+  "constructs": [
+   "Self-Esteem",
+   "Relationship Challenges"
+  ],
+  "risk": "none",
+  "situation": "The user feels unappreciated for their actions by others.",
+  "hypothetical_episode": "Like Arjuna facing doubt on the battlefield, this individual struggles with a sense of worthlessness due to perceived lack of recognition.  Just as Krishna guided Arjuna to focus on his duty and inner strength, this person needs to be reminded of their inherent value and seek validation from within rather than solely relying on external affirmation."
+ },
+ "32": {
+  "constructs": [
+   "Fear",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is avoiding responsibilities due to a fear of failure.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield, riddled with doubt and hesitation, this individual struggles with the fear of inadequacy.  A wise mentor, like Krishna, could guide them towards recognizing their inner strength and focusing on the process rather than solely the outcome."
+ },
+ "33": {
+  "constructs": [
+   "Stress Management",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing emotional exhaustion due to recent life changes and seeks coping strategies.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield of Kurukshetra, overwhelmed by the weight of duty and uncertainty, the individual grapples with the sudden upheaval in their life.  A wise mentor, like Krishna, guides them towards mindfulness and acceptance, teaching them to find strength within and navigate the challenges with resilience."
+ },
+ "34": {
+  "constructs": [
+   "Low Mood",
+   "Self-Esteem"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing low mood and a decline in self-esteem due to being disqualified from an interview at IBM.",
+  "hypothetical_episode": "Like Arjuna facing his doubts before the Kurukshetra war, this young seeker feels disheartened after failing to secure a position at a prestigious company.  He must remember that success is not solely defined by external validation and seek guidance from mentors who can help him refine his skills and approach."
+ },
+ "35": {
+  "constructs": [
+   "Ego",
+   "Self-Esteem"
+  ],
+  "risk": "none",
+  "situation": "The user feels conflicted about ethical conduct versus perceived success, questioning their own values and integrity.",
+  "hypothetical_episode": "Prince Arjuna, witnessing the prowess of his cousins who employed deceit to gain power, grappled with the dilemma of upholding righteousness against the allure of victory.  His charioteer Krishna guided him, emphasizing that true strength lies in unwavering adherence to dharma, even when faced with seemingly insurmountable odds."
+ },
+ "36": {
+  "constructs": [
+   "Low Mood",
+   "Stress Management"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing sadness and a lack of enjoyment in life due to financial insecurity.",
+  "hypothetical_episode": "Like Arjuna facing the dilemma of war, the young man struggles with the weight of his financial burdens.  His spirit feels heavy, unable to find joy in life's simple pleasures. A wise mentor, like Krishna, would guide him towards finding inner peace through mindful living and seeking practical solutions to alleviate his financial strain."
+ },
+ "37": {
+  "constructs": [
+   "Low Mood",
+   "Self-Esteem"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing a lack of motivation and uncertainty about their future direction.",
+  "hypothetical_episode": "Prince Arjuna, facing the daunting prospect of war against his own kin, felt overwhelmed by doubt and despair.  His charioteer Krishna reminded him of his duty and purpose, guiding him to focus on his righteous path and find strength within himself."
+ },
+ "38": {
+  "constructs": [
+   "Loneliness",
+   "Anxiety"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing feelings of isolation and discomfort due to their shyness, making it difficult for them to connect with others.",
+  "hypothetical_episode": "Like Arjuna facing the battlefield in Kurukshetra, overwhelmed by fear and doubt, this individual struggles with the loneliness born from social anxiety.  Just as Krishna guided Arjuna to overcome his hesitation and find strength in duty, a wise mentor could encourage this person to take small steps towards connection, building confidence through practice and kindness."
+ },
+ "39": {
+  "constructs": [
+   "Emotional Regulation",
+   "Relationship Challenges"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing emotional distress due to a recent divorce.",
+  "hypothetical_episode": "Like Arjuna facing the moral dilemma on the battlefield of Kurukshetra, the user grapples with the emotional turmoil brought by the separation.  Seeking guidance from Krishna, Arjuna learns to accept his emotions and find strength within himself to move forward, just as the user can seek support to navigate this challenging period."
+ },
+ "40": {
+  "constructs": [
+   "Sadness",
+   "Emotional Regulation"
+  ],
+  "risk": "none",
+  "situation": "The user is experiencing emotional distress due to a romantic relationship ending and seeks coping strategies.",
+  "hypothetical_episode": "Like Arjuna facing his inner turmoil on the battlefield of Kurukshetra, the user grapples with the pain of love's loss.  A wise counselor, akin to Krishna, could guide them towards acceptance, self-reflection, and the cultivation of inner strength to move forward."
+ }
+}

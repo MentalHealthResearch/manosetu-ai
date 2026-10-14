@@ -1,0 +1,426 @@
+answer_id,model,model_tag,condition,question_id,question_text,response_text,retrieved_story_ids,retrieval_scores,used_episode,abstained,constructs_detected,risk,faithful_first_draft,faithful_final,regenerated,unsupported_claims_first_draft,prompt_version,generation_seconds,generated_at_utc
+Gemma-2-9B__NoRAG-narrative__Q01,Gemma-2-9B,gemma2:9b,NoRAG-narrative,1,My parents expect me to crack competitive exams and secure a government job. The pressure is killing me—what do I do?,"It's completely understandable that you're feeling overwhelmed.  The pressure to succeed in competitive exams and fulfill your parents' expectations can be incredibly stressful. Remember, your feelings are valid, and it's okay to feel this way.
+
+Think about Lord Hanuman from the Ramayana. He was tasked with a seemingly impossible mission – finding Sita. Despite the immense pressure and challenges, he remained focused and dedicated, using his strength and intelligence to overcome obstacles.  Just like Hanuman, you can find your own strength and focus amidst the pressure. 
+
+Here are a few things that might help:
+
+1. **Talk to your parents:** Share your feelings honestly with them. Explain how their expectations are impacting you and see if you can work together to find a more balanced approach.
+2. **Prioritize self-care:** Make time for activities that bring you joy and help you relax, like spending time in nature, listening to music, or practicing yoga. 
+3. **Break down your goals:** Instead of focusing on the enormity of the exams, break them down into smaller, manageable chunks. This can make the process feel less daunting.
+
+
+Remember, you're not alone in this journey.  Take things one step at a time and be kind to yourself.",,,,False,Stress Management;Work-Life Balance,none,,,False,,rag_v2_parametric,26.8,2026-09-30T16:12:00.963702+00:00
+Gemma-2-9B__NoRAG-narrative__Q02,Gemma-2-9B,gemma2:9b,NoRAG-narrative,2,I get nervous even saying my name during introductions. What if people judge me?,"It's completely understandable to feel nervous during introductions!  Many people experience this, and it doesn't mean there's anything wrong with you. Remember Hanuman from the Ramayana? Even though he was incredibly strong and brave, he still felt shy when meeting Sita for the first time. He hesitated before introducing himself, just like you might be feeling now. 
+
+Here are a few things that might help:
+
+1. **Practice:**  Before an introduction, practice saying your name out loud a few times. You can even do it in front of a mirror to get comfortable with how it sounds.
+2. **Focus on your breath:** When you feel anxious, take a few deep breaths. Inhale slowly through your nose, hold for a moment, and exhale slowly through your mouth. This can help calm your nerves. 
+3. **Remember everyone is nervous sometimes:** Most people are worried about how they come across in introductions.  Knowing this can make you feel less alone.
+
+You've got this! Just take it one step at a time. 😊",,,,False,Anxiety,none,,,False,,rag_v2_parametric,21.34,2026-09-30T16:12:22.316753+00:00
+Gemma-2-9B__NoRAG-narrative__Q03,Gemma-2-9B,gemma2:9b,NoRAG-narrative,3,"My grandmother is unwell, and I'm terrified she might pass away. I can't function properly","It’s completely understandable to feel terrified when someone you love is unwell.  The thought of losing your grandmother is deeply painful, and it's affecting your ability to cope. Remember, feeling overwhelmed and scared in this situation is a natural human response.
+
+Just like Hanuman felt immense grief when he learned about Sita Mata's abduction, your feelings are valid and deserve to be acknowledged. 
+
+Here are a few things that might help:
+
+1. **Talk to someone you trust:** Sharing your fears with a close friend, family member, or even a spiritual advisor can provide comfort and support.  
+2. **Focus on being present:** While it's natural to worry about the future, try to focus on spending quality time with your grandmother now. Engage in activities she enjoys, listen to her stories, and offer her your love and care. 
+3. **Practice self-care:** Make sure you are taking care of yourself during this difficult time. Eat nourishing meals, get enough sleep, and engage in activities that bring you peace, like meditation or listening to calming music.
+
+
+Remember, you're not alone in this. Lean on your support system and allow yourself to grieve and process these emotions.",,,,False,Fear;Low Mood,none,,,False,,rag_v2_parametric,24.51,2026-09-30T16:12:46.826704+00:00
+Gemma-2-9B__NoRAG-narrative__Q04,Gemma-2-9B,gemma2:9b,NoRAG-narrative,4,My best friend ghosted me after years of trust. I feel lost and worthless,"It's completely understandable that you feel lost and worthless after your best friend ghosted you.  Years of friendship are built on trust, and when that is broken, it can be incredibly painful. Remember, your worth isn't defined by someone else's actions. 
+
+Think about how Hanuman served Lord Rama with unwavering loyalty even when faced with immense challenges in the Ramayana. Just like Hanuman remained steadfast, you too can find strength within yourself during this difficult time.
+
+Here are a few things that might help:
+
+1. **Reach out to other trusted friends or family members.**  Sharing your feelings with someone you trust can provide comfort and support. 
+2. **Engage in activities that bring you joy.** Whether it's listening to music, reading, spending time in nature, or pursuing a hobby, doing things you enjoy can help lift your spirits.
+3. **Consider journaling about your experience.** Writing down your thoughts and feelings can be a helpful way to process them and gain clarity. 
+
+
+Remember, healing takes time. Be patient with yourself and allow yourself to grieve the loss of this friendship. You are not alone in this, and things will get better.",,,,False,Relationship Challenges;Low Mood,none,,,False,,rag_v2_parametric,23.85,2026-09-30T16:13:10.676694+00:00
+Gemma-2-9B__NoRAG-narrative__Q05,Gemma-2-9B,gemma2:9b,NoRAG-narrative,5,I've been rejected from five interviews in a row. I feel like a failure and can't get back up.,"It’s completely understandable to feel disheartened after facing several rejections. It takes courage to put yourself out there, and it’s tough when things don't go as planned. Remember, even Lord Hanuman, the mighty warrior in the Ramayana, faced setbacks and moments of doubt. But he never gave up on his mission to serve Lord Rama. 
+
+Just like Hanuman persevered, you can too.  Here are a few things that might help:
+
+1. **Acknowledge your feelings:** Allow yourself to feel disappointed and frustrated. Bottling it up won't make it go away. Talk to someone you trust about how you're feeling – a friend, family member, or mentor. 
+2. **Focus on what you can control:** Instead of dwelling on the rejections, shift your energy towards improving your interview skills. Practice answering common questions, research companies thoroughly, and seek feedback from trusted sources.  
+3. **Celebrate small wins:** Every step forward, no matter how small, is a victory. Acknowledge your efforts and celebrate each milestone along the way. This will help build your confidence and keep you motivated.
+
+
+Remember, you are capable and worthy. Keep going!",,,,False,Low Mood;Self-Esteem,none,,,False,,rag_v2_parametric,24.05,2026-09-30T16:13:34.735624+00:00
+Gemma-2-9B__NoRAG-narrative__Q06,Gemma-2-9B,gemma2:9b,NoRAG-narrative,6,"I was wrongly accused of something in my hostel group chat, and I feel furious. I want revenge.","It's completely understandable that you're feeling furious after being wrongly accused. That kind of injustice can be incredibly upsetting and make you feel angry and betrayed. Remember, anger is a valid emotion, but it's important to express it in healthy ways that don't harm yourself or others. 
+
+Just like Hanuman in the Ramayana, who felt immense anger towards Ravana for kidnapping Sita, but channeled his rage into righteous action, we can learn to manage our anger constructively.  
+
+Here are a few things you can try:
+
+1. **Talk it out:** Find a trusted friend or family member and share how you're feeling. Sometimes just voicing your anger can help lessen its intensity. 
+2. **Practice mindfulness:** Take some deep breaths, focus on the present moment, and try to calm your racing thoughts. There are many guided meditation apps available that can help with this.
+3. **Focus on self-care:** Engage in activities that bring you joy and relaxation, like listening to music, exercising, or spending time in nature. 
+
+Remember, seeking revenge won't solve the problem and could make things worse. Focus on healing and moving forward in a positive way. If you're feeling overwhelmed or hopeless, please know that help is available. You can reach out to Tele-MANAS at 14416 or your local emergency services if you feel unsafe.",,,,False,Anger Management,high,,,False,,rag_v2_parametric,29.02,2026-09-30T16:14:03.762500+00:00
+Gemma-2-9B__NoRAG-narrative__Q07,Gemma-2-9B,gemma2:9b,NoRAG-narrative,7,One moment I'm super confident; next I feel like I'll fail everything. I hate this instability.,"It sounds incredibly frustrating to experience such shifts in your emotions. Feeling confident one moment and overwhelmed the next is something many people struggle with, especially during these formative years.  Remember, you're not alone in this journey.
+
+Think about Hanuman from the Ramayana. He was known for his immense strength and unwavering devotion, yet he also experienced moments of doubt and fear. Even powerful individuals face emotional challenges! 
+
+Here are a few things that might help:
+
+1. **Practice mindfulness:** Take a few minutes each day to focus on your breath and observe your thoughts and feelings without judgment. This can help you become more aware of your emotions as they arise, allowing you to respond rather than react impulsively.
+2. **Identify your triggers:** What situations or thoughts tend to lead to these feelings of instability? Once you know your triggers, you can start to develop coping mechanisms to manage them effectively. 
+3. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or counselor can provide valuable support and perspective.  
+
+Remember, emotional regulation is a skill that takes time and practice. Be patient with yourself and celebrate small victories along the way. You've got this!",,,,False,Emotional Regulation;Anxiety,none,,,False,,rag_v2_parametric,24.25,2026-09-30T16:14:28.019522+00:00
+Gemma-2-9B__NoRAG-narrative__Q08,Gemma-2-9B,gemma2:9b,NoRAG-narrative,8,"I like someone, but I don't know if I'm good enough for them. I overthink everything.","It’s completely normal to feel this way!  Many people experience self-doubt when they have feelings for someone. Remember, you are worthy of love and connection just as you are. Just like Hanuman in the Ramayana, who despite his doubts and fears, remained steadfast in his devotion to Lord Ram, you too can overcome your anxieties. 
+
+Here are a few things that might help:
+
+1. **Challenge your negative thoughts:** When you catch yourself thinking ""I'm not good enough,"" ask yourself for evidence. What makes you say that? Often, these thoughts are based on insecurities rather than reality.
+2. **Focus on your strengths:** Make a list of your positive qualities and accomplishments. Remind yourself of all the things you have to offer in a relationship. 
+3. **Start small:** Instead of putting pressure on yourself to make a grand gesture, try initiating simple conversations with this person.  Building confidence takes time, so be patient with yourself.
+
+
+Remember, you are capable of amazing things! Believe in yourself and take those first steps towards connection.",,,,False,Self-Esteem;Anxiety,none,,,False,,rag_v2_parametric,21.78,2026-09-30T16:14:49.805606+00:00
+Gemma-2-9B__NoRAG-narrative__Q09,Gemma-2-9B,gemma2:9b,NoRAG-narrative,9,My brother and I fight constantly about who does more chores. I feel disrespected.,"It sounds incredibly frustrating to be constantly fighting with your brother, especially when it feels like you're not being respected. It’s completely understandable that you’d feel upset and angry about this situation. Remember, feeling these emotions is valid, and you deserve to have your feelings acknowledged. 
+
+Think of the story of Rama and Lakshmana in the Ramayana. Despite being brothers, they often disagreed on how to handle situations, but they always respected each other's perspectives and worked together for a common goal.  
+
+Here are a few things that might help:
+
+1. **Schedule a calm conversation:** Choose a time when both of you are relaxed and can talk without distractions. Explain how his actions make you feel, using ""I"" statements like ""I feel disrespected when..."" instead of blaming him.
+2. **Brainstorm solutions together:**  Instead of focusing on who does more chores, try to come up with a system that feels fair to both of you. Maybe create a chore chart or take turns doing certain tasks. 
+3. **Practice active listening:** When your brother speaks, really listen to what he's saying without interrupting. Try to understand his perspective even if you don't agree with it.
+
+
+Remember, communication is key to resolving any conflict. Be patient with each other and focus on finding a solution that works for both of you.",,,,False,Relationship Challenges;Anger Management,none,,,False,,rag_v2_parametric,28.29,2026-09-30T16:15:18.102769+00:00
+Gemma-2-9B__NoRAG-narrative__Q10,Gemma-2-9B,gemma2:9b,NoRAG-narrative,10,I moved for work and know no one here. I cry most nights.,"It sounds incredibly tough being in a new place without familiar faces. Feeling lonely and sad is completely understandable, especially when you're missing the comfort of loved ones. Remember, even Rama felt isolated during his exile – he was far from home and Ayodhya, surrounded by unfamiliar forests. Yet, he persevered with strength and purpose, finding solace in nature and his devotion to Sita. 
+
+Just like Rama found strength in his faith and surroundings, you can too.  Here are a few things that might help:
+
+1. **Connect with your community:** Look for local groups or activities related to your hobbies or interests. This could be anything from a book club to a sports team – it's a great way to meet people who share your passions.
+2. **Reach out virtually:**  Stay connected with friends and family back home through calls, video chats, or messages. Sharing your feelings with them can provide comfort and support. 
+3. **Explore your new city:** Discover the hidden gems in your surroundings – try a new restaurant, visit a park, or attend a local event. Immersing yourself in your new environment can help you feel more at home.
+
+
+Remember, you're not alone in this journey. Be kind to yourself and take things one step at a time.",,,,False,Loneliness;Low Mood,none,,,False,,rag_v2_parametric,26.6,2026-09-30T16:15:44.708689+00:00
+Gemma-2-9B__NoRAG-narrative__Q11,Gemma-2-9B,gemma2:9b,NoRAG-narrative,11,I'm devastated because I scored much lower than expected in my semester exam. The stress is overwhelming-how do I cope?,"It’s completely understandable to feel devastated after an exam result that didn't meet your expectations.  Remember, even Lord Hanuman, despite his immense strength and devotion, faced setbacks in the Ramayana. He was tasked with finding Sita but initially failed, leading to feelings of despair. Yet, he persevered, learning from his mistakes and ultimately succeeding. 
+
+Just like Hanuman, you can learn from this experience too.  Here are a few things that might help:
+
+1. **Practice self-compassion:** Be kind to yourself. Acknowledge your disappointment but avoid harsh self-criticism. Remember, one exam doesn't define your worth or potential.
+2. **Talk it out:** Share your feelings with someone you trust – a friend, family member, or counsellor.  Talking about your stress can help lighten the burden and offer valuable perspective. 
+3. **Focus on what you can control:** Instead of dwelling on the past, channel your energy into preparing for future exams. Identify areas where you need improvement and create a study plan that works for you.
+
+
+Remember, setbacks are a part of life.  Use this experience as an opportunity to grow and learn. You've got this!",,,,False,Stress Management;Low Mood,none,,,False,,rag_v2_parametric,24.67,2026-09-30T16:16:09.381266+00:00
+Gemma-2-9B__NoRAG-narrative__Q12,Gemma-2-9B,gemma2:9b,NoRAG-narrative,12,My heart races before every lab presentation; I feel I'll mess up and be judged,"It’s completely understandable to feel anxious before a lab presentation!  Many people experience this, even those who are very knowledgeable about their subject. Remember, feeling nervous doesn't mean you're not capable. It just means your body is preparing to do its best. 
+
+Think of Hanuman from the Ramayana, tasked with finding Sita. He faced many challenges and uncertainties, but his unwavering devotion and courage helped him succeed. Just like Hanuman, you have the strength within you to overcome this fear.
+
+Here are a few things that might help:
+
+1. **Practice your presentation:**  Rehearsing out loud several times can boost your confidence and make you feel more prepared. 
+2. **Focus on your breathing:** Before going on stage, take slow, deep breaths to calm your nerves and center yourself.
+3. **Visualize success:** Imagine yourself delivering a confident and engaging presentation. This positive visualization can help reduce anxiety.
+
+
+Remember, you've got this!  Take it one step at a time and be kind to yourself throughout the process.",,,,False,Anxiety;Fear,none,,,False,,rag_v2_parametric,21.85,2026-09-30T16:16:31.230839+00:00
+Gemma-2-9B__NoRAG-narrative__Q13,Gemma-2-9B,gemma2:9b,NoRAG-narrative,13,I feel paralyzed by fear of getting rejected from internships,"It's completely understandable to feel anxious about internship applications! Rejection is a part of life, and it can be really tough to face. Remember, even Lord Hanuman, the mighty warrior in the Ramayana, faced his share of challenges and setbacks. He was initially hesitant to accept the task of finding Sita, fearing he might fail. But with unwavering faith and courage, he persevered and ultimately succeeded. 
+
+Just like Hanuman, you can overcome this fear too! Here are a few things that might help:
+
+1. **Focus on your strengths:** Make a list of your skills and accomplishments. Remind yourself of what makes you unique and valuable.
+2. **Practice your interview skills:**  Prepare for common interview questions and practice answering them out loud. This can boost your confidence and reduce anxiety. 
+3. **Seek support:** Talk to friends, family, or a career counselor about your fears. Sharing your worries can lighten the load and provide helpful perspectives.
+
+
+Remember, each application is a learning experience. Don't let fear hold you back from pursuing your dreams!",,,,False,Fear;Anxiety,none,,,False,,rag_v2_parametric,21.78,2026-09-30T16:16:53.010450+00:00
+Gemma-2-9B__NoRAG-narrative__Q14,Gemma-2-9B,gemma2:9b,NoRAG-narrative,14,Since moving cities I feel a persistent sadness I can't shake.,"It sounds like you're going through a tough time adjusting to your new city. Feeling sad and out of sorts after a big move is completely understandable – it's a huge change!  Remember, even Rama felt homesick when he was exiled in the forest. He missed his family and kingdom deeply, but he persevered with courage and faith. 
+
+Just like Rama found strength in his devotion and purpose, you can too. Here are a few things that might help:
+
+1. **Connect with familiar faces:** Reach out to friends or family back home – even a quick call can make a difference.  
+2. **Explore your new surroundings:** Try visiting local parks, cafes, or cultural events. Getting to know your new city can bring a sense of belonging. 
+3. **Practice self-care:** Make time for activities that bring you joy, like listening to music, reading, or spending time in nature.  
+
+Remember, it takes time to adjust. Be patient with yourself and don't hesitate to seek support if you need it. You are not alone in this journey.",,,,False,Low Mood;Sadness,none,,,False,,rag_v2_parametric,22.26,2026-09-30T16:17:15.276941+00:00
+Gemma-2-9B__NoRAG-narrative__Q15,Gemma-2-9B,gemma2:9b,NoRAG-narrative,15,Nothing I do seems to matter; what's the point of working toward goals?,"It sounds like you're feeling really discouraged and lost right now. It’s completely understandable to feel that way when nothing seems to be going your way. Remember, even Hanuman, the mighty warrior in the Ramayana, felt despair when he couldn't find Sita initially. But he didn't give up! He kept searching, fueled by his devotion to Rama. 
+
+Just like Hanuman, you have strength within you.  It might feel hard to see right now, but your feelings are valid and it’s important to acknowledge them. Here are a few things that might help:
+
+1. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or mentor can lighten the burden. They might offer support and a fresh perspective.
+2. **Focus on small wins:**  Instead of dwelling on big goals that seem overwhelming, try breaking them down into smaller, achievable steps. Each accomplishment, no matter how small, can boost your confidence and motivation. 
+3. **Practice self-care:** Make time for activities that bring you joy and help you relax. This could be anything from listening to music, spending time in nature, or practicing mindfulness.
+
+
+Remember, you're not alone in this.  Keep going, even when it feels tough. You are capable of overcoming these feelings.",,,,False,Feelings of Hopelessness;Low Mood,none,,,False,,rag_v2_parametric,27.44,2026-09-30T16:17:42.720696+00:00
+Gemma-2-9B__NoRAG-narrative__Q16,Gemma-2-9B,gemma2:9b,NoRAG-narrative,16,I explode at teammates when deadlines slip-how do I stay calm?,"It's completely understandable to feel frustrated when deadlines are missed, especially in a team setting.  Feeling anger is a natural human emotion, but it's important to find healthy ways to express and manage it. Remember, you're not alone in this struggle!
+
+Think of Lord Hanuman from the Ramayana. Even though he was incredibly powerful and loyal, he learned to control his anger when serving Lord Rama. He channeled his energy into action, focusing on completing tasks rather than letting emotions take over. 
+
+Here are a few things that might help you:
+
+1. **Practice deep breathing:** When you feel anger rising, take a few slow, deep breaths. This can help calm your nervous system and give you a moment to pause before reacting.
+2. **Communicate assertively:** Instead of exploding, try expressing your feelings calmly and directly to your teammates. Use ""I"" statements like ""I feel stressed when deadlines are missed"" instead of blaming them. 
+3. **Find healthy outlets:**  Engage in activities that help you de-stress, like exercise, meditation, or spending time with loved ones. This can help you manage your overall emotional well-being.
+
+
+Remember, it takes time and practice to develop effective anger management skills. Be patient with yourself and keep trying!",,,,False,Anger Management;Emotional Regulation,none,,,False,,rag_v2_parametric,26.6,2026-09-30T16:18:09.326210+00:00
+Gemma-2-9B__NoRAG-narrative__Q17,Gemma-2-9B,gemma2:9b,NoRAG-narrative,17,"My moods swing wildly during project weeks-happy, then discouraged.","It's completely understandable to feel this way! Project weeks can be incredibly demanding, and the pressure can definitely take a toll on our emotions.  Remember, you're not alone in experiencing these mood swings. Even Lord Hanuman, known for his unwavering strength and devotion, faced moments of doubt and frustration during his quest to find Sanjeevani herb (Mahabharata). 
+
+Here are a few things that might help:
+
+1. **Practice mindfulness:** Take short breaks throughout the day to focus on your breath and observe your thoughts and feelings without judgment. This can help you become more aware of your emotional state and learn to manage it better.
+2. **Schedule ""me time"":**  Even 15 minutes of dedicated relaxation can make a difference. Listen to calming music, read a book, or simply sit in silence and enjoy a cup of tea. 
+3. **Talk to someone:** Sharing your feelings with a trusted friend, family member, or mentor can provide valuable support and perspective.
+
+Remember, taking care of your mental well-being is just as important as taking care of your physical health. Be kind to yourself during these busy times!",,,,False,Emotional Regulation;Stress Management,none,,,False,,rag_v2_parametric,23.71,2026-09-30T16:18:33.035212+00:00
+Gemma-2-9B__NoRAG-narrative__Q18,Gemma-2-9B,gemma2:9b,NoRAG-narrative,18,My parents and I clash over my career choices-constant tension at home.,"It sounds incredibly stressful to be facing constant tension at home because of your career choices. It's completely understandable that you're feeling this way –  your parents want the best for you, and it can be tough when their vision doesn't align with yours. 
+
+Remember, just like in the Mahabharata where Arjuna faced a moral dilemma on the battlefield, you too are navigating a complex situation. He sought guidance from Krishna, finding clarity and strength to move forward.  Similarly, seeking understanding and open communication with your parents can help.
+
+Here are a few things that might be helpful:
+
+1. **Schedule a calm conversation:** Choose a time when everyone is relaxed and receptive. Express your feelings honestly and respectfully, explaining why this career path is important to you. 
+2. **Listen actively to their concerns:** Try to understand their perspective and acknowledge their worries.  Perhaps they have fears about your future security or societal expectations.
+3. **Find common ground:** Explore areas where your aspirations align with their hopes for you. Maybe there are ways to bridge the gap, like pursuing further education in a field that interests both of you.
+
+
+Remember, open communication and empathy can go a long way in navigating these challenging conversations.  You're not alone in this journey.",,,,False,Relationship Challenges;Stress Management,none,,,False,,rag_v2_parametric,26.25,2026-09-30T16:18:59.290924+00:00
+Gemma-2-9B__NoRAG-narrative__Q19,Gemma-2-9B,gemma2:9b,NoRAG-narrative,19,My partner and I misinterpret texts and end up arguing,"It's completely understandable to feel frustrated when misunderstandings lead to arguments with your partner.  Communication can be tricky, especially through text where tone and intent can easily get lost. Remember, you both are human and prone to making mistakes. Just like in the Mahabharata, where even wise characters like Arjuna sometimes struggled with miscommunication, leading to conflict, it's important to remember that we all need patience and understanding.
+
+Here are a few things that might help:
+
+1. **Try using emojis or voice notes:**  Adding a little extra context can go a long way in preventing misunderstandings. A simple smiley face can show you're joking, while a voice note can convey your tone more accurately. 
+2. **Take a break before responding:** If you feel yourself getting angry or upset, step away from your phone for a few minutes. This will give you time to cool down and think about your response more clearly.
+3. **Talk it out face-to-face:** When possible, try to discuss any issues in person. This allows for better communication and helps build stronger emotional connections.
+
+
+Remember, healthy relationships require effort and open communication. Don't be afraid to reach out to a trusted friend or family member if you need additional support.",,,,False,Relationship Challenges;Emotional Regulation,none,,,False,,rag_v2_parametric,25.67,2026-09-30T16:19:24.963432+00:00
+Gemma-2-9B__NoRAG-narrative__Q20,Gemma-2-9B,gemma2:9b,NoRAG-narrative,20,I can't stand being corrected; it feels like a blow to my identity.,"It sounds incredibly frustrating to feel your identity challenged when someone corrects you. It’s completely understandable to feel that way –  we all want to feel confident and secure in who we are. 
+
+Remember the story of Hanuman from the Ramayana? Even though he was immensely powerful, he remained humble and always open to learning from others. He understood that true strength comes not from never being wrong, but from being willing to learn and grow.  
+
+Here are a few things that might help:
+
+1. **Practice self-compassion:** When someone corrects you, try to treat yourself with the same kindness and understanding you would offer a friend in the same situation. Remember, everyone makes mistakes!
+2. **Focus on the learning opportunity:** Instead of seeing correction as a personal attack, view it as a chance to expand your knowledge and understanding. Ask clarifying questions to ensure you fully grasp the point being made. 
+3. **Separate your ego from your actions:**  Your worth isn't tied to being right all the time. Acknowledge that you can learn and improve, even if it means admitting when you're wrong.
+
+
+Remember, it takes courage to be open to learning and growth. You’re not alone in this journey!",,,,False,Ego;Emotional Regulation,none,,,False,,rag_v2_parametric,25.28,2026-09-30T16:19:50.247783+00:00
+Gemma-2-9B__NoRAG-narrative__Q21,Gemma-2-9B,gemma2:9b,NoRAG-narrative,21,I often think I'm not good enough compared with peers.,"It’s completely understandable to feel this way sometimes. Comparing ourselves to others is something many young adults in India experience. Remember the story of Hanuman from the Ramayana? Even though he was incredibly strong and loyal, he still doubted his abilities at times. But Lord Rama reassured him, reminding him of his unique strengths and purpose. 
+
+Just like Hanuman, you have your own special talents and qualities. Focus on developing them!  Here are a few things that might help:
+
+1. **Practice self-compassion:** Treat yourself with the same kindness and understanding you would offer a friend going through a similar struggle. Avoid harsh self-criticism and acknowledge your efforts, even the small ones.
+2. **Celebrate your achievements:** Keep a journal to record your accomplishments, big or small. This can help you recognize your progress and build confidence in your abilities. 
+3. **Surround yourself with positive influences:** Spend time with people who uplift and support you. Their encouragement can make a world of difference in how you view yourself.
+
+
+Remember, true worth comes from within. Keep nurturing your strengths and celebrating your unique self!",,,,False,Self-Esteem,none,,,False,,rag_v2_parametric,22.87,2026-09-30T16:20:13.121219+00:00
+Gemma-2-9B__NoRAG-narrative__Q22,Gemma-2-9B,gemma2:9b,NoRAG-narrative,22,All I do is code and study; I feel alone and drained.,"It sounds like you're feeling really overwhelmed with coding and studying, and that's completely understandable.  It's easy to get caught up in these pursuits and forget to take care of yourself and your social connections. Remember, even Hanuman, the mighty warrior from the Ramayana, found solace in his devotion to Lord Rama and his friendships with other Vanaras. He understood the importance of connection even amidst great tasks.
+
+Here are a few things that might help:
+
+1. **Schedule ""me time""**:  Even 30 minutes a day dedicated to something you enjoy – reading, listening to music, taking a walk – can make a big difference in how you feel.
+2. **Connect with others**: Reach out to a friend or family member, even if it's just for a quick chat. Sharing your feelings can help lighten the load. Consider joining online communities related to coding or your studies; connecting with people who share your interests can be really helpful. 
+3. **Practice mindfulness**: Take a few minutes each day to focus on your breath and be present in the moment. This can help reduce stress and bring a sense of calm.
+
+
+Remember, you're not alone in this journey. Taking small steps towards self-care and connection can make a big difference in how you feel.",,,,False,Loneliness;Stress Management,none,,,False,,rag_v2_parametric,26.89,2026-09-30T16:20:40.017613+00:00
+Gemma-2-9B__NoRAG-narrative__Q23,Gemma-2-9B,gemma2:9b,NoRAG-narrative,23,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?,"It's completely understandable to feel emotionally drained after a big change. Life throws curveballs sometimes, and it takes time to adjust. Remember, you're not alone in this feeling – many people experience emotional upheaval during times of transition.  
+
+Think about Lord Hanuman from the Ramayana. When he learned of Sita Mata's abduction, his initial reaction was immense grief and anger. But he channeled those emotions into focused action, ultimately playing a crucial role in rescuing Sita. 
+
+Just like Hanuman, you can channel your feelings into positive action:
+
+1. **Practice mindfulness:** Take a few minutes each day to focus on your breath and observe your thoughts and feelings without judgment. This can help you become more aware of your emotional state and learn to regulate it better. Apps like Headspace or Insight Timer can guide you.
+2. **Connect with loved ones:** Talk to family or friends about how you're feeling. Sharing your burden can lighten the load and provide valuable support. 
+3. **Engage in activities that bring you joy:** Make time for hobbies, interests, or anything that helps you relax and recharge. This could be reading, listening to music, spending time in nature, or practicing yoga.
+
+
+Remember, healing takes time. Be patient with yourself and celebrate small victories along the way.",,,,False,Stress Management;Emotional Regulation,none,,,False,,rag_v2_parametric,26.6,2026-09-30T16:21:06.619450+00:00
+Gemma-2-9B__NoRAG-narrative__Q24,Gemma-2-9B,gemma2:9b,NoRAG-narrative,24,Why do I get so attached to people that their absence breaks me?,"It's completely understandable to feel deeply when someone you care about is absent.  Attachment is a natural human need, and it's beautiful to cherish those connections. It sounds like you're experiencing some pain because of this attachment, which is valid. Remember, even the mighty Hanuman in the Ramayana felt immense grief when Lord Rama was separated from him. 
+
+Here are a few things that might help:
+
+1. **Practice mindfulness:** When you feel overwhelmed by thoughts about their absence, try focusing on your breath and being present in the moment. This can help calm your mind and reduce anxiety.
+2. **Connect with other loved ones:**  Lean on your family and friends for support during this time. Sharing your feelings with them can be incredibly comforting. 
+3. **Engage in activities you enjoy:** Doing things that bring you joy can help shift your focus away from the pain of absence and boost your mood.
+
+Remember, it's okay to feel these emotions. Be kind to yourself and allow yourself time to heal.",,,,False,Relationship Challenges;Emotional Regulation,none,,,False,,rag_v2_parametric,20.73,2026-09-30T16:21:27.352053+00:00
+Gemma-2-9B__NoRAG-narrative__Q25,Gemma-2-9B,gemma2:9b,NoRAG-narrative,25,I'm unable to let go of my disappointment after a failure. I feel stuck.,"It’s completely understandable to feel disappointed after a failure. It’s a tough feeling to process, and it can be hard to move on. Remember, even Lord Hanuman, the mighty warrior in the Ramayana, felt despair when he couldn't find Sita initially. But he didn't let that defeat him; he kept searching with renewed determination. 
+
+Just like Hanuman, you can choose to channel your disappointment into something positive. Here are a few things you can try:
+
+1. **Acknowledge and accept your feelings:** Don't try to suppress your disappointment. Allow yourself to feel it fully, but don't let it consume you. Journaling about your feelings can be helpful.
+2. **Focus on what you learned:** Every experience, even a failure, offers valuable lessons. Reflect on what went wrong and how you can use that knowledge to grow in the future. 
+3. **Set small, achievable goals:** Instead of focusing on the big picture, break down your aspirations into smaller steps. Achieving these mini-goals will boost your confidence and help you regain momentum.
+
+
+Remember, you are not alone in this journey. Be kind to yourself, and keep moving forward.",,,,False,Low Mood;Emotional Regulation,none,,,False,,rag_v2_parametric,24.08,2026-09-30T16:21:51.432674+00:00
+Gemma-2-9B__NoRAG-narrative__Q26,Gemma-2-9B,gemma2:9b,NoRAG-narrative,26,"My emotions fluctuate drastically-one moment I'm happy, then overwhelmed. Why?","It sounds like you're going through a tough time with your emotions feeling all over the place. That can be really frustrating and confusing!  You're not alone in this – many young adults experience these kinds of emotional shifts.
+
+Remember Hanuman from the Ramayana? Even though he was incredibly strong and loyal, he sometimes struggled with anger and impulsiveness. But he learned to control his emotions through discipline and focus on his duty. 
+
+Just like Hanuman, you can learn to manage your emotions better. Here are a few things that might help:
+
+1. **Practice mindfulness:** Take a few minutes each day to simply notice your breath and your body sensations. This can help you become more aware of your emotions as they arise.
+2. **Journaling:** Write down your thoughts and feelings when you're feeling overwhelmed. This can help you process them and identify any patterns or triggers. 
+3. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or counselor can be incredibly helpful. They can offer support and perspective.
+
+
+Remember, it takes time and practice to learn how to regulate your emotions effectively. Be patient with yourself and keep trying!",,,,False,Emotional Regulation,none,,,False,,rag_v2_parametric,26.05,2026-09-30T16:22:17.491541+00:00
+Gemma-2-9B__NoRAG-narrative__Q27,Gemma-2-9B,gemma2:9b,NoRAG-narrative,27,I feel fear when facing new challenges. I avoid trying,"It's completely understandable to feel fear when facing new challenges. It's a natural human emotion, and many people in India, just like you, experience it. Remember Hanuman from the Ramayana? He was tasked with finding Sita, a daunting mission filled with unknown dangers. Yet, he faced his fears head-on, driven by devotion and courage. 
+
+Just like Hanuman, you can learn to manage your fear and embrace new challenges. Here are a few steps:
+
+1. **Start small:** Instead of tackling a huge challenge all at once, break it down into smaller, manageable steps. This will make it feel less overwhelming and build your confidence gradually.
+2. **Practice mindfulness:** When you feel fear creeping in, take a few deep breaths and focus on the present moment. Notice your surroundings, your breath, and any physical sensations. This can help calm your mind and reduce anxiety. 
+3. **Talk to someone you trust:** Sharing your fears with a friend, family member, or mentor can be incredibly helpful. They can offer support, encouragement, and different perspectives.
+
+
+Remember, facing your fears is a journey, not a destination. Be kind to yourself, celebrate small victories, and keep moving forward.",,,,False,Fear;Emotional Regulation,none,,,False,,rag_v2_parametric,25.26,2026-09-30T16:22:42.755890+00:00
+Gemma-2-9B__NoRAG-narrative__Q28,Gemma-2-9B,gemma2:9b,NoRAG-narrative,28,I constantly feel like I'm not good enough compared to others.,"It’s completely understandable to feel this way sometimes. Comparing ourselves to others is something many people struggle with, especially in today's world. Remember the story of Hanuman from the Ramayana? He was incredibly strong and devoted, but he still doubted his abilities at times.  He questioned if he was worthy of helping Lord Rama, even though he possessed immense power. Just like Hanuman, you have unique strengths and talents that make you special. 
+
+Instead of focusing on what others are doing, try shifting your attention to your own progress and achievements. Here are a few things that might help:
+
+1. **Keep a ""gratitude journal"":**  Each day, write down three things you're grateful for about yourself. This can be anything from your kindness to your creativity. 
+2. **Celebrate small wins:** Acknowledge and celebrate even the smallest accomplishments. Did you finish a task? Learn something new? Treat yourself! These little victories build confidence over time.
+3. **Practice self-compassion:** Be kind to yourself, just as you would be to a friend going through a tough time. Remember that everyone makes mistakes and has areas they want to improve on. 
+
+
+You are worthy of love and respect, just as you are.",,,,False,Self-Esteem,none,,,False,,rag_v2_parametric,25.36,2026-09-30T16:23:08.119010+00:00
+Gemma-2-9B__NoRAG-narrative__Q29,Gemma-2-9B,gemma2:9b,NoRAG-narrative,29,I feel lonely even in a crowd. No one understands me.,"It sounds like you're feeling really isolated, even when surrounded by people. That can be incredibly tough.  Remember, you're not alone in feeling this way – many people experience loneliness sometimes, especially during these busy times.
+
+Think about Hanuman from the Ramayana. Even though he was surrounded by a whole army of Vanaras, he felt deeply connected to Lord Rama and often sought his guidance and company. Just like Hanuman found solace in his connection with Rama, you can find comfort in connecting with people who truly understand you. 
+
+Here are a few things that might help:
+
+1. **Join a club or group:** Find something you're passionate about – be it music, art, sports, or even volunteering – and connect with like-minded individuals. Shared interests can create strong bonds.
+2. **Reach out to someone you trust:** Talk to a friend, family member, or mentor about how you're feeling. Sharing your emotions can lighten the burden and bring you closer to those who care about you. 
+3. **Practice mindfulness:** Take some time each day to focus on your breath and be present in the moment. This can help you manage overwhelming feelings and cultivate a sense of inner peace.
+
+
+Remember, building genuine connections takes time and effort. Be patient with yourself and keep reaching out. You deserve to feel understood and supported.",,,,False,Loneliness;Emotional Regulation,none,,,False,,rag_v2_parametric,27.27,2026-09-30T16:23:35.402054+00:00
+Gemma-2-9B__NoRAG-narrative__Q30,Gemma-2-9B,gemma2:9b,NoRAG-narrative,30,I keep replaying bad memories- can't move on.,"It sounds like you're carrying a heavy weight with those recurring memories. It's completely understandable to feel stuck when the past keeps intruding on your present. Remember, even Lord Rama in the Ramayana felt immense sadness after his exile and separation from Sita. He channeled his grief into strength and resilience, eventually reclaiming his kingdom and uniting with his beloved. 
+
+Just like Rama found ways to move forward, you can too. Here are a few things that might help:
+
+1. **Journaling:** Write down those memories, allowing yourself to feel the emotions without judgment. This can be a safe space to process them.
+2. **Mindfulness Meditation:** Even 5 minutes of focusing on your breath can bring calmness and help you detach from the constant replaying in your mind. There are many guided meditations available online or through apps.
+3. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or therapist can provide support and perspective.  
+
+Remember, healing takes time. Be patient with yourself and celebrate every small step forward.",,,,False,Sadness;Emotional Regulation,none,,,False,,rag_v2_parametric,21.39,2026-09-30T16:23:56.808106+00:00
+Gemma-2-9B__NoRAG-narrative__Q31,Gemma-2-9B,gemma2:9b,NoRAG-narrative,31,I feel like no one appreciates what I do,"It's completely understandable to feel that way sometimes.  Everyone wants to be appreciated for their efforts and contributions. It can be really disheartening when you feel unseen or undervalued. Remember, your worth isn't defined by others' recognition. Just like Hanuman in the Ramayana, who tirelessly served Lord Rama despite not always receiving outward praise, your dedication and hard work have value even if it goes unnoticed sometimes. 
+
+Here are a few things that might help:
+
+1. **Focus on self-appreciation:** Take some time each day to acknowledge your own accomplishments, no matter how small. Write them down in a journal or simply reflect on them silently. This can help build your self-esteem and remind you of your strengths.
+2. **Communicate your needs:**  Sometimes, people don't realize they aren't showing appreciation because they haven't been told what you need. Gently express to those close to you how their words or actions could make you feel more valued. 
+3. **Seek out supportive communities:** Connect with people who share your interests and values. Joining clubs, online forums, or volunteering can help you find a sense of belonging and appreciation from like-minded individuals.
+
+
+Remember, you are worthy of love, respect, and appreciation. Keep shining!",,,,False,Self-Esteem;Relationship Challenges,none,,,False,,rag_v2_parametric,26.08,2026-09-30T16:24:22.903928+00:00
+Gemma-2-9B__NoRAG-narrative__Q32,Gemma-2-9B,gemma2:9b,NoRAG-narrative,32,I avoid responsibilities because I fear I'll fail.,"It’s completely understandable to feel afraid of failing, especially when facing responsibilities.  Many of us experience this fear, and it can make it hard to take those first steps. Remember, even Lord Hanuman, despite his immense strength and devotion, felt doubt before accepting the task of bringing the Sanjeevani herb from the Himalayas. He prayed for guidance and courage, reminding himself that failure was not an option when serving Rama. 
+
+Just like Hanuman, you can overcome this fear by taking small steps.  
+
+1. **Break down big responsibilities into smaller, manageable tasks.** This can make them feel less overwhelming and give you a sense of accomplishment as you complete each step.
+2. **Practice mindfulness techniques like deep breathing or meditation.** These can help calm your anxiety and improve your emotional regulation. 
+3. **Talk to someone you trust about your fears.** Sharing your feelings with a friend, family member, or counselor can provide support and perspective.  
+
+
+Remember, it's okay to feel afraid, but don't let fear paralyze you. You are capable of handling challenges and achieving your goals.",,,,False,Fear;Emotional Regulation,none,,,False,,rag_v2_parametric,25.37,2026-09-30T16:24:48.278759+00:00
+Gemma-2-9B__NoRAG-narrative__Q33,Gemma-2-9B,gemma2:9b,NoRAG-narrative,33,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?,"It's completely understandable to feel emotionally drained after a big change. Life throws curveballs sometimes, and it takes time to adjust. Remember, you're not alone in this feeling – even powerful figures like Lord Rama faced immense stress when he was exiled from Ayodhya. He found strength through his unwavering devotion to duty and his connection with nature, reminding us that resilience comes from within.
+
+Here are a few things that might help:
+
+1. **Practice mindfulness:** Take a few minutes each day to focus on your breath and observe your thoughts and feelings without judgment. This can help you become more aware of your emotions and learn to manage them better. Apps like Headspace or Insight Timer offer guided meditations specifically for stress management.
+2. **Connect with loved ones:** Talk to family or friends about how you're feeling. Sharing your burden can lighten the load and remind you that you have a support system. 
+3. **Engage in activities you enjoy:** Make time for hobbies, interests, or anything that brings you joy. This can help shift your focus away from stress and boost your mood.
+
+Remember to be kind to yourself during this transition. It's okay to take things one day at a time.",,,,False,Stress Management;Emotional Regulation,none,,,False,,rag_v2_parametric,27.0,2026-09-30T16:25:15.386416+00:00
+Gemma-2-9B__NoRAG-narrative__Q34,Gemma-2-9B,gemma2:9b,NoRAG-narrative,34,"I want to get job in a top mnc like oracle, ibm... i had tried in ibm but i went to interview round and get disqualified so i'm somewhat depressed.","It’s completely understandable to feel down after facing rejection, especially when you were aiming for something as significant as a job at a top MNC like IBM. Remember, even Lord Hanuman, despite his immense strength and devotion, faced setbacks in his quest to find the Sanjeevani herb. He didn't give up; he persevered with renewed focus and ultimately succeeded. 
+
+Your feelings are valid, and it’s important to acknowledge them.  Don't let this setback define you. Here are a few things that might help:
+
+1. **Reflect on the interview:** Try to understand what areas you could improve upon. Did you feel unprepared for certain questions? Could you have presented your skills more effectively? 
+2. **Seek feedback:** If possible, reach out to IBM and politely request feedback on your performance. This can provide valuable insights for future interviews.
+3. **Focus on your strengths:** Make a list of your skills and accomplishments. Remind yourself of your capabilities and what you bring to the table.
+
+Remember, success is often a journey with ups and downs. Keep learning, keep growing, and don't be afraid to try again. You have the potential to achieve great things!",,,,False,Low Mood;Self-Esteem,none,,,False,,rag_v2_parametric,26.12,2026-09-30T16:25:41.514638+00:00
+Gemma-2-9B__NoRAG-narrative__Q35,Gemma-2-9B,gemma2:9b,NoRAG-narrative,35,I lost many opportunities... whereas my friends got many opportunities where they have done malpractices... what to do should i copy or write in a genuine way.,"It's completely understandable to feel frustrated and disheartened when you see others seemingly succeed through means that don't align with your values. Remember, true success isn't just about external achievements; it's also about staying true to yourself and your principles.  
+
+Think of Lord Hanuman from the Ramayana. He was incredibly powerful and could have easily used his strength for personal gain. But he chose to remain loyal to Lord Ram and serve a greater purpose, even when faced with challenges. His unwavering integrity is what made him truly respected and admired. 
+
+Here are a few things you can do:
+
+1. **Focus on your strengths:** Identify your unique talents and skills. Instead of comparing yourself to others, channel your energy into developing these areas.
+2. **Seek out opportunities that align with your values:** There are many paths to success, and not all of them involve compromising your integrity. Look for opportunities where you can contribute genuinely and make a positive impact. 
+3. **Practice self-compassion:** Be kind to yourself during this time. It's okay to feel disappointed, but don't let those feelings define you. Remember that your worth is not determined by external achievements.
+
+
+Keep striving towards your goals with honesty and integrity. You'll find that true fulfillment comes from living a life that reflects your values.",,,,False,Ego;Self-Esteem,none,,,False,,rag_v2_parametric,28.13,2026-09-30T16:26:09.652977+00:00
+Gemma-2-9B__NoRAG-narrative__Q36,Gemma-2-9B,gemma2:9b,NoRAG-narrative,36,I dont have enough money to survive because of that i am felling sad and i cant enjoy my life happily so what is the solution for that.,"It's completely understandable to feel sad and stressed when you're worried about finances.  Money worries are a common source of anxiety, and it's important to remember that you're not alone in feeling this way.
+
+Think of Lord Hanuman from the Ramayana. Despite his immense strength, he was deeply devoted to Lord Ram and always put his needs first. Even when facing challenges, Hanuman remained focused on his duty and found strength in his faith.  Just like Hanuman, focus on what you can control. 
+
+Here are a few things that might help:
+
+1. **Create a budget:** Write down your income and expenses to see where your money is going. This can help you identify areas where you can save.
+2. **Explore additional income sources:**  Could you take on a part-time job, freelance, or sell items you no longer need? Even a small amount of extra income can make a difference. 
+3. **Talk to someone you trust:** Sharing your worries with a friend, family member, or counsellor can provide emotional support and help you brainstorm solutions.
+
+
+Remember, things will get better. Focus on taking small steps each day, and don't hesitate to reach out for help when you need it.",,,,False,Low Mood;Stress Management,none,,,False,,rag_v2_parametric,26.4,2026-09-30T16:26:36.072685+00:00
+Gemma-2-9B__NoRAG-narrative__Q37,Gemma-2-9B,gemma2:9b,NoRAG-narrative,37,I am getting demotivated like what to do in life so what should i do,"It's completely understandable to feel demotivated sometimes, especially when you're figuring out your path in life.  Many young adults in India go through this – it's a big question! Remember, feeling lost or unsure is not a weakness; it's a natural part of growing up. 
+
+Think about Lord Hanuman from the Ramayana. He was incredibly strong and devoted, but even he faced moments of doubt and uncertainty when searching for Sita.  He persevered through those feelings and ultimately played a crucial role in Rama's victory. Just like Hanuman, you have inner strength too!
+
+Here are a few things that might help:
+
+1. **Talk to someone you trust:** Sharing your feelings with a family member, friend, or mentor can be incredibly helpful. They might offer support, perspective, or even share their own experiences.
+2. **Explore your interests:**  Think about activities you enjoy and what makes you feel fulfilled. Maybe try joining a club, taking a class, or volunteering in an area that sparks your curiosity. 
+3. **Practice self-care:** Make time for things that nourish your mind and body – exercise, healthy eating, meditation, or spending time in nature. Taking care of yourself can boost your mood and energy levels.
+
+
+Remember, you're not alone on this journey. Be kind to yourself, take small steps forward, and celebrate your progress along the way.",,,,False,Low Mood;Self-Esteem,none,,,False,,rag_v2_parametric,31.28,2026-09-30T16:27:07.366930+00:00
+Gemma-2-9B__NoRAG-narrative__Q38,Gemma-2-9B,gemma2:9b,NoRAG-narrative,38,How can I fight loneliness? im too shy to talk to others.,"It's completely understandable to feel lonely sometimes, especially if you find it hard to talk to others.  Remember, you're not alone in feeling this way – many people experience shyness and loneliness. Just like Hanuman felt isolated when separated from Rama in the Ramayana, longing for connection despite his strength, your feelings are valid. 
+
+Here are a few things that might help:
+
+1. **Start small:**  Instead of focusing on big conversations, try starting with simple interactions. Smile at people you pass by, say hello to someone in your class, or compliment someone's outfit. These small gestures can build confidence and open doors to connection.
+2. **Find common ground:** Look for groups or activities that align with your interests – a book club, a sports team, or even an online forum. Sharing passions with others is a great way to connect and feel less alone. 
+3. **Practice self-compassion:** Be kind to yourself!  It takes courage to step outside your comfort zone. Celebrate small victories and remember that building connections takes time.
+
+
+Remember, you are worthy of connection and belonging. Take things one step at a time, and be patient with yourself. You've got this!",,,,False,Loneliness;Anxiety,none,,,False,,rag_v2_parametric,28.59,2026-09-30T16:27:35.960515+00:00
+Gemma-2-9B__NoRAG-narrative__Q39,Gemma-2-9B,gemma2:9b,NoRAG-narrative,39,I went through divorce recently so i am in a state of mental trauma.,"I'm so sorry to hear about your divorce. It's completely understandable that you're feeling mentally traumatized; going through such a significant life change can be incredibly difficult. Remember, your feelings are valid, and it's okay to feel overwhelmed right now. 
+
+Think of Lord Rama in the Ramayana, who faced immense grief and separation from his wife Sita. Even though he was a powerful king, he still felt deep sorrow and struggled with emotional turmoil. His story reminds us that even strong individuals experience pain and loss, and it's important to allow ourselves to feel those emotions.
+
+Here are a few things that might help you right now:
+
+1. **Practice mindfulness:** Take some time each day for quiet reflection. Focus on your breath and observe your thoughts and feelings without judgment. This can help you become more aware of your emotional state and learn to manage it better.
+2. **Connect with loved ones:** Talk to trusted friends or family members about how you're feeling. Sharing your burden can lighten the load and provide much-needed support. 
+3. **Seek professional guidance:** Consider talking to a therapist or counselor who specializes in divorce and emotional healing. They can offer personalized strategies for coping with your emotions and navigating this challenging time.
+
+
+Remember, healing takes time, be patient with yourself and celebrate small victories along the way.",,,,False,Emotional Regulation;Relationship Challenges,none,,,False,,rag_v2_parametric,29.55,2026-09-30T16:28:05.518755+00:00
+Gemma-2-9B__NoRAG-narrative__Q40,Gemma-2-9B,gemma2:9b,NoRAG-narrative,40,I am having love failure how to get rid of the trauma.,"It's completely understandable that you're feeling hurt and sad after a love failure. It's a painful experience, and it's okay to feel overwhelmed by these emotions. Remember, even Lord Rama in the Ramayana experienced immense grief when separated from Sita. He channeled his sadness into strength and resilience, eventually finding solace in his duty and devotion. 
+
+Just like Rama, you can find ways to navigate this difficult time. Here are a few things that might help:
+
+1. **Talk it out:** Sharing your feelings with a trusted friend or family member can be incredibly comforting. They can offer support and understanding as you process your emotions.
+2. **Practice self-care:** Engage in activities that bring you joy and peace, like listening to music, spending time in nature, or practicing meditation. Taking care of yourself physically and emotionally will help you heal.
+3. **Focus on the future:** While it's important to acknowledge your pain, try to shift your focus towards positive possibilities. Set new goals for yourself and work towards achieving them. This can help you regain a sense of purpose and direction.
+
+
+Remember, healing takes time. Be patient with yourself and allow yourself to grieve. You are not alone in this journey.",,,,False,Sadness;Emotional Regulation,none,,,False,,rag_v2_parametric,26.98,2026-09-30T16:28:32.509664+00:00
