@@ -1,0 +1,613 @@
+{
+ "mahabharat:718": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda, Sarga 65-66",
+  "characters": [
+   "Hanuman",
+   "Jambavan",
+   "Angada"
+  ],
+  "situation": "Collective helplessness, low self-esteem, imposter syndrome, and paralysis of action when facing a seemingly impossible challenge.",
+  "teaching": "Jambavan acts as a mentor, invoking Hanuman's forgotten strengths through positive reinforcement and cognitive reframing."
+ },
+ "mahabharat:687": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 2, Verse 47",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Arjuna experiences performance anxiety, fear of failure, and paralysis of action due to deep worry about the consequences and outcomes of his choices in battle.",
+  "teaching": "Krishna introduces Nishkama Karma—instructing Arjuna to shift focus entirely onto the effort/process rather than obsessing over the results, avoiding both egoic ownership of outcomes and the trap of passive paralysis."
+ },
+ "mahabharat:720": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 2, Verse 56",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Emotional volatility driven by external circumstances, mood swings, and vulnerability to stress.",
+  "teaching": "Krishna defines emotional stability as freedom from reactivity to distress, craving, fear, and rage."
+ },
+ "ramayanam:Dataset_ramayanam/ayodhyakanda/78": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda sarga-23",
+  "characters": [
+   "Lakshmana",
+   "Rama",
+   "Dasaratha (the King)",
+   "Kaikeyi",
+   "Indra"
+  ],
+  "situation": "Lakshmana's anger escalates to violent threats and grandiose fantasies of overthrowing the established order through warfare. He threatens mass violence, regicide, and conquest while positioning himself as Rama's instrument of vengeance. Rama responds with gentle emotional regulation, physical comfort (wiping tears), and reaffirmation of dharmic principles, demonstrating contrasting approaches to crisis resolution.",
+  "teaching": "This passage illustrates the escalation of emotional dysregulation into dangerous ideation versus therapeutic de-escalation techniques. Lakshmana demonstrates how unchecked anger can lead to violent fantasies and grandiose thinking, while Rama models crisis intervention through gentle physical comfort, emotional validation, and consistent value reinforcement without confrontation or judgment."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/559": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-1 verse-73b, 74a",
+  "characters": [
+   "Rama",
+   "Lakshmana"
+  ],
+  "situation": "Perceiving playful nature as mocking his private sorrow.",
+  "teaching": "Rama articulates his vulnerability and feeling of alienation from the happy environment."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/539": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-1 verse-53b, 54a",
+  "characters": [
+   "Rama",
+   "Lakshmana"
+  ],
+  "situation": "Witnessing pairs of birds swimming together amplifies Rama's feelings of loneliness.",
+  "teaching": "Rama confides his heartache to Lakshmana upon seeing animal companionship."
+ },
+ "mahabharat:700": {
+  "source": "Mahabharata",
+  "ref": "Shanti Parva, Rajadharmanushasana Parva (Section 1-14)",
+  "characters": [
+   "Yudhishthira",
+   "Bhishma",
+   "Krishna",
+   "Vyasa",
+   "Arjuna"
+  ],
+  "situation": "Yudhishthira suffers from severe post-war survivor's guilt, existential despair, and acute psychological paralysis, rendering him unable to accept his royal duties or process the catastrophic loss of life.",
+  "teaching": "Bhishma provides an extensive therapeutic and philosophical discourse on duty, statecraft, and spiritual detachment, systematically reframing Yudhishthira's grief and restoring his sense of purpose."
+ },
+ "gita:gita_chapter2_verse_files/376": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 2, Verse 47",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Arjuna is paralyzed by 'outcome dependency'—the belief that he must control the results of the war. Fearing a bad result, his mind suggests an alternative: completely abandoning his duty (inaction).",
+  "teaching": "This is the foundational verse of Karma Yoga. Krishna establishes strict boundaries for human agency: humans control the *effort* (the duty), but the universe/Divine controls the *outcome* (the fruits). He also strictly forbids using detachment as an excuse for laziness or avoidance."
+ },
+ "ramayanam:Dataset_ramayanam/ayodhyakanda/189": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda, Sarga 100",
+  "characters": [
+   "Bharata",
+   "Rama",
+   "Dasaratha",
+   "Vasishta",
+   "Kausalya",
+   "Sumitra",
+   "Kaikeyi",
+   "Sudhanva"
+  ],
+  "situation": "This passage offers a collection of maxims and advice for a king on good governance, leadership, and maintaining order. It addresses various aspects, including decision-making, secrecy of plans, the value of wise counsel, managing finances without overtaxing subjects, dealing with internal threats, maintaining a loyal and well-provisioned army, selecting capable envoys, and handling defeated enemies and unwise counselors.",
+  "teaching": "The passage emphasizes the importance of strategic decision-making, the value of discretion and wisdom in governance, the necessity of a strong and loyal military, and the avoidance of detrimental practices such as overtaxing subjects or entertaining ill-informed advisors. It serves as a guide for a king to ensure prosperity, stability, and avert calamities."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/523": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-1 verse-37b, 38a",
+  "characters": [
+   "Rama",
+   "Lakshmana"
+  ],
+  "situation": "Seeing peacocks surrounded by peahens in love amplifies Rama's own love-longing.",
+  "teaching": "Rama acknowledges how seeing love expressed around him intensifies his own feelings of deprivation."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/589": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-2 verse-3",
+  "characters": [
+   "Sugreeva",
+   "Rama",
+   "Lakshmana"
+  ],
+  "situation": "Severe fear causes cognitive indecisiveness and emotional sinking.",
+  "teaching": "Sugreeva struggles to make a steadfast decision due to overwhelming fright."
+ },
+ "ramayanam:Dataset_ramayanam/aranyakanda/285": {
+  "source": "Valmiki Ramayana",
+  "ref": "Aranya Kanda, Sarga 67",
+  "characters": [
+   "Rama",
+   "Lakshmana",
+   "Sita",
+   "Jatayu",
+   "Ravana"
+  ],
+  "situation": "Rama, deeply distressed by Sita's disappearance, asks Lakshmana for help in finding her. Their initial search is futile, leading to Rama's disappointment. They then encounter the dying Jatayu, whom Rama initially mistakes for a demon and reacts with anger. Upon realizing Jatayu's true identity and hearing his account of Sita's abduction and his valiant fight against Ravana, Rama is overcome with profound grief and despair, mourning his multiple misfortunes.",
+  "teaching": "This passage highlights Rama's intense emotional suffering ('shoka') and vulnerability, despite his divine nature. His initial anger at Jatayu, born of desperation and misidentification, quickly transforms into deep grief and compassion upon learning the truth. Jatayu's sacrifice and final words provide crucial information and reinforce the themes of 'dharma' (righteousness) and 'tyaga' (sacrifice). Rama's lament about his accumulating misfortunes underscores the immense weight of his trials and the karmic implications of Ravana's actions."
+ },
+ "ramayanam:Dataset_ramayanam/balakanda/12": {
+  "source": "Valmiki Ramayana",
+  "ref": "Bala Kanda, Chapter 21 (Dasaratha's Refusal and Visvamitra's Anger)",
+  "characters": [
+   "Dasaratha",
+   "Visvamitra",
+   "Rama",
+   "Maricha",
+   "Subahu",
+   "Ravana"
+  ],
+  "situation": "Dasaratha is in deep distress and fear over Visvamitra's demand for young Rama to fight powerful rakshasas. He attempts to refuse, citing Rama's youth and his own willingness to fight instead, leading to a tense confrontation with an increasingly angered Visvamitra.",
+  "teaching": "This passage highlights the intense conflict between a king's paternal love and his duty to a powerful sage. It underscores the concept of a father's protective instinct and his doubt in his young son's capabilities. It also showcases the volatile nature of a powerful sage's wrath when his requests are denied, setting up a high-stakes emotional and ethical dilemma."
+ },
+ "gita:gita_chapter4_verse_files/463": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 4, Verse 14",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "How to engage in active work without accumulating psychological baggage or karmic entanglement.",
+  "teaching": "Krishna states: 'na mam karmani limpanti na me karma-phale sprha, iti mam yo 'bhijanati karmabhir na sa badhyate' (Work does not affect Me, nor do I desire action's fruits; one who knows Me thus is not bound by karma)."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/629": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-3, verse-39",
+  "characters": [
+   "Hanuman",
+   "Lakshmana",
+   "Rama"
+  ],
+  "situation": "Hanuman's mission concludes successfully, and he feels relief and joy at the positive outcome.",
+  "teaching": "Hanuman allows himself to feel gladness and settles his mind with calm anticipation, motivating him to act swiftly toward finalizing the friendship."
+ },
+ "ramayanam:Dataset_ramayanam/ayodhyakanda/70": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda sarga-21",
+  "characters": [
+   "Rama",
+   "Kausalya",
+   "Lakshmana"
+  ],
+  "situation": "Despite emotional appeals from his mother and brother, Rama remains resolute in fulfilling his father's command to go into exile. He invokes historical examples of extreme filial obedience to justify his choice.",
+  "teaching": "Rama demonstrates steadfast commitment to dharma (duty), even in the face of emotional turmoil from loved ones. He uses past examples of sacrificial obedience to reinforce his decision, reflecting the cultural and moral weight of filial piety."
+ },
+ "mahabharat:734": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda, Sarga 21-23",
+  "characters": [
+   "Rama",
+   "Lakshmana",
+   "Kausalya"
+  ],
+  "situation": "Explosive indignation, protective anger, and impulsive urges to use violence against perceived injustice.",
+  "teaching": "Rama validates Lakshmana's love while de-escalating his rage, encouraging him to channel his passion into constructive duty."
+ },
+ "mahabharat:723": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 3, Verse 21",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Desire to withdraw from social obligations, burnout, and lack of purpose.",
+  "teaching": "Krishna emphasizes societal responsibility (Lokasangraha), urging Arjuna to lead by ethical example."
+ },
+ "mahabharat:701": {
+  "source": "Mahabharata",
+  "ref": "Stri Parva, Stri-vilapana Parva (Section 25)",
+  "characters": [
+   "Gandhari",
+   "Krishna",
+   "Dhritarashtra",
+   "Yudhishthira"
+  ],
+  "situation": "Gandhari faces overwhelming, catastrophic grief after losing all hundred of her sons in the war, leading her to project her immense emotional pain onto Krishna, whom she holds ultimately responsible for failing to avert the slaughter.",
+  "teaching": "Driven by severe bereavement trauma and displaced anger, Gandhari pronounces a devastating curse upon Krishna and his dynasty, seeking emotional relief by assigning cosmic blame for her unimaginable loss."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/597": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-2 verse-11",
+  "characters": [
+   "Sugreeva"
+  ],
+  "situation": "Spread of alarm to other creatures in the ecosystem due to group flight.",
+  "teaching": "The monkeys' erratic movements terrify local wildlife, including apex predators."
+ },
+ "gita:gita_chapter3_verse_files/419": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 3, Verse 18",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Understanding the complete psychological and spiritual freedom of a realized person regarding gain, loss, and dependency.",
+  "teaching": "Krishna explains that a self-realized person has nothing to gain by doing work and nothing to lose by not doing work, nor do they rely on anyone for their well-being. Yet, they do not default to apathy."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/565": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-1 verse-79b, 80a",
+  "characters": [
+   "Rama",
+   "Lakshmana"
+  ],
+  "situation": "Contrast between calm external water and restless internal thoughts.",
+  "teaching": "Rama notes his inability to reach internal peace despite serene surroundings."
+ },
+ "mahabharat:719": {
+  "source": "Valmiki Ramayana",
+  "ref": "Sundara Kanda, Sarga 25-32",
+  "characters": [
+   "Sita",
+   "Hanuman",
+   "Trijata"
+  ],
+  "situation": "Captivity, severe psychological harassment, isolation, suicidal ideation, and profound feelings of hopelessness.",
+  "teaching": "Hanuman uses gentle narrative therapy, delivering Rama's signet ring and words of reassurance to restore hope without causing panic."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/603": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-2 verse-17",
+  "characters": [
+   "Hanuma",
+   "Sugreeva"
+  ],
+  "situation": "Fickleness and mental instability weakening leadership and self-worth.",
+  "teaching": "Hanuma uses candid, witty feedback to call out Sugreeva's irrational fickleness."
+ },
+ "ramayanam:Dataset_ramayanam/ayodhyakanda/123": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda sarga-57",
+  "characters": [
+   "Sumantra",
+   "People of Ayodhya",
+   "Rama",
+   "Kausalya",
+   "King"
+  ],
+  "situation": "Sumantra returns to a desolate Ayodhya, overwhelmed by an 'eerie silence' and 'pall of gloom.' The citizens, already grieving, are further distressed by the news that Rama has definitively left. They express profound sorrow, fear for their future safety and well-being without Rama, and question their very existence and the survival of Queen Kausalya.",
+  "teaching": "The passage highlights the collective psychological impact of leadership loss and uncertainty. Sumantra's anxiety mirrors the city's distress. The people's lamentations reveal their deep emotional attachment to Rama, seeing him as integral to their joys and sorrows, and their fear of a future devoid of his presence and guidance. Their fears for Kausalya and the king underscore their generalized anxiety about the royal family's survival."
+ },
+ "mahabharat:715": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 6, Verses 5-6",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Self-sabotaging thoughts, lack of internal discipline, and feeling victimized by one's own chaotic mental state.",
+  "teaching": "Krishna urges self-responsibility (Atma-uddhara), teaching that mental mastery transforms an intrusive, destructive mind into a supportive internal partner."
+ },
+ "gita:gita_verse_files/316": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 1, Verse 28",
+  "characters": [
+   "Arjuna",
+   "Krishna"
+  ],
+  "situation": "Arjuna's emotional overwhelm rapidly escalates into acute physical symptoms. He reports these terrifying bodily sensations to his guide, Krishna.",
+  "teaching": "Arjuna articulates his physiological distress: quivering limbs and dry mouth. The purport reframes these symptoms not as cowardice, but as the natural empathetic reaction of a 'softhearted' and pious individual facing immense tragedy."
+ },
+ "mahabharat:712": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 3, Verse 35",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Imposter syndrome, social pressure to conform, career mismatch, and anxiety from comparing oneself to others.",
+  "teaching": "Krishna advises staying true to one's authentic nature and personal duty (Svadharma), warning against mimicking others."
+ },
+ "mahabharat:707": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 2, Verse 14",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Hyper-sensitivity to painful emotions and discomfort, causing emotional instability and fear of suffering.",
+  "teaching": "Krishna introduces the concept of Titiksha (forbearance), encouraging Arjuna to observe distress as temporary and impermanent."
+ },
+ "ramayanam:Dataset_ramayanam/ayodhyakanda/141": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda sarga-65",
+  "characters": [
+   "Dasaratha",
+   "Kausalya",
+   "Sumitra",
+   "Other queens",
+   "Lakshmana",
+   "Sita",
+   "Rama"
+  ],
+  "situation": "The new day brings the grim realization of King Dasaratha's death, initially by his attendants and then by the queens. This discovery triggers widespread grief, sadness, and shock throughout the palace. The queens, particularly Kausalya and Sumitra, are physically and emotionally exhausted from their prior grief, only to awaken to the fresh trauma of his death.",
+  "teaching": "The passage illustrates the ripple effect of a major loss. The initial anxiety of the attendants quickly turns into shock and pervasive grief. It highlights how prolonged emotional distress can lead to physical exhaustion ('slept deeply, exhausted with grief'). The fainting of the queens and the inconsolable weeping of attendants demonstrate collective emotional overwhelm and the breakdown of normal functioning in the face of immense sorrow. Dasaratha's death is explicitly linked to the emotional blows he endured."
+ },
+ "mahabharat:706": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 1, Verses 28-47",
+  "characters": [
+   "Arjuna",
+   "Krishna"
+  ],
+  "situation": "Arjuna suffers an acute panic attack and ethical paralysis caused by moral dilemma, impending loss, and severe family conflict.",
+  "teaching": "Arjuna openly expresses his somatic symptoms, anxiety, and vulnerability to Krishna, seeking guidance rather than acting out impulsively."
+ },
+ "ramayanam:Dataset_ramayanam/ayodhyakanda/211": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda sarga-114",
+  "characters": [
+   "Bharata",
+   "Sumantra",
+   "Rama"
+  ],
+  "situation": "Bharata observes Ayodhya transformed from a vibrant, prosperous city into a desolate, gloomy, and silent place. The absence of joyous sounds, pleasant smells, and the general vitality signifies the profound impact of Rama's exile and Dasaratha's death. Bharata articulates his deep distress and sorrow over the city's current state, longing for Rama's return to restore its former glory.",
+  "teaching": "This passage vividly portrays the concept that the prosperity and well-being of a kingdom are intrinsically linked to the presence and righteous rule of its king. Ayodhya's desolation serves as a powerful metaphor for the collective grief and spiritual decline caused by the absence of its rightful ruler. Bharata's lament underscores the deep emotional connection between the people, the city, and their beloved prince. His yearning for Rama's return highlights the hope for restoration and renewal."
+ },
+ "gita:gita_chapter3_verse_files/423": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 3, Verse 22",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Explaining why the Supreme, who possesses everything and has no obligations, chooses to engage in active duty.",
+  "teaching": "Krishna shares His own life as an example: though He lacks nothing and has no compulsory duties in the three worlds, He voluntarily stays active in duty to maintain cosmic order and model responsible behavior."
+ },
+ "gita:gita_verse_files/302": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 1, Verse 11",
+  "characters": [
+   "Duryodhana",
+   "Bhisma",
+   "Other Kaurava commanders"
+  ],
+  "situation": "Realizing that his intense praise for Bhisma might have alienated or demoralized his other generals, Duryodhana attempts to walk back his earlier statements and diplomatically appease everyone by giving them the task of 'protecting' Bhisma.",
+  "teaching": "Duryodhana uses manipulation and flattery to manage the fragile egos of his commanders. He disguises his own reliance on Bhisma by framing Bhisma as an older man who needs the collective protection of the others."
+ },
+ "gita:gita_chapter2_verse_files/370": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 2, Verse 40",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Arjuna might fear failing on this new, elevated spiritual path. In the material world, if you start a project and fail, you lose your investment. He fears the risk of attempting Karma-yoga.",
+  "teaching": "Krishna guarantees the absolute safety and permanence of spiritual effort. Unlike material endeavors, spiritual progress is never lost or diminished, even if left incomplete. Even a tiny step forward offers massive protection from ultimate fear."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/581": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-1 verse-95b, 96a",
+  "characters": [
+   "Lakshmana",
+   "Rama",
+   "Seetha"
+  ],
+  "situation": "Formulating a clear, determined plan of action to counter feeling lost.",
+  "teaching": "Lakshmana instills resolve by declaring unwavering commitment to the search mission."
+ },
+ "gita:gita_verse_files/292": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 1, Verse 1",
+  "characters": [
+   "Dhrtarastra",
+   "Sanjaya",
+   "Pandavas",
+   "Kurus (Duryodhana and brothers)"
+  ],
+  "situation": "King Dhrtarastra is experiencing deep insecurity and doubt regarding the impending war. Knowing that the battle is taking place at Kuruksetra, a holy place of pilgrimage, he fears its spiritual influence might favor his virtuous nephews (the Pandavas) over his own sons, threatening their victory.",
+  "teaching": "Driven by his anxiety and nepotism, Dhrtarastra questions his visionary secretary Sanjaya to monitor the battlefield's events, revealing his internal bias by distinctly separating 'his sons' from 'Pandu's sons'."
+ },
+ "gita:gita_chapter2_verse_files/373": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 2, Verse 44",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "The inability to maintain mental focus or achieve deep peace due to an underlying addiction to material comforts and sensory pleasures.",
+  "teaching": "Krishna outlines a direct causal link: heavy attachment to material enjoyment and opulence actively destroys the capacity for Samadhi (a fixed, resolute mind)."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/679": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-5, verses-23b to 24a",
+  "characters": [
+   "Sugreeva",
+   "Rama",
+   "Vali"
+  ],
+  "situation": "Explicitly asking for protection and liberation from a terrifying threat.",
+  "teaching": "Sugreeva pleads with Rama to grant him abhaya (fearlessness) against Vali."
+ },
+ "mahabharat:691": {
+  "source": "Mahabharata",
+  "ref": "Udyoga Parva, Bhagavatyana Parva (Section 140-143)",
+  "characters": [
+   "Karna",
+   "Krishna"
+  ],
+  "situation": "Karna faces a severe identity crisis and loyalty dilemma when Krishna reveals his royal Pandava lineage and offers him the throne, forcing him to choose between his newfound blood brothers and his deep loyalty to Duryodhana.",
+  "teaching": "Karna chooses gratitude and moral integrity over power and royal status, rejecting the temptation of the kingdom to remain faithful to his benefactor, despite knowing it will result in his tragic demise."
+ },
+ "mahabharat:710": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 14, Verses 22-25",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Emotional instability, feeling controlled by internal mood swings, lethargy, or restless agitation.",
+  "teaching": "Krishna teaches the practice of witnessing (Sakshi-bhava), observing mental states without identifying with or reacting to them."
+ },
+ "gita:gita_chapter2_verse_files/368": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 2, Verse 38",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Arjuna is heavily attached to the dualities of the material world—fearing the distress of killing and doubting the happiness of victory, leading to a fear of sinful reaction (karma).",
+  "teaching": "Krishna introduces the core principle of Karma-yoga: equanimity. He instructs Arjuna to act purely out of duty, completely detached from the dualities of happiness/distress, loss/gain, or victory/defeat. This detachment insulates him from sin."
+ },
+ "mahabharat:730": {
+  "source": "Mahabharata",
+  "ref": "Vana Parva (Nalopakhyana), Sarga 52-79",
+  "characters": [
+   "Yudhisthira",
+   "Brihadasva",
+   "Draupadi"
+  ],
+  "situation": "Severe guilt, self-blame, depression over past mistakes, and loss of hope for the future.",
+  "teaching": "Sage Brihadasva uses narrative therapy to offer perspective, helping Yudhisthira recognize the cyclical nature of life's challenges."
+ },
+ "gita:gita_chapter3_verse_files/427": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 3, Verse 26",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Knowing how teachers and wise mentors should handle individuals who are still attached to material rewards without causing psychological confusion or sudden behavioral abandonment.",
+  "teaching": "Krishna advises against disturbing the beliefs of attached workers. The wise should lead by example, demonstrating how daily effort can be dedicated toward higher purpose rather than personal indulgence."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/590": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-2 verse-4",
+  "characters": [
+   "Sugreeva"
+  ],
+  "situation": "Evaluating relative strengths and weaknesses under high stress leads to collective group panic.",
+  "teaching": "Sugreeva conducts a rapid threat assessment, realizing his weakness, and his fear spreads to his counselors."
+ },
+ "ramayanam:Dataset_ramayanam/ayodhyakanda/200": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda sarga-107",
+  "characters": [
+   "Rama",
+   "Bharata",
+   "Dasharatha",
+   "Kaikeyi",
+   "Sita",
+   "Lakshmana",
+   "Satrughna"
+  ],
+  "situation": "Rama is trying to convince Bharata to accept the throne and return to Ayodhya, while he (Rama) fulfills his exile. The challenge is Bharata's deep reluctance and grief over the events. Rama addresses this by explaining the chain of events through Dasharatha's prior promises to Kaikeyi's father and the boons granted to Kaikeyi, framing the current situation as the fulfillment of vows and an unbreakable decree, rather than an act of malice. He emphasizes the importance of liberating their deceased father from the 'bonds of his vows'.",
+  "teaching": "Rama's core teaching is the paramount importance of upholding one's word and respecting destiny/vows, even if the consequences are difficult. He re-frames Kaikeyi's actions as a mere 'redemption' of boons, thereby attempting to condone her acts and reduce Bharata's anger/blame towards her. His action is to provide a rational, dharma-based justification for his exile and Bharata's rule, asserting that this path will ensure Dasharatha's honor. He strategically outlines the future roles of each brother."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/508": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-1 verse-22",
+  "characters": [
+   "Rama",
+   "Lakshmana",
+   "Seetha"
+  ],
+  "situation": "The sweet sounds of spring birds re-awaken intense sorrow over his separation from Seetha.",
+  "teaching": "Rama articulates directly how joyful environmental stimuli exacerbate his feeling of loss."
+ },
+ "gita:gita_verse_files/298": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 1, Verse 7",
+  "characters": [
+   "Duryodhana",
+   "Dronacarya (listener)"
+  ],
+  "situation": "Having exhaustively listed the fearsome opponents in the Pandava army, Duryodhana realizes he may have demoralized his own commander (and himself). He abruptly pivots to assessing his own forces to regain a sense of psychological equilibrium and control.",
+  "teaching": "Duryodhana attempts a tactical shift in conversation. He flatters Dronacarya by addressing him respectfully as 'best of the brahmanas' and begins to list his own commanders to boost morale and validate his own military strength."
+ },
+ "mahabharat:735": {
+  "source": "Bhagavad Gita",
+  "ref": "Chapter 6, Verses 16-17",
+  "characters": [
+   "Krishna",
+   "Arjuna"
+  ],
+  "situation": "Extreme lifestyle habits, burnout, poor sleep hygiene, and physical self-neglect causing mental suffering.",
+  "teaching": "Krishna emphasizes Yuktahara-Vihara (balanced lifestyle), advocating moderation in diet, rest, work, and recreation."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/563": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-1 verse-77b, 78a",
+  "characters": [
+   "Rama",
+   "Lakshmana",
+   "Seetha"
+  ],
+  "situation": "Comparing the physical cave to the painful emptiness of his own lonely heart.",
+  "teaching": "Rama uses the cave metaphor to communicate his profound internal emptiness."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/608": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-2 verse-22",
+  "characters": [
+   "Sugreeva"
+  ],
+  "situation": "Risk of lethal vulnerability due to complacency.",
+  "teaching": "Sugreeva details the danger of covert enemies taking advantage of relaxed, trusting individuals."
+ },
+ "mahabharat:709": {
+  "source": "Mahabharata",
+  "ref": "Vana Parva, Sarga 30-32",
+  "characters": [
+   "Draupadi",
+   "Yudhisthira"
+  ],
+  "situation": "Resentment, existential anger, loss of faith due to injustice, and chronic stress.",
+  "teaching": "Yudhisthira reframes morality, teaching that doing good is its own intrinsic reward and warning against letting bitterness take root."
+ },
+ "ramayanam:Dataset_ramayanam/ayodhyakanda/150": {
+  "source": "Valmiki Ramayana",
+  "ref": "Ayodhya Kanda, Sarga 72",
+  "characters": [
+   "Bharata",
+   "Kaikeyi",
+   "Dahsaratha",
+   "Rama"
+  ],
+  "situation": "Bharata returns to Ayodhya with a premonition of doom, unable to find his father. Upon questioning his mother, Kaikeyi, she coldly reveals that the King has died. This shocking news causes Bharata immense physical and emotional distress, leading him to collapse in inconsolable grief. Despite Kaikeyi's attempt to curtail his public display of sorrow, Bharata, choking with grief, expresses his profound loss, questions the cause of his father's death, and immediately seeks solace and guidance from his elder brother, Rama.",
+  "teaching": "This passage highlights the brutal impact of sudden, tragic news and the varied ways individuals process overwhelming grief. It contrasts Kaikeyi's detachment and misguided attempt at 'emotional regulation' with Bharata's genuine, unrestrained sorrow. It also underscores the profound bond between brothers and the role of an elder brother as a paternal figure in times of loss."
+ },
+ "mahabharat:731": {
+  "source": "Mahabharata",
+  "ref": "Shanti Parva, Sarga 1-37",
+  "characters": [
+   "Yudhisthira",
+   "Bhishma",
+   "Vyasa",
+   "Krishna"
+  ],
+  "situation": "Post-traumatic guilt, survivor guilt, depression following victory, and feeling unworthy to lead.",
+  "teaching": "Elders engage in extensive grief counseling and moral education, normalizing his pain while guiding him toward self-forgiveness and duty."
+ },
+ "ramayanam:Dataset_ramayanam/aranyakanda/281": {
+  "source": "Valmiki Ramayana",
+  "ref": "Aranya Kanda, Sarga 63",
+  "characters": [
+   "Rama",
+   "Lakshmana",
+   "Sita"
+  ],
+  "situation": "Rama's grief evolves into a deep state of depression and self-loathing. He internalizes the tragedy, declaring himself the 'greatest sinner' on whom misfortunes are destined to fall. He experiences his sorrow as a physical torment, a 'fire' that 'scorches' him. After his desperate, unanswered pleas to the natural elements, the overwhelming emotional strain causes him to faint.",
+  "teaching": "This passage delves into the themes of self-blame and the psychosomatic effects of extreme grief. Rama's belief that he is inherently sinful is a cognitive distortion that intensifies his suffering. His physical collapse demonstrates how unchecked emotional pain can overwhelm the body's capacity to cope. Lakshmana's response serves as a counterpoint, advocating for resilience and emotional fortitude ('Men of spirit do not allow themselves to be cowed down') as the key to enduring great tragedy."
+ },
+ "ramayanam:Dataset_ramayanam/kishkindhakanda/580": {
+  "source": "Valmiki Ramayana",
+  "ref": "Kishkindha Kanda sarga-1 verse-94b, 95a",
+  "characters": [
+   "Lakshmana",
+   "Rama"
+  ],
+  "situation": "Addressing the debilitating nature of grief on constructive action.",
+  "teaching": "Lakshmana articulates a crucial psychological insight on how despair paralyzes human agency."
+ }
+}

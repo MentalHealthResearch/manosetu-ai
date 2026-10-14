@@ -1,0 +1,12 @@
+pandas>=3.0.0
+numpy>=1.26.0,<3.0.0
+scipy>=1.17.0
+scikit-learn>=1.8.0
+bert-score>=0.3.13
+rouge-score>=0.1.2
+transformers>=5.6.0
+torch>=2.11.0
+tqdm>=4.67.0
+ollama>=0.6.0
+qdrant-client>=1.17.1,<2.0.0
+sentence-transformers>=3.0.0,<6.0.0

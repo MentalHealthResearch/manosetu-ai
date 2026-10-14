@@ -1,0 +1,11 @@
+{
+  "questions_csv": "../data/questions.csv",
+  "qdrant_url": "http://localhost:6333",
+  "qdrant_collection": "narrative_therapy_corpus",
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "top_k": 3,
+  "temperature": 0.0,
+  "models": {
+    "Qwen3-8B": "qwen3:8b"
+  }
+}

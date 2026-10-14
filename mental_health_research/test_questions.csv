@@ -1,0 +1,122 @@
+question_id,subquestion_id,question_text
+1,1,My parents expect me to crack competitive exams and secure a government job. The pressure is killing me—what do I do?
+1,2,I'm scared to have that conversation with my parents. What if they get angry or disappointed? How can I approach them in a way that doesn't start a fight?
+1,3,I honestly don't know what I want. How do I figure out what I'm passionate about when I've only ever focused on my parents' expectations?
+2,1,I get nervous even saying my name during introductions. What if people judge me?
+2,2,Are there any physical tricks I can use right before an introduction to feel more grounded?
+2,3,"What if I do try to be brave, but I can see people reacting negatively or looking bored? How do I handle that feeling of being judged in real-time?"
+3,1,"My grandmother is unwell, and I'm terrified she might pass away. I can't function properly"
+3,2,"How do I manage my own sadness and fear when I'm visiting her? I want to be a source of comfort, but I'm afraid I'll just break down."
+3,3,"I feel so guilty when I'm not with her, but I also feel overwhelmed when I am. How can I cope with this guilt?"
+4,1,My best friend ghosted me after years of trust. I feel lost and worthless
+4,2,"The lack of closure is what's hurting the most. Should I reach out one last time to ask for an explanation, or is it better to just accept it and move on?"
+4,3,This experience has shattered my ability to trust people. How can I open up to new friendships without the constant fear of being abandoned again?
+5,1,I've been rejected from five interviews in a row. I feel like a failure and can't get back up.
+5,2,It's getting harder to find the motivation to even apply for the next job. How do I keep trying when I just expect to be rejected again?
+5,3,I keep getting vague feedback or none at all. How can I figure out what I'm actually doing wrong in these interviews?
+6,1,"I was wrongly accused of something in my hostel group chat, and I feel furious. I want revenge."
+6,2,"I understand not seeking revenge, but how am I supposed to face these people every day? Should I try to clear my name in the group, or just ignore everyone?"
+6,3,It feels unfair that they get away with spreading lies while I'm the one who has to practice 'non-attachment.' How is that justice?
+7,1,One moment I'm super confident; next I feel like I'll fail everything. I hate this instability.
+7,2,Why do these shifts happen so suddenly? Could there be specific triggers that I'm not aware of?
+7,3,"When that feeling of failure hits, it's hard to do anything. What is the simplest, most immediate thing I can do to pull myself out of that low point?"
+8,1,"I like someone, but I don't know if I'm good enough for them. I overthink everything."
+8,2,My brain just keeps replaying our interactions and finding flaws. How do I stop this cycle of overthinking every little thing?
+8,3,"After I work on my self-worth, what's the next step? How do I actually find out if they are interested without making a fool of myself?"
+9,1,My brother and I fight constantly about who does more chores. I feel disrespected.
+9,2,"What do I do if I try to have a calm conversation and suggest a plan, but he refuses to cooperate or doesn't stick to it? "
+9,3,It's less about the chores and more about feeling taken for granted. How do I talk about the underlying feeling of disrespect without it turning into a huge fight?
+10,1,I moved for work and know no one here. I cry most nights.
+10,2,Smiling at people and journaling feels so small compared to how lonely I feel. How do I take the next step from 'micro-connections' to making actual friends?
+10,3,Joining local groups is really intimidating for me as an introvert. Are there less overwhelming ways to meet new people?
+11,1,I'm devastated because I scored much lower than expected in my semester exam. The stress is overwhelming-how do I cope?
+11,2,This low score has practical consequences for my GPA and future. How do I deal with the real-world fallout while also managing my emotional stress?
+11,3,I feel paralyzed and can't even think about studying again. How do I break out of this and become productive?
+12,1,My heart races before every lab presentation; I feel I'll mess up and be judged
+12,2,"What should I do during the presentation if I start to panic, and my mind goes blank?"
+12,3,My fear is mostly about my professor's judgment. How do I cope when the person judging me has direct power over my grade?
+13,1,I feel paralyzed by fear of getting rejected from internships
+13,2,The fear kicks in even when I just think about preparing the application. How can I get over the hurdle of just starting the process?
+13,3,"I think the fear comes from a belief that my resume isn't good enough. Should I focus on improving my skills first, or just apply anyway?"
+14,1,Since moving cities I feel a persistent sadness I can't shake.
+14,2,"How can I tell if this is normal sadness from a big life change, or something more serious like depression?"
+14,3,"I've tried exploring, but the new city just makes me miss my old home more. How do I build a genuine connection to this new place?"
+15,1,Nothing I do seems to matter; what's the point of working toward goals?
+15,2,It's hard to stay motivated when there's no external recognition or result. How do I keep going when my efforts feel invisible?
+15,3,"Maybe my goals are the problem. How can I figure out if the goals I've
+set are genuinely meaningful to me?"
+16,1,I explode at teammates when deadlines slip-how do I stay calm?
+16,2,What should I do after I've already lost my temper with a teammate? How do I apologize and repair the relationship?
+16,3,What if my anger is justified because my teammates are being lazy? How do I hold them accountable for their work without exploding?
+17,1,"My moods swing wildly during project weeks-happy, then discouraged."
+17,2,"Since the swings are tied to the project, are there any time management techniques that could help reduce the high-stress moments?"
+17,3,How can I communicate what I'm going through to my teammates so they don't take my mood swings personally?
+18,1,My parents and I clash over my career choices-constant tension at home.
+18,2,Their main concern is financial stability. How can I address their practical fears about money while still defending my passion?
+18,3,"We can't have a calm dialogue. The moment the topic comes up, it's an argument. How can I even start a conversation productively?"
+19,1,My partner and I misinterpret texts and end up arguing
+19,2,What are some signs that a text conversation is going wrong and we should switch to a phone call instead?
+19,3,"What's a good, simple phrase to use in the moment to de-escalate things when I feel a text is being misinterpreted?"
+20,1,I can't stand being corrected; it feels like a blow to my identity.
+20,2,How do I handle criticism that's delivered in a harsh or condescending way? It's hard to find the lesson when the delivery is poor.
+20,3,Why do I have such a strong emotional reaction to correction? I'd like to understand the root of this feeling.
+21,1,I often think I'm not good enough compared with peers.
+21,2,This gets much worse when I'm on social media. Are there healthier ways to use platforms like LinkedIn and Instagram without falling into this comparison trap?
+21,3,Sometimes comparison motivates me to work harder. How can I tell the difference between healthy motivation and toxic self-criticism?
+22,1,All I do is code and study; I feel alone and drained.
+22,2,I feel guilty when I take breaks because my workload is so heavy. How do I overcome the stress and guilt of not being 'productive'?
+22,3,"I've been focused on work for so long, I don't even know what I enjoy anymore. How can I rediscover old hobbies or find new ones?"
+23,1,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?
+23,2,"This change has created a huge to-do list of practical problems to solve, but I'm too exhausted to tackle it. Where do I even start?"
+23,3,The sudden change has completely shaken my sense of self. How do I begin to rebuild my identity?
+24,1,Why do I get so attached to people that their absence breaks me?
+24,2,Is this kind of attachment style caused by something in my past? I want to understand the root cause.
+24,3,This pain makes me want to avoid getting close to anyone again. How can I stay open to new relationships while also protecting myself?
+25,1,I'm unable to let go of my disappointment after a failure. I feel stuck.
+25,2,"My failure was public, and I'm dealing with a lot of shame. How do I move on when I feel like everyone is judging me?"
+25,3,My mind keeps replaying what went wrong. How do I stop these intrusive thoughts in the moment?
+26,1,"My emotions fluctuate drastically-one moment I'm happy, then overwhelmed. Why?"
+26,2,"Could lifestyle factors like my diet, sleep, or exercise habits be contributing to these drastic emotional shifts?"
+26,3,What is a good way to track my moods and activities to try and find patterns or triggers for these fluctuations?
+27,1,I feel fear when facing new challenges. I avoid trying
+27,2,I think my fear is because I'm a perfectionist. How do I get comfortable with the idea of trying something and not being perfect at it?
+27,3,"How do I build genuine, lasting confidence so that new challenges feel more exciting and less terrifying?"
+28,1,I constantly feel like I'm not good enough compared to others.
+28,2,"This feeling is strongest at work, where I feel like my colleagues are all smarter than me. What can I do specifically in that environment?"
+28,3,Can I use this feeling as motivation to improve myself without it becoming a toxic habit of self-criticism?
+29,1,I feel lonely even in a crowd. No one understands me.
+29,2,I find it really hard to get past superficial small talk. Do you have any advice for deepening conversations with people?
+29,3,"My interests feel very niche, and it's hard to find people who share them. Where can I look for these 'kindred souls'?"
+30,1,I keep replaying bad memories- can't move on.
+30,2,What if the memories are tied to a person I am forced to see regularly? How do I move forward when the trigger is always there?
+30,3,When does this become something more serious? How do I know if I need to see a therapist about this?
+31,1,I feel like no one appreciates what I do
+31,2,The issue is with one specific person—my boss. How can I communicate my need for more recognition without sounding needy?
+31,3,A lot of my contributions are 'invisible' work that keeps things running. How can I make this work more visible so it can be appreciated?
+32,1,I avoid responsibilities because I fear I'll fail.
+32,2,"My avoidance usually looks like procrastination, which just increases my stress. Do you have any tips for breaking the procrastination cycle?"
+32,3,What are some of the long-term consequences of this avoidance? I'm worried it's affecting my life in ways I don't even realize.
+33,1,I feel emotionally drained after a sudden change in my life circumstances. How can I cope?
+33,2,I don't want to accept this change; I just want my old life back. How do I start to process this when I'm so resistant to my new reality?
+33,3,You've given me five different suggestions. I'm feeling overwhelmed. What is the single most important thing I should focus on right now?
+34,1,"I want to get job in a top mnc like oracle, ibm... i had tried in ibm but i went to interview round and get disqualified so i'm somewhat depressed."
+34,2,"Can you give me specific advice? To get a job at Oracle or IBM, what are the top 3 technical skills I should work on right now?"
+34,3,Getting rejected after making it so far has made me feel like an imposter. How do I regain my confidence for the next big interview?
+35,1,I lost many opportunities... whereas my friends got many opportunities where they have done malpractices... what to do should i copy or write in a genuine way.
+35,2,"I understand the long-term value of honesty, but I need a job now. Are there any ethical ways to speed up my job search to compete with them?"
+35,3,How do I manage my feelings of anger and resentment towards my friends? It's hard to be around them when I feel they succeeded unfairly.
+36,1,I dont have enough money to survive because of that i am felling sad and i cant enjoy my life happily so what is the solution for that.
+36,2,"I appreciate the advice on 'inner wealth,' but I have an immediate, practical problem: I need to pay my rent. Can you help me find resources for emergency financial aid in India?"
+36,3, I feel too much shame about my situation to ask for help from charities. How can I overcome that feeling?
+37,1,I am getting demotivated like what to do in life so what should i do
+37,2,"This feels a bit abstract. Could you suggest a more structured exercise, like a career aptitude test or a goal-setting framework, to help me find some direction?"
+37,3,I feel too demotivated to even get started on any of this. How do I find that initial spark of energy?
+38,1,How can I fight loneliness? im too shy to talk to others.
+38,2,"Even if I join a group, I never know what to say. Can you give me some simple, low-pressure conversation starters for shy people?"
+38,3,"While I want to meet people, I also want to feel less lonely when I'm by myself. What are some good ways to enjoy my own company?"
+39,1,I went through divorce recently so i am in a state of mental trauma.
+39,2,My identity was so tied to being married. How do I even begin to figure out who I am as an individual again?
+39,3,I'm also dealing with a lot of judgment and intrusive questions from relatives. How should I handle that?
+40,1,I am having love failure how to get rid of the trauma.
+40,2,"I can't stop checking their social media, even though I know it hurts me. What are some practical steps I can take to stop this habit?"
+40,3,Our lives were so intertwined that everything reminds me of them. How do I start to build a new life and find joy in things again?

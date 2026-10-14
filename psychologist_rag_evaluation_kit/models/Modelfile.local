@@ -1,0 +1,10 @@
+# MentaLLaMA-chat-13B is a LLaMA-2-chat fine-tune -> use the LLaMA-2 chat template, 4k context.
+FROM huggingface.co/tensorblock/klyang_MentaLLaMA-chat-13B-GGUF:Q2_K
+TEMPLATE """[INST] <<SYS>>
+{{ .System }}
+<</SYS>>
+
+{{ .Prompt }} [/INST]"""
+PARAMETER num_ctx 4096
+PARAMETER stop "[INST]"
+PARAMETER stop "</s>"

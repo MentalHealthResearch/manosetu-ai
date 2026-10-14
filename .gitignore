@@ -1,0 +1,62 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+**/node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local model and embedding caches
+.hf_cache/
+**/models/*.gguf
+**/models/*.bin
+**/models/*.safetensors
+**/emb_cache/
+
+# Generated experiment outputs and temporary files
+**/outputs/
+**/generated_responses/
+**/archive/
+**/_to_delete/
+**/run_log.txt
+*.log
+*.tmp
+
+# Local datasets and large source corpora
+mental_health_research/data/dataset.zip
+mental_health_research/data/dataset/
+
+# Private evaluation material and answer/assignment keys
+**/private_key*.csv
+**/PRIVATE_*
+**/*DO_NOT_SHARE*
+**/*answer_key*
+**/*assignment_key*
+
+# Researcher-specific completed packets and generated workbooks
+**/rater_packets/completed/
+**/*.xlsx
+**/*.docx
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+*token*
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Preserve the original nested repository only as local backup metadata
+mental_health_research/.git-original/

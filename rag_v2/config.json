@@ -1,0 +1,21 @@
+{
+  "dataset_root": "../mental_health_research/data/dataset",
+  "questions_csv": "../psychologist_rag_evaluation_kit/data/questions.csv",
+  "ground_truth_csv": "../psychologist_rag_evaluation_kit/retrieval_ground_truth/30_query_episode_ground_truth_template.csv",
+  "hf_home": "../mental_health_research/.hf_cache",
+  "baseline_embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "embedding_model": "BAAI/bge-m3",
+  "reranker_model": "BAAI/bge-reranker-v2-m3",
+  "llm_model": "gemma2:9b",
+  "generation_models": {
+    "Gemma-2-9B": "gemma2:9b"
+  },
+  "temperature": 0.0,
+  "candidate_pool": 20,
+  "final_k": 3,
+  "rrf_k": 60,
+  "construct_boost": 0.02,
+  "abstain_threshold": 0.05,
+  "max_words": 250,
+  "generation_retrieval_config": "A4_+construct_boost"
+}

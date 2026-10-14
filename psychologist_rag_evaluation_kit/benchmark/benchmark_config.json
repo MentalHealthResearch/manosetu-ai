@@ -1,0 +1,14 @@
+{
+  "questions_csv": "../data/questions.csv",
+  "qdrant_url": "http://localhost:6333",
+  "qdrant_collection": "narrative_therapy_corpus",
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "top_k": 3,
+  "temperature": 0.0,
+  "models": {
+    "Llama-3.1-8B": "llama3.1:8b",
+    "Mistral-7B": "mistral:7b",
+    "Gemma-2-9B": "gemma2:9b",
+    "MentalLLaMA-13B": "mental-llama:13b"
+  }
+}

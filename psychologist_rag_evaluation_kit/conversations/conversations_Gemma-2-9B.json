@@ -1,0 +1,1198 @@
+[
+ {
+  "construct": "Stress Management",
+  "qid": 11,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:49:27.619431+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I'm devastated because I scored much lower than expected in my semester exam. The stress is overwhelming-how do I cope?",
+    "assistant": "It sounds like you're feeling really overwhelmed by the stress of your exam results. That's completely understandable – it's tough when things don't go as planned.  \n\nLike Yudhishthira after the Kurukshetra war, you're experiencing a sense of disappointment and perhaps even guilt. Remember, even great leaders like him faced immense challenges and had to learn to cope with difficult emotions. \n\nHere are a few things that might help:\n\n1. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or counselor can help you process what happened and feel less alone. \n2. **Focus on self-care:** Make sure you're taking care of yourself physically and emotionally. Get enough sleep, eat healthy foods, and engage in activities that bring you joy.\n3. **Look ahead:**  Think about what you can learn from this experience and how you can use it to improve your study habits for next time. \n\n\nRemember, this one exam doesn't define you. You're capable of learning and growing from this experience.",
+    "retrieved_story_ids": [
+     "mahabharat:731",
+     "mahabharat:700",
+     "mahabharat:701"
+    ],
+    "retrieval_scores": [
+     0.2374,
+     0.237,
+     0.2368
+    ],
+    "seconds": 45.36
+   },
+   {
+    "turn": 2,
+    "user": "I studied a lot but froze in the exam. Now my parents keep asking about my marks and I can't sleep properly.",
+    "assistant": "It's completely understandable that you're struggling to sleep.  Feeling like you froze during the exam and then facing pressure from your parents about your marks is a really tough combination. It sounds like you're carrying a lot of stress and anxiety right now. \n\nRemember, you did put in the effort to study, and that's important. It's common to feel overwhelmed during exams, and sometimes our brains just don't cooperate the way we want them to.  \n\nHere are a few things that might help:\n\n1. **Talk to your parents:**  Try explaining to them how you're feeling. Let them know that you're stressed about the exam and that you need some space to process it. \n2. **Practice relaxation techniques:**  Things like deep breathing exercises, meditation, or even a warm bath can help calm your mind and body. \n3. **Focus on things you can control:**  You can't change the exam results, but you can focus on taking care of yourself and preparing for future exams.\n\n\nRemember, you're not alone in this. Many people experience exam anxiety, and there are ways to manage it. Be kind to yourself and take things one step at a time.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/150",
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/141",
+     "mahabharat:731"
+    ],
+    "retrieval_scores": [
+     0.2675,
+     0.2659,
+     0.2609
+    ],
+    "seconds": 36.98
+   },
+   {
+    "turn": 3,
+    "user": "The next exam is in three weeks. I don't know how to calm down enough to even start studying again.",
+    "assistant": "It's completely understandable that you're feeling overwhelmed and unsure where to start.  Three weeks is a good amount of time to prepare, but it's important to approach it in a way that feels manageable and doesn't add to your stress. \n\nThink of it like Arjuna preparing for battle. He needed guidance and a plan to face his fears and act effectively.  \n\nHere are a few things that might help:\n\n1. **Break it down:** Instead of looking at the whole three weeks, break your studying into smaller, more manageable chunks. Focus on one topic or chapter at a time.\n2. **Create a study schedule:**  Having a plan can help you feel more in control. Schedule specific times for studying, and stick to your schedule as much as possible.\n3. **Find a study environment that works for you:**  Some people study best in quiet libraries, while others prefer a more lively atmosphere. Experiment to find what helps you focus.\n\n\nRemember, you don't have to do everything at once. Start small, be kind to yourself, and celebrate your progress along the way. You've got this!",
+    "retrieved_story_ids": [
+     "mahabharat:731",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/589",
+     "mahabharat:706"
+    ],
+    "retrieval_scores": [
+     0.2388,
+     0.2314,
+     0.2266
+    ],
+    "seconds": 30.1
+   }
+  ]
+ },
+ {
+  "construct": "Stress Management",
+  "qid": 11,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:50:02.677556+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I'm devastated because I scored much lower than expected in my semester exam. The stress is overwhelming-how do I cope?",
+    "assistant": "I'm so sorry to hear that you're feeling devastated. It's completely understandable to feel overwhelmed by stress after an exam, especially when the results don't meet your expectations.  \n\nIt sounds like you're really feeling the weight of this right now.  \n\nHere are a few things that might help: \n\n1. **Take some time for self-care:** Do something you enjoy, like listening to music, taking a walk, or spending time with loved ones. \n2. **Talk to someone you trust:** Sharing your feelings with a friend, family member, or counselor can be really helpful. \n3. **Focus on what you can learn from this experience:**  Think about what you can do differently next time.  \n\n\nRemember, you're not alone in this.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 15.89
+   },
+   {
+    "turn": 2,
+    "user": "I studied a lot but froze in the exam. Now my parents keep asking about my marks and I can't sleep properly.",
+    "assistant": "It's really tough when you put in the effort but things don't go as planned, and then you're facing pressure from others. It's no wonder you're having trouble sleeping.  \n\nIt sounds like you need some space to process this. Could you try gently explaining to your parents that you need some time to yourself right now? Maybe suggest talking about it later when you've had a chance to calm down.  \n\nRemember, you're doing your best. Be kind to yourself.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 10.59
+   },
+   {
+    "turn": 3,
+    "user": "The next exam is in three weeks. I don't know how to calm down enough to even start studying again.",
+    "assistant": "It's completely understandable to feel overwhelmed with another exam looming.  It's okay to take a step back and focus on calming down first.  \n\nTry breaking down your studying into smaller, manageable chunks.  Even just 30 minutes a day can make a difference.  And remember to take breaks and do things you enjoy to help manage your stress.  You've got this!",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.58
+   }
+  ]
+ },
+ {
+  "construct": "Anxiety",
+  "qid": 12,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:50:58.216849+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "My heart races before every lab presentation; I feel I'll mess up and be judged",
+    "assistant": "It sounds like you're feeling a lot of pressure before your lab presentations.  Krishna's teachings about Nishkama Karma and performing your duty without attachment to the results might be helpful here. Remember, you're focusing on the effort and execution of the presentation, not the outcome or how others judge you. \n\nHere are a few things that might help:\n\n1. **Practice your presentation:**  The more familiar you are with the material, the more confident you'll feel. \n2. **Focus on your message:** Remind yourself why you're giving the presentation and the value of your work.\n3. **Visualize success:** Imagine yourself delivering a confident and engaging presentation.",
+    "retrieved_story_ids": [
+     "mahabharat:687",
+     "gita:gita_chapter2_verse_files/376",
+     "mahabharat:712"
+    ],
+    "retrieval_scores": [
+     0.2825,
+     0.2641,
+     0.2627
+    ],
+    "seconds": 17.11
+   },
+   {
+    "turn": 2,
+    "user": "Last time my voice shook and a classmate laughed. Since then it has become worse.",
+    "assistant": "That's really tough, and it's understandable that it's making things worse. It sounds like that classmate's laughter triggered a fear of judgment that's now impacting your presentations. Remember, Arjuna felt his body trembling and his mouth drying up when facing his own kin, and that was seen as a sign of compassion, not weakness. \n\nHere are a few things that might help:\n\n1. **Practice deep breathing exercises:** This can help calm your nerves and regulate your physical response to anxiety.\n2. **Focus on your breathing during the presentation:**  Take slow, deep breaths to center yourself and manage any trembling.\n3. **Remember that everyone makes mistakes:** Even experienced speakers have moments of nervousness. Don't let one incident define your entire experience.",
+    "retrieved_story_ids": [
+     "gita:gita_verse_files/316",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/590",
+     "mahabharat:715"
+    ],
+    "retrieval_scores": [
+     0.28,
+     0.2745,
+     0.2712
+    ],
+    "seconds": 18.89
+   },
+   {
+    "turn": 3,
+    "user": "I have another presentation on Friday. I've thought about skipping it and just taking the penalty.",
+    "assistant": "It's completely understandable to feel overwhelmed and consider skipping the presentation.  Krishna emphasizes the importance of duty, but he also acknowledges the human experience of fear and hesitation.  \n\nHere are a few things to consider before making a decision:\n\n1. **Talk to your professor:** Explain your feelings and see if there's any flexibility or support they can offer.\n2. **Break down the task:** Instead of focusing on the whole presentation, break it down into smaller, manageable steps.\n3. **Practice self-compassion:** Be kind to yourself and acknowledge that it's okay to feel anxious.  Remember, you're not alone in this. \n\n\nWhat feels most important to you right now?",
+    "retrieved_story_ids": [
+     "mahabharat:687",
+     "gita:gita_chapter2_verse_files/376",
+     "gita:gita_chapter2_verse_files/368"
+    ],
+    "retrieval_scores": [
+     0.2566,
+     0.2484,
+     0.202
+    ],
+    "seconds": 19.14
+   }
+  ]
+ },
+ {
+  "construct": "Anxiety",
+  "qid": 12,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:51:26.791784+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "My heart races before every lab presentation; I feel I'll mess up and be judged",
+    "assistant": "It sounds like you're feeling really anxious about your lab presentations. That's completely understandable – public speaking can be nerve-wracking for many people.  \n\nIt's brave of you to keep putting yourself out there despite those feelings.  \n\nHere are a few things that might help: \n\n1. **Practice your presentation beforehand:**  The more familiar you are with the material, the more confident you'll feel. \n2. **Focus on your breathing:** Deep, slow breaths can help calm your nerves. \n3. **Remember that everyone makes mistakes:** Even experienced speakers do! It's okay if things don't go perfectly.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 13.38
+   },
+   {
+    "turn": 2,
+    "user": "Last time my voice shook and a classmate laughed. Since then it has become worse.",
+    "assistant": "That's really tough, and it's understandable that it's made things worse. It's not fair that someone laughed at you when you were nervous.  \n\nRemember, their reaction says more about them than it does about you.  \n\nFocusing on your breathing and practicing your presentation can still help, and maybe try visualizing yourself giving a successful presentation.  How does that feel?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 7.96
+   },
+   {
+    "turn": 3,
+    "user": "I have another presentation on Friday. I've thought about skipping it and just taking the penalty.",
+    "assistant": "It's completely understandable to feel like skipping it is the easier option right now.  \n\nBut, think about how proud you'll feel if you face your fear and give the presentation.  \n\nWhat if you practiced your breathing and visualization techniques beforehand?  Maybe even practice in front of a trusted friend or family member?  You've got this!",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 7.24
+   }
+  ]
+ },
+ {
+  "construct": "Fear",
+  "qid": 27,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:52:23.321997+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I feel fear when facing new challenges. I avoid trying",
+    "assistant": "It sounds like you're feeling a lot of fear when facing new challenges, similar to how Sugreeva felt intimidated by Vali.  It's completely understandable to feel that way –  new things can be scary!  \n\nRemember, Sugreeva asked Rama for abhaya, a sense of safety and protection.  Maybe you could try asking someone you trust for support when facing a new challenge.  \n\nHere are a few things that might help:\n\n1. **Break down the challenge into smaller steps.** This can make it feel less overwhelming.\n2. **Focus on your strengths.** Remind yourself of what you're good at and how you've overcome challenges in the past.\n3. **Practice self-compassion.** Be kind to yourself and acknowledge that it's okay to feel fear.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/589",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/608",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/679"
+    ],
+    "retrieval_scores": [
+     0.4405,
+     0.3889,
+     0.3759
+    ],
+    "seconds": 20.07
+   },
+   {
+    "turn": 2,
+    "user": "My manager offered me a chance to lead a small project, but I said I'm not ready.",
+    "assistant": "It's brave to be honest about your feelings, even when it's uncomfortable.  Sugreeva knew his own weaknesses and didn't hesitate to ask for help.  \n\nSaying you're not ready doesn't mean you're not capable. It just means you're being realistic about your current skills and experience.  \n\nMaybe you could:\n\n1. **Talk to your manager about what specifically makes you feel unprepared.** This could help you identify areas where you'd like to develop.\n2. **Ask if there are smaller tasks within the project you could take on to gain experience.**\n3. **Set a timeline for yourself to prepare for a leadership role in the future.**",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/589",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/679",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/590"
+    ],
+    "retrieval_scores": [
+     0.4128,
+     0.3498,
+     0.3458
+    ],
+    "seconds": 16.38
+   },
+   {
+    "turn": 3,
+    "user": "Now I regret it, but I'm still scared I would have messed it up and everyone would have seen.",
+    "assistant": "It's common to feel regret after a decision, especially when it involves something new and potentially challenging.  Sugreeva also faced moments of doubt and fear, wondering if he could overcome his enemies.\n\nRemember, you're not alone in feeling this way. Everyone makes mistakes, and it's how we learn and grow.  \n\nTry to focus on:\n\n1. **Learning from this experience.** What can you take away from this situation that will help you in the future?\n2. **Practicing self-compassion.** Be kind to yourself and acknowledge that it's okay to make mistakes.\n3. **Looking for opportunities to step outside your comfort zone in smaller ways.** This can help build your confidence over time.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/589",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/608",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/597"
+    ],
+    "retrieval_scores": [
+     0.4396,
+     0.3768,
+     0.3674
+    ],
+    "seconds": 17.94
+   }
+  ]
+ },
+ {
+  "construct": "Fear",
+  "qid": 27,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:52:47.710234+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I feel fear when facing new challenges. I avoid trying",
+    "assistant": "It's completely understandable to feel fear when facing new challenges. It's a natural human response. Avoiding new things can feel safer in the moment, but it can also make those fears feel bigger over time. \n\nWould you like to brainstorm some small steps you could take to face a challenge, even if it's just a tiny one?  Maybe we could also talk about some ways to manage that fear when it comes up?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.6
+   },
+   {
+    "turn": 2,
+    "user": "My manager offered me a chance to lead a small project, but I said I'm not ready.",
+    "assistant": "That's okay. It's brave to acknowledge when you're not quite ready for something.  It sounds like you're feeling some pressure, though.  \n\nWould you like to talk about what's making you feel unprepared? Maybe we could explore some ways to build your confidence for this kind of opportunity in the future?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 7.1
+   },
+   {
+    "turn": 3,
+    "user": "Now I regret it, but I'm still scared I would have messed it up and everyone would have seen.",
+    "assistant": "It's common to feel regret after saying no to something, especially when it feels like a good opportunity. It's also natural to worry about what others might think. Remember, everyone makes mistakes, and it's how we learn and grow. \n\nWould you like to talk about what specifically scares you about messing up? Maybe we can brainstorm some ways to manage those fears if you were to take on a similar opportunity in the future?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.69
+   }
+  ]
+ },
+ {
+  "construct": "Low Mood",
+  "qid": 37,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:53:25.935731+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I am getting demotivated like what to do in life so what should i do",
+    "assistant": "It sounds like you're feeling really demotivated, and that's completely understandable. It's tough when you're not sure what direction to take in life.  Yudhisthira reminds us that doing what's right is its own reward, even when it's hard.  \n\nMaybe try focusing on small acts of kindness or pursuing something you're genuinely interested in, even if it seems insignificant.  \n\nRemember, progress often comes in small steps.  What's one small thing you could do today that feels aligned with your values?",
+    "retrieved_story_ids": [
+     "gita:gita_chapter3_verse_files/427",
+     "mahabharat:715",
+     "mahabharat:709"
+    ],
+    "retrieval_scores": [
+     0.3075,
+     0.2779,
+     0.2735
+    ],
+    "seconds": 12.96
+   },
+   {
+    "turn": 2,
+    "user": "I wake up and don't feel like doing anything. Even things I used to enjoy feel flat.",
+    "assistant": "It's tough when things that used to bring you joy feel flat. It sounds like you're experiencing a lack of motivation and energy, which can be really draining.  \n\nRemember what Lakshmana said about despair paralyzing effort?  Even small actions can help break through that feeling.  \n\nCould you try going for a short walk, listening to a favorite song, or connecting with someone you care about?  Sometimes, just getting started is the hardest part.",
+    "retrieved_story_ids": [
+     "mahabharat:735",
+     "mahabharat:730",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/580"
+    ],
+    "retrieval_scores": [
+     0.2602,
+     0.2564,
+     0.2536
+    ],
+    "seconds": 11.08
+   },
+   {
+    "turn": 3,
+    "user": "Everyone around me seems to know what they want. I just feel stuck and tired.",
+    "assistant": "It's easy to feel stuck when it seems like everyone else has their path figured out. But remember, everyone's journey is different.  \n\nKrishna reminds us that a self-realized person doesn't need external validation or comparison. Focus on your own inner compass and what feels right for you, even if it's different from what others are doing. \n\nTake some time for self-reflection. What brings you peace? What are your values?  Even small steps towards understanding yourself can help you feel less lost.",
+    "retrieved_story_ids": [
+     "gita:gita_chapter3_verse_files/427",
+     "gita:gita_chapter3_verse_files/419",
+     "mahabharat:715"
+    ],
+    "retrieval_scores": [
+     0.2584,
+     0.2438,
+     0.2398
+    ],
+    "seconds": 13.82
+   }
+  ]
+ },
+ {
+  "construct": "Low Mood",
+  "qid": 37,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:53:54.914550+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I am getting demotivated like what to do in life so what should i do",
+    "assistant": "It's completely understandable to feel demotivated sometimes.  Life can feel overwhelming and it's hard to know where to start.  \n\nIt sounds like you're looking for direction.  Maybe try brainstorming some things that genuinely interest you, even small things.  Then, pick one and see if you can take a tiny step towards it this week.  Even small steps can build momentum.  \n\nRemember, you're not alone in this.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.98
+   },
+   {
+    "turn": 2,
+    "user": "I wake up and don't feel like doing anything. Even things I used to enjoy feel flat.",
+    "assistant": "That sounds really tough. It's like your usual spark just isn't there.  It's important to be kind to yourself during times like this.  \n\nHave you tried moving your body a little, even just a short walk? Sometimes gentle movement can help shift energy.  Also, try focusing on one small thing you *can* do today, no matter how small.  \n\nRemember, you're going through something, and it's okay to take things slow.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 9.52
+   },
+   {
+    "turn": 3,
+    "user": "Everyone around me seems to know what they want. I just feel stuck and tired.",
+    "assistant": "It's easy to feel that way when it seems like everyone else has it figured out. But remember, social media often only shows the highlight reel, not the whole picture.  \n\nFeeling stuck and tired is a common experience, and it doesn't mean you're behind.  Try focusing on your own journey, even if it feels slow.  What's one small thing you can do today to take care of yourself?  Maybe a relaxing bath or a good book?  You deserve kindness and rest.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 10.48
+   }
+  ]
+ },
+ {
+  "construct": "Sadness",
+  "qid": 14,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:54:44.676479+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "Since moving cities I feel a persistent sadness I can't shake.",
+    "assistant": "It sounds like you're experiencing a deep sense of sadness since moving.  It's completely understandable to feel this way, especially when a place holds so many memories and connections.  Bharata's longing for Rama's return in Ayodhya reminds me of how much we all crave a sense of belonging and wholeness.  \n\nWhat are some things that used to bring you joy in your old city? Maybe we could brainstorm some ways to recreate those feelings in your new environment.  \n\nIt might also be helpful to connect with people who understand what you're going through.  Are there any groups or activities in your new city that could help you build new connections?",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/123",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/508",
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/211"
+    ],
+    "retrieval_scores": [
+     0.2913,
+     0.2895,
+     0.2771
+    ],
+    "seconds": 18.78
+   },
+   {
+    "turn": 2,
+    "user": "I moved here three months ago for my job. I miss home food, my family and my old friends.",
+    "assistant": "It's completely normal to miss home, especially the familiar comforts of food, family, and friends.  Three months is still a relatively short time to adjust to a new place.  Rama's longing for Sita in the spring, surrounded by birdsong, reminds me of how even joyful things can sometimes highlight what we're missing.\n\nHave you tried cooking any of your favorite dishes from home?  Maybe that could bring a little bit of comfort and familiarity.  Also, have you reached out to your family and friends back home?  Even a phone call or video chat can help bridge the distance.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/508",
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/123",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/539"
+    ],
+    "retrieval_scores": [
+     0.2937,
+     0.2567,
+     0.2557
+    ],
+    "seconds": 16.07
+   },
+   {
+    "turn": 3,
+    "user": "I call home every day, but after the call I feel even more empty.",
+    "assistant": "It's understandable that even daily calls might leave you feeling emptier.  It sounds like you're craving more than just a voice connection right now.  You need that physical presence and shared experience.  \n\nPerhaps you could try planning a visit home soon, even if it's just for a short while.  Having something concrete to look forward to might help.  Also, think about ways to bring a bit of home to your new city.  Maybe there are local groups or events that celebrate your culture or cuisine.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/508",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/539",
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/123"
+    ],
+    "retrieval_scores": [
+     0.2906,
+     0.281,
+     0.2577
+    ],
+    "seconds": 14.54
+   }
+  ]
+ },
+ {
+  "construct": "Sadness",
+  "qid": 14,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:55:25.211075+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "Since moving cities I feel a persistent sadness I can't shake.",
+    "assistant": "It sounds like you're going through a tough time adjusting to your new city.  It's completely understandable to feel sad and out of sorts when you're in a new environment.  \n\nIt takes time to build a new support system and feel settled.  \n\nHere are a few things that might help: \n\n1. **Reach out to someone you trust:** Even a quick call or text can make a difference. \n2. **Explore your new city:**  Try visiting a park, museum, or local event to connect with your surroundings. \n3. **Be patient with yourself:**  Give yourself time to adjust and don't be afraid to ask for help if you need it.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 14.77
+   },
+   {
+    "turn": 2,
+    "user": "I moved here three months ago for my job. I miss home food, my family and my old friends.",
+    "assistant": "It's so normal to miss the familiar comforts of home, especially when you're surrounded by new things.  It sounds like you're really feeling the loss of those connections with your family and friends.  \n\nMaybe try:\n\n1. **Cooking a favorite dish from home:**  Even if it's just one meal, it can bring back comforting memories.\n2. **Scheduling regular video calls with loved ones:**  Seeing their faces can help bridge the distance.\n3. **Joining a club or group related to your hobbies:**  This could be a great way to meet new people who share your interests.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 12.64
+   },
+   {
+    "turn": 3,
+    "user": "I call home every day, but after the call I feel even more empty.",
+    "assistant": "It's bittersweet, isn't it?  Connecting with loved ones can be a lifeline, but it can also highlight the distance.  It's okay to feel that emptiness after the call.  \n\nPerhaps try:\n\n1. **Focusing on something enjoyable after your call:**  Watch a funny show, listen to music, or do something that brings you joy.\n2. **Journaling about your feelings:**  Writing can be a helpful way to process your emotions.\n3. **Remembering that your feelings are valid:**  It's tough being away from home, and it's okay to grieve that loss.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 13.12
+   }
+  ]
+ },
+ {
+  "construct": "Feelings of Hopelessness",
+  "qid": 15,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:56:21.481119+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "Nothing I do seems to matter; what's the point of working toward goals?",
+    "assistant": "It sounds like you're feeling stuck and unsure if your efforts even matter.  It's easy to get caught up in that feeling, especially when things seem overwhelming.  Remember what Lakshmana said –  \"We will search every forest, cross every ocean, and tear down every stronghold to rescue Seetha!\"  He didn't let doubt stop him from taking action. \n\nMaybe try focusing on one small step you can take right now, just like Arjuna focusing on his duty.  Even small actions can make a difference.  \n\nIf you're feeling overwhelmed, talking to someone you trust about how you're feeling can also be helpful.",
+    "retrieved_story_ids": [
+     "gita:gita_chapter2_verse_files/376",
+     "gita:gita_chapter4_verse_files/463",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/581"
+    ],
+    "retrieval_scores": [
+     0.3087,
+     0.2937,
+     0.2937
+    ],
+    "seconds": 15.15
+   },
+   {
+    "turn": 2,
+    "user": "I've been preparing for the same exam for two years and I keep missing the cut-off.",
+    "assistant": "It's incredibly frustrating to put in so much effort and still not reach your goal.  It sounds like you've been dedicated to this exam for a long time, and that takes real commitment.  Remember what Krishna says: \"a little advancement on this path can protect one from the most dangerous type of fear.\"  \n\nEven though you haven't passed yet, you've already made progress.  \n\nMaybe try looking at your study plan and seeing if there are any areas you could focus on more, or any new strategies you could try.  \n\nIt's also important to take care of yourself during this process.  Make sure you're getting enough sleep, eating well, and taking breaks when you need them.  You've got this!",
+    "retrieved_story_ids": [
+     "gita:gita_chapter2_verse_files/370",
+     "gita:gita_chapter2_verse_files/376",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/581"
+    ],
+    "retrieval_scores": [
+     0.2312,
+     0.2208,
+     0.2074
+    ],
+    "seconds": 18.93
+   },
+   {
+    "turn": 3,
+    "user": "Sometimes I think I should just give up. What's the point if nothing ever changes?",
+    "assistant": "It's completely understandable to feel like giving up when you've been putting in so much effort without seeing the results you want.  That feeling of \"what's the point?\" is really tough.  But remember, even a tiny step forward can make a difference.  \n\nThink about what Lakshmana said: \"We will search every forest, cross every ocean, and tear down every stronghold to rescue Seetha!\" He didn't give up, even though the task seemed impossible.  \n\nMaybe instead of focusing on the end goal right now, try focusing on one small step you can take today.  Even if it feels insignificant, it's a step in the right direction.  And remember, you're not alone in this.  Talking to someone you trust about how you're feeling can also be really helpful.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/581",
+     "gita:gita_chapter2_verse_files/376",
+     "gita:gita_chapter2_verse_files/370"
+    ],
+    "retrieval_scores": [
+     0.2985,
+     0.2827,
+     0.2732
+    ],
+    "seconds": 21.82
+   }
+  ]
+ },
+ {
+  "construct": "Feelings of Hopelessness",
+  "qid": 15,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:57:02.883190+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "Nothing I do seems to matter; what's the point of working toward goals?",
+    "assistant": "It sounds incredibly frustrating to feel like your efforts don't make a difference. That feeling of hopelessness is really tough to deal with.  \n\nIt's important to remember that progress isn't always linear. Sometimes it feels slow or even like you're taking steps backward.  \n\nCould you try:\n\n1. **Focusing on small wins:**  What are some tiny goals you could achieve today? \n2. **Talking to someone you trust:** Sharing your feelings can help lighten the load.\n3. **Taking a break:** Sometimes stepping away from things can give you fresh perspective. \n\n\nRemember, you're not alone in feeling this way.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 13.24
+   },
+   {
+    "turn": 2,
+    "user": "I've been preparing for the same exam for two years and I keep missing the cut-off.",
+    "assistant": "Two years is a long time to dedicate to something, and it's understandable to feel discouraged after repeatedly missing the cut-off. It sounds like you're putting in a lot of effort, which is admirable. \n\nHave you considered:\n\n1. **Talking to someone who's passed the exam:** They might have valuable insights or tips.\n2. **Looking into different study strategies:** Maybe there's a new approach that could help you.\n3. **Taking a short break from studying:** Sometimes stepping away can help you come back refreshed and with a new perspective. \n\n\nYou've got this!  Keep going.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 12.68
+   },
+   {
+    "turn": 3,
+    "user": "Sometimes I think I should just give up. What's the point if nothing ever changes?",
+    "assistant": "It's really tough to keep going when you feel like nothing's changing. It's okay to feel that way, and it's important to acknowledge those feelings.  \n\nBut giving up doesn't have to be the only option.  \n\nCould you try:\n\n1. **Focusing on what you *can* control:**  You can control your effort and your attitude. \n2. **Reframing your goals:** Maybe there are smaller, more achievable goals you can set along the way.\n3. **Talking to someone who supports you:** Sharing your feelings can help you feel less alone. \n\n\n\nRemember, you're stronger than you think.  Keep going, even if it's just one step at a time.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 15.47
+   }
+  ]
+ },
+ {
+  "construct": "Anger Management",
+  "qid": 16,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:58:23.557258+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I explode at teammates when deadlines slip-how do I stay calm?",
+    "assistant": "It sounds like you're feeling frustrated when deadlines aren't met.  It's understandable to feel that way, especially when teamwork is involved.  \n\nLike Lakshmana in the Mahabharata, you have strong feelings, and it's important to acknowledge them.  Rama's advice to Lakshmana reminds us that anger can cloud our judgment.  \n\nInstead of exploding, maybe try taking a deep breath and channeling your energy into finding solutions.  \n\nHere are a few things you could try:\n\n1. **Communicate:** Talk to your teammates about what's causing the delays and see if you can work together to find solutions.\n2. **Set clear expectations:** Make sure everyone understands the deadlines and their responsibilities.\n3. **Focus on the present:** Like Arjuna in the Gita, focus on doing your best in the present moment, rather than worrying about the outcome.",
+    "retrieved_story_ids": [
+     "mahabharat:734",
+     "gita:gita_chapter2_verse_files/376",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/629"
+    ],
+    "retrieval_scores": [
+     0.239,
+     0.2216,
+     0.2207
+    ],
+    "seconds": 20.85
+   },
+   {
+    "turn": 2,
+    "user": "Yesterday I shouted at a junior in front of everyone. I felt terrible afterwards.",
+    "assistant": "It's really brave of you to acknowledge that you feel terrible about what happened.  That shows you have a good heart and want to do better.  \n\nIt sounds like you're experiencing some regret, which is a natural response after hurting someone's feelings.  \n\nRama's gentle approach to Lakshmana reminds us that even when we make mistakes, we can always try to make amends.  \n\nHere are a few things you could consider:\n\n1. **Apologize sincerely:**  Let the junior know that you're sorry for shouting at them and that you didn't mean to make them feel bad.\n2. **Reflect on your actions:**  Think about what triggered your anger and how you could handle similar situations differently in the future.\n3. **Focus on building a positive relationship:**  Make an effort to be supportive and encouraging towards the junior.",
+    "retrieved_story_ids": [
+     "mahabharat:734",
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/78",
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/189"
+    ],
+    "retrieval_scores": [
+     0.3183,
+     0.2908,
+     0.2597
+    ],
+    "seconds": 25.29
+   },
+   {
+    "turn": 3,
+    "user": "I don't want to be that person, but in the moment I just lose it.",
+    "assistant": "It's tough when you know you don't want to be that person, but you feel like you lose control sometimes. It's like a storm inside you that you can't quite manage.  \n\nThe good news is that you're aware of this pattern, and that's the first step to changing it.  \n\nThink of it like the king in the Ramayanam, who is advised to choose wise advisors and manage his anger.  \n\nHere are a few things that might help you gain more control:\n\n1. **Identify your triggers:** What situations or people tend to make you lose your temper? Once you know your triggers, you can start to develop strategies for coping with them.\n2. **Practice mindfulness:**  Paying attention to your breath and body sensations can help you stay grounded in the present moment and avoid getting swept up in anger.\n3. **Find healthy outlets for your anger:** Exercise, journaling, or talking to a trusted friend can help you release pent-up frustration in a constructive way. \n\n\n\nRemember, you're not alone in this struggle. Many people experience anger, and it's possible to learn to manage it effectively.",
+    "retrieved_story_ids": [
+     "mahabharat:734",
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/189",
+     "gita:gita_chapter2_verse_files/376"
+    ],
+    "retrieval_scores": [
+     0.2912,
+     0.2658,
+     0.2473
+    ],
+    "seconds": 34.24
+   }
+  ]
+ },
+ {
+  "construct": "Anger Management",
+  "qid": 16,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:58:49.374484+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I explode at teammates when deadlines slip-how do I stay calm?",
+    "assistant": "It sounds incredibly frustrating to feel that way when deadlines are missed. It's understandable to feel your emotions rising in those situations.  \n\nHave you tried taking a few deep breaths when you feel yourself getting overwhelmed?  Maybe also try to communicate your feelings to your teammates in a calm and direct way, focusing on how the missed deadlines impact the project.  Finally, remember to be kind to yourself - it's okay to feel stressed sometimes.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.99
+   },
+   {
+    "turn": 2,
+    "user": "Yesterday I shouted at a junior in front of everyone. I felt terrible afterwards.",
+    "assistant": "I'm so sorry that happened. It takes a lot of courage to acknowledge that and feel remorse. It's clear you care about your team.  \n\nHave you considered apologizing to the junior directly?  Maybe you could also reflect on what triggered your outburst so you can better manage your emotions in the future. Remember, everyone makes mistakes, and it's how we learn and grow from them that matters.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.26
+   },
+   {
+    "turn": 3,
+    "user": "I don't want to be that person, but in the moment I just lose it.",
+    "assistant": "It's tough when you feel like your emotions are taking over. It sounds like you're really committed to being a better teammate. \n\nHave you thought about trying some stress-reducing techniques before a deadline?  Things like taking a short walk or doing some deep breathing exercises could help.  Remember, you're not alone in this struggle, and seeking support from a trusted friend or mentor could be helpful too.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.57
+   }
+  ]
+ },
+ {
+  "construct": "Emotional Regulation",
+  "qid": 26,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T19:59:39.327725+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "My emotions fluctuate drastically-one moment I'm happy, then overwhelmed. Why?",
+    "assistant": "It sounds like you're experiencing a lot of ups and downs emotionally.  It's completely understandable to feel overwhelmed when your emotions shift so quickly.  Krishna talks about how our feelings are like the seasons, constantly changing.  Maybe focusing on accepting these changes, rather than fighting them, could be helpful.  \n\nHere are a few things that might help:\n\n1. **Mindfulness:** Try paying attention to your breath and noticing your emotions without judgment. \n2. **Journaling:** Writing down your feelings can help you process them.\n3. **Self-care:** Engage in activities that bring you joy and help you relax.",
+    "retrieved_story_ids": [
+     "mahabharat:720",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/565",
+     "mahabharat:707"
+    ],
+    "retrieval_scores": [
+     0.3221,
+     0.3139,
+     0.3103
+    ],
+    "seconds": 14.99
+   },
+   {
+    "turn": 2,
+    "user": "Small things, like a friend not replying, can ruin my whole day.",
+    "assistant": "It's tough when something small like that can have such a big impact on your day. It sounds like you really value your connection with your friend.  Krishna talks about how we shouldn't get too attached to things, because they are impermanent. Maybe trying to view things with a little more detachment could help lessen the blow when things don't go as planned. \n\nHere are a few things that might help:\n\n1. **Reach out:**  Instead of letting it fester, try sending a quick message to your friend. Maybe they're just busy.\n2. **Distract yourself:** Engage in an activity you enjoy to shift your focus.\n3. **Practice gratitude:**  Think about the good things in your life to help balance out the negative.",
+    "retrieved_story_ids": [
+     "mahabharat:720",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/565",
+     "mahabharat:707"
+    ],
+    "retrieval_scores": [
+     0.3277,
+     0.3209,
+     0.3127
+    ],
+    "seconds": 17.06
+   },
+   {
+    "turn": 3,
+    "user": "By night I'm exhausted from swinging between moods. How do I get some steadiness?",
+    "assistant": "It sounds incredibly draining to be constantly swinging between moods. You're not alone in feeling this way – even Krishna acknowledges that our emotions can be like the changing seasons.  He also teaches us about finding steadiness through practices like mindfulness and acceptance. \n\nHere are a few things that might help you find more emotional balance:\n\n1. **Mindful breathing:**  Take a few moments each day to focus on your breath. This can help calm your nervous system and bring you back to the present moment.\n2. **Journaling:**  Write down your thoughts and feelings to process them and gain clarity.\n3. **Regular sleep schedule:**  Aim for consistent sleep and wake times to regulate your body's natural rhythms.",
+    "retrieved_story_ids": [
+     "mahabharat:720",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/565",
+     "mahabharat:710"
+    ],
+    "retrieval_scores": [
+     0.3737,
+     0.3388,
+     0.3102
+    ],
+    "seconds": 17.53
+   }
+  ]
+ },
+ {
+  "construct": "Emotional Regulation",
+  "qid": 26,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:00:09.110870+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "My emotions fluctuate drastically-one moment I'm happy, then overwhelmed. Why?",
+    "assistant": "It sounds like you're experiencing some intense shifts in your emotions, and that can be really tough to navigate. It's completely valid to feel overwhelmed by these fluctuations.  \n\nHave you noticed any patterns or triggers that seem to precede these shifts?  \n\nHere are a few things that might help:\n\n* **Journaling:**  Writing down your feelings and any thoughts that come up could help you identify patterns.\n* **Mindfulness:**  Taking a few minutes each day to focus on your breath and be present in the moment can help ground you.\n* **Talking to someone:**  Sharing your experiences with a trusted friend, family member, or therapist can provide support and perspective.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 13.45
+   },
+   {
+    "turn": 2,
+    "user": "Small things, like a friend not replying, can ruin my whole day.",
+    "assistant": "That makes sense. It sounds like these small things can feel really big and impactful when you're already feeling sensitive. It's okay to feel disappointed when a friend doesn't respond right away, but try to remember that they might be busy or have their own things going on. \n\nWould you like to brainstorm some ways to cope when you feel that disappointment creeping in?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 7.71
+   },
+   {
+    "turn": 3,
+    "user": "By night I'm exhausted from swinging between moods. How do I get some steadiness?",
+    "assistant": "It's understandable that you're exhausted from the emotional rollercoaster.  It sounds like you're really craving some stability and calm. \n\nHave you tried incorporating any relaxation techniques into your evenings?  Things like a warm bath, reading, or gentle stretching can help wind down your mind and body. \n\nIt might also be helpful to establish a consistent bedtime routine to signal to your body that it's time to rest.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.62
+   }
+  ]
+ },
+ {
+  "construct": "Relationship Challenges (Family)",
+  "qid": 18,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:01:27.730941+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "My parents and I clash over my career choices-constant tension at home.",
+    "assistant": "It sounds like you're feeling a lot of tension at home because of your career choices. It's understandable to feel that way, especially when there's a difference in opinions between you and your parents.  \n\nLike Dasaratha in the Ramayanam, your parents might be worried about your well-being and unsure if you're prepared for the challenges ahead.  \n\nHere are a few things that might help:\n\n1. **Try to have a calm conversation with your parents about their concerns.** Listen to their perspective and share your own thoughts and feelings openly. \n2. **Focus on your dedication and hard work.** Show them that you're taking your career seriously and are committed to making it work.\n3. **Seek advice from a trusted mentor or counselor.** They can offer an objective perspective and help you navigate this difficult situation.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/balakanda/12",
+     "gita:gita_verse_files/292",
+     "gita:gita_chapter3_verse_files/427"
+    ],
+    "retrieval_scores": [
+     0.2257,
+     0.2242,
+     0.224
+    ],
+    "seconds": 21.74
+   },
+   {
+    "turn": 2,
+    "user": "They want me to do an MBA, but I want to go into design. Every dinner turns into an argument.",
+    "assistant": "It's tough when your passions clash with your family's expectations, especially when it feels like every meal turns into a battleground.  \n\nRemember, like Karna in the Mahabharata, you have the right to choose your own path, even if it means going against the grain. Your parents might be coming from a place of love and wanting the best for you, but ultimately, your happiness and fulfillment matter most.\n\nHere are a few things you could try:\n\n1. **Acknowledge their concerns:** Let them know you understand their worries about an MBA, but also express your genuine passion for design. \n2. **Present a plan:**  Show them you've thought this through. Share your design goals, potential career paths, and how you plan to succeed.\n3. **Suggest a compromise:** Perhaps you could explore design-related programs that also offer business skills, or agree to take some business courses alongside your design studies. \n\n\n\nRemember, open communication and understanding are key.",
+    "retrieved_story_ids": [
+     "gita:gita_verse_files/292",
+     "mahabharat:691",
+     "ramayanam:Dataset_ramayanam/balakanda/12"
+    ],
+    "retrieval_scores": [
+     0.277,
+     0.253,
+     0.2462
+    ],
+    "seconds": 26.57
+   },
+   {
+    "turn": 3,
+    "user": "I don't want to hurt them, but I also don't want to live their dream. How do I talk to them?",
+    "assistant": "It's admirable that you want to be respectful of your parents' feelings while staying true to yourself.  It's a delicate balance, like Rama trying to appease both Bharata and Kaikeyi. \n\nHere are a few tips for navigating this conversation:\n\n1. **Choose the right time and place:** Find a calm moment when everyone is relaxed and receptive to a conversation. Avoid bringing it up during stressful times or family gatherings.\n2. **Start with appreciation:** Express your gratitude for their love and support, and acknowledge that you understand their desire for you to succeed.\n3. **Be honest and direct:** Explain your passion for design and why it's important to you. Use \"I\" statements to express your feelings and avoid blaming them for their expectations.\n4. **Listen actively:** Give them space to share their concerns and try to understand their perspective.  \n\nRemember, it might take time for them to come around. Be patient, persistent, and continue to communicate openly and honestly.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/200",
+     "ramayanam:Dataset_ramayanam/ayodhyakanda/70",
+     "gita:gita_verse_files/292"
+    ],
+    "retrieval_scores": [
+     0.1914,
+     0.1906,
+     0.1881
+    ],
+    "seconds": 29.94
+   }
+  ]
+ },
+ {
+  "construct": "Relationship Challenges (Family)",
+  "qid": 18,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:01:58.162510+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "My parents and I clash over my career choices-constant tension at home.",
+    "assistant": "It sounds really tough to be dealing with constant tension at home because of your career choices. It's understandable that you'd feel stressed and maybe even a little isolated.  \n\nHave you tried talking to your parents about how their words make you feel? Sometimes just expressing your feelings can help.  \n\nAnother thing that might be helpful is finding a supportive friend or mentor outside of your family who you can talk to about your career goals.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 10.68
+   },
+   {
+    "turn": 2,
+    "user": "They want me to do an MBA, but I want to go into design. Every dinner turns into an argument.",
+    "assistant": "It's frustrating when your family's expectations don't align with your passions. It's okay to want something different, even if it's not what they envisioned for you.  \n\nMaybe you could try having a conversation with your parents about your design aspirations, focusing on your excitement for it and your plan to make it work.  \n\nAlso, consider finding a design mentor or joining a design community to connect with others who understand your path.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 9.2
+   },
+   {
+    "turn": 3,
+    "user": "I don't want to hurt them, but I also don't want to live their dream. How do I talk to them?",
+    "assistant": "It's admirable that you want to be respectful of their feelings while staying true to yourself.  \n\nPerhaps start by acknowledging their love and support, saying something like, \"Mom and Dad, I know you want the best for me, and I appreciate that you're so invested in my future.\" Then, gently express your own desires and vision, focusing on your passion for design and your plan to make it a successful career. \n\nRemember, open and honest communication is key, even when it's difficult.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 10.55
+   }
+  ]
+ },
+ {
+  "construct": "Ego",
+  "qid": 20,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:02:57.667639+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I can't stand being corrected; it feels like a blow to my identity.",
+    "assistant": "It sounds like being corrected really impacts you deeply.  Karna in the Mahabharata faced a similar struggle when Krishna offered him a kingdom and power. He chose loyalty to Duryodhana, even though it meant facing his own destruction.  \n\nIt's okay to feel hurt when corrected, but remember that it doesn't have to define you.  \n\nHere are a few things that might help:\n\n1. **Practice self-compassion:** Treat yourself with the same kindness you would offer a friend in a similar situation.\n2. **Focus on learning:** See corrections as opportunities to grow and improve.\n3. **Communicate your feelings:** Let the person know how their words make you feel in a calm and respectful way.",
+    "retrieved_story_ids": [
+     "mahabharat:712",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/603",
+     "mahabharat:691"
+    ],
+    "retrieval_scores": [
+     0.1927,
+     0.1594,
+     0.139
+    ],
+    "seconds": 17.35
+   },
+   {
+    "turn": 2,
+    "user": "My team lead pointed out a bug in my code during a review and I got defensive.",
+    "assistant": "It's completely understandable to feel defensive when your work is critiqued, especially in a public setting like a code review.  Remember, Krishna in the Bhagavad Gita emphasizes staying true to your own nature and duty (Svadharma).  \n\nIt sounds like you're passionate about your work, which is great!  \n\nHere are a few things that might help next time:\n\n1. **Take a deep breath:** Before reacting, give yourself a moment to process the feedback.\n2. **Listen actively:** Try to understand the specific issue your team lead is pointing out.\n3. **Ask clarifying questions:** If something is unclear, don't hesitate to ask for more information.",
+    "retrieved_story_ids": [
+     "gita:gita_verse_files/298",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/603",
+     "mahabharat:712"
+    ],
+    "retrieval_scores": [
+     0.2045,
+     0.1981,
+     0.1921
+    ],
+    "seconds": 16.67
+   },
+   {
+    "turn": 3,
+    "user": "Later I realised he was right, but I still felt humiliated. Why does this bother me so much?",
+    "assistant": "It's common to feel humiliated when we realize we've made a mistake, especially in a professional setting.  It can feel like a blow to our ego and sense of competence.  \n\nDuryodhana in the Mahabharata often reacted with anxiety and defensiveness when things didn't go his way.  He tried to overcompensate and project an image of strength, even when he was deeply insecure.  \n\nPerhaps you're feeling a similar sense of vulnerability.  It's important to remember that everyone makes mistakes, and it's how we learn and grow.  \n\nHere are a few things that might help:\n\n1. **Acknowledge your feelings:** It's okay to feel embarrassed or humiliated. Don't try to suppress these emotions.\n2. **Focus on the learning opportunity:**  What can you learn from this experience? How can you prevent similar mistakes in the future?\n3. **Practice self-compassion:** Be kind to yourself. Everyone makes mistakes.",
+    "retrieved_story_ids": [
+     "mahabharat:712",
+     "gita:gita_verse_files/298",
+     "gita:gita_verse_files/302"
+    ],
+    "retrieval_scores": [
+     0.2325,
+     0.2302,
+     0.2165
+    ],
+    "seconds": 25.09
+   }
+  ]
+ },
+ {
+  "construct": "Ego",
+  "qid": 20,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:03:27.615649+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I can't stand being corrected; it feels like a blow to my identity.",
+    "assistant": "It sounds really frustrating to feel like your identity is being challenged when you're corrected. It's completely understandable to feel that way.  \n\nIt might be helpful to try reframing corrections as opportunities to learn and grow.  \n\nHere are a few things you could try:\n\n* **Take a deep breath** before reacting. This can help you process the correction calmly.\n* **Ask for clarification** instead of getting defensive.  Understanding why someone corrected you might help.\n* **Remember that everyone makes mistakes.**  \n\n\nHow are you feeling about these suggestions?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 11.3
+   },
+   {
+    "turn": 2,
+    "user": "My team lead pointed out a bug in my code during a review and I got defensive.",
+    "assistant": "It's really common to feel defensive when someone points out a mistake, especially at work. It can feel like a personal attack.  \n\nIt sounds like you're already reflecting on what happened, which is a great first step.  \n\nWould you like to brainstorm some ways to handle similar situations in the future?  We could talk about how to respond calmly and focus on learning from the feedback.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 7.93
+   },
+   {
+    "turn": 3,
+    "user": "Later I realised he was right, but I still felt humiliated. Why does this bother me so much?",
+    "assistant": "It's okay to feel humiliated, even if you know the correction was valid.  It's a natural human reaction to feel embarrassed when we make mistakes, especially in front of others. \n\nIt sounds like you're trying to understand yourself better, which is really brave.  Sometimes, these feelings can stem from a fear of not being good enough or a need for external validation.  \n\nWould you like to explore those feelings a bit more?  Or maybe talk about some ways to cope with the feeling of humiliation in the future?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 10.72
+   }
+  ]
+ },
+ {
+  "construct": "Self-Esteem",
+  "qid": 5,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:04:28.511509+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I've been rejected from five interviews in a row. I feel like a failure and can't get back up.",
+    "assistant": "It sounds like you're going through a really tough time.  Being rejected from interviews can be incredibly disheartening, and it's understandable to feel like a failure.  Lakshmana reminds us that despair can make it hard to move forward, but that active engagement can help us regain our strength.  \n\nHere are a few things that might help:\n\n1. **Talk to someone you trust about how you're feeling.**  Sharing your experience can help you process it and feel less alone.\n2. **Focus on what you can control.**  You can't control the outcome of interviews, but you can control how you prepare for them.  \n3. **Celebrate small victories.**  Even small steps forward can boost your confidence and motivation. \n\n\nRemember, you're not alone in this. Keep going, and don't be afraid to ask for support.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/aranyakanda/281",
+     "ramayanam:Dataset_ramayanam/aranyakanda/285",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/580"
+    ],
+    "retrieval_scores": [
+     0.2099,
+     0.1845,
+     0.1841
+    ],
+    "seconds": 24.37
+   },
+   {
+    "turn": 2,
+    "user": "Each time they say the same thing: good skills, but not the right fit.",
+    "assistant": "That's really frustrating to hear repeatedly. It sounds like you're putting in the effort and have the skills, but something isn't clicking.  It's easy to feel discouraged when you're getting that same feedback.  \n\nHave you considered trying to get more specific feedback?  Maybe asking the interviewers what they mean by \"not the right fit\"?  Sometimes, even a vague answer can give you a clue about what to focus on next.  \n\nRemember, even though it feels like a setback, each interview is a learning experience.  You're getting closer to finding the right fit.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/aranyakanda/281",
+     "ramayanam:Dataset_ramayanam/aranyakanda/285",
+     "mahabharat:718"
+    ],
+    "retrieval_scores": [
+     0.1772,
+     0.1655,
+     0.1609
+    ],
+    "seconds": 17.06
+   },
+   {
+    "turn": 3,
+    "user": "My friends are getting placed and I'm starting to believe I'm just not good enough.",
+    "assistant": "It's completely understandable to feel that way when you see your friends succeeding while you're still searching.  It's easy to compare ourselves to others, but remember that everyone's journey is different.  \n\nYour worth isn't defined by your job status. You have value and talents, even if they haven't landed you a position yet.  Focus on your own progress and celebrate your accomplishments, no matter how small.  \n\nIt's also important to remember that your friends' successes don't diminish yours.  Be happy for them, and know that your time will come.  Keep putting yourself out there, and don't let comparison steal your joy.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/aranyakanda/281",
+     "ramayanam:Dataset_ramayanam/aranyakanda/285",
+     "mahabharat:719"
+    ],
+    "retrieval_scores": [
+     0.2102,
+     0.1815,
+     0.1602
+    ],
+    "seconds": 19.06
+   }
+  ]
+ },
+ {
+  "construct": "Self-Esteem",
+  "qid": 5,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:05:00.283152+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I've been rejected from five interviews in a row. I feel like a failure and can't get back up.",
+    "assistant": "That sounds incredibly tough. It's completely understandable to feel discouraged after facing so many rejections.  It's important to remember that job searching is a process, and setbacks are a normal part of it.  \n\nTry to be kind to yourself during this time.  \n\nHere are a few things that might help: \n\n1. **Take a break:** Step away from job applications for a day or two to recharge. \n2. **Reach out to someone you trust:** Talking to a friend or family member about how you're feeling can be really helpful. \n3. **Focus on your strengths:** Remind yourself of your skills and accomplishments.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 13.9
+   },
+   {
+    "turn": 2,
+    "user": "Each time they say the same thing: good skills, but not the right fit.",
+    "assistant": "It's frustrating to hear that repeatedly, even if it's meant to be kind. It makes you wonder what \"the right fit\" even means!  \n\nMaybe it's time to take a closer look at your resume and cover letter. Are you tailoring them to each specific job?  \n\nAlso, consider reaching out to one of the interviewers and politely asking for more specific feedback.  They might be able to give you some valuable insights.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 9.29
+   },
+   {
+    "turn": 3,
+    "user": "My friends are getting placed and I'm starting to believe I'm just not good enough.",
+    "assistant": "It's natural to compare yourself to others, especially when you're going through a tough time. But remember, everyone's journey is different. Your friends' successes don't diminish your own worth or potential. \n\nTry to focus on your own progress and celebrate your small wins.  \n\nRemember, you're not alone in this. Keep putting yourself out there, and don't give up on your goals.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.58
+   }
+  ]
+ },
+ {
+  "construct": "Work-Life Balance",
+  "qid": 22,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:05:36.702638+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "All I do is code and study; I feel alone and drained.",
+    "assistant": "It sounds like you're feeling really isolated, like Rama when he saw the playful animals and felt his pain amplified.  It's completely understandable to feel drained when all you do is code and study.  \n\nMaybe try incorporating some activities that bring you joy, even if it's just for a short while each day.  Connecting with others, even virtually, can also help.  And remember, it's okay to take breaks and prioritize self-care.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/539",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/563",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/559"
+    ],
+    "retrieval_scores": [
+     0.2267,
+     0.2076,
+     0.2064
+    ],
+    "seconds": 10.04
+   },
+   {
+    "turn": 2,
+    "user": "I work on assignments till 2 am and skip meals. I haven't met my friends in weeks.",
+    "assistant": "It sounds like you're pushing yourself really hard and neglecting your basic needs.  That's not sustainable, and it's no wonder you're feeling drained.  \n\nRama felt isolated even surrounded by joy, and you're feeling alone despite being busy.  Maybe try setting boundaries with your work, like a \"no work after 10 pm\" rule.  Even small steps, like scheduling a quick call with a friend, can make a difference.  Remember, taking care of yourself is essential.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/539",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/559",
+     "mahabharat:723"
+    ],
+    "retrieval_scores": [
+     0.263,
+     0.2505,
+     0.2312
+    ],
+    "seconds": 11.85
+   },
+   {
+    "turn": 3,
+    "user": "I feel guilty if I take a break, like I'm wasting time. How do I find balance?",
+    "assistant": "It's common to feel guilty about taking breaks, especially when you're driven to succeed. But remember, Krishna emphasizes balance – Yuktahara-Vihara.  Just like a chariot needs rest to keep moving, you need breaks to recharge and perform at your best. \n\nThink of breaks as investments in your well-being and productivity.  Start small – maybe 5 minutes every hour to stretch or listen to music.  Gradually increase the time as you feel more comfortable.  You deserve to feel fulfilled, not just productive.",
+    "retrieved_story_ids": [
+     "mahabharat:735",
+     "gita:gita_chapter2_verse_files/373",
+     "gita:gita_chapter3_verse_files/423"
+    ],
+    "retrieval_scores": [
+     0.2725,
+     0.2676,
+     0.2593
+    ],
+    "seconds": 14.13
+   }
+  ]
+ },
+ {
+  "construct": "Work-Life Balance",
+  "qid": 22,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:06:12.017153+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "All I do is code and study; I feel alone and drained.",
+    "assistant": "It sounds like you're feeling really isolated and overwhelmed. It's understandable to feel that way when you're putting so much energy into coding and studying.  \n\nIt's important to remember that you're not alone in feeling this way.  \n\nHere are a few things that might help:\n\n* **Connect with other people who understand:**  Look for online or in-person communities of programmers or students. \n* **Take breaks and do things you enjoy:** Even small breaks can make a big difference. \n* **Practice self-care:** Make sure you're eating well, getting enough sleep, and exercising. \n\n\nHow are you feeling about trying one of these things?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 14.47
+   },
+   {
+    "turn": 2,
+    "user": "I work on assignments till 2 am and skip meals. I haven't met my friends in weeks.",
+    "assistant": "It sounds like you're really pushing yourself hard, and that's taking a toll on your well-being.  It's important to listen to your body and mind.  Skipping meals and sleep can make it harder to focus and feel good. \n\nCould you try setting a bedtime for yourself and making a plan to eat regular meals? Even a small change like that could make a big difference.  \n\nHow does that sound?",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.87
+   },
+   {
+    "turn": 3,
+    "user": "I feel guilty if I take a break, like I'm wasting time. How do I find balance?",
+    "assistant": "It's common to feel guilty about taking breaks, especially when you have a lot on your plate. But remember, taking breaks isn't wasting time; it's actually essential for productivity and well-being. \n\nThink of it like this:  a phone needs to recharge to work properly.  You're the same way!  \n\nTry setting a timer for 5-10 minutes every hour to step away from your work.  Use that time to stretch, walk around, or do something enjoyable.  You'll come back feeling refreshed and more focused.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 11.97
+   }
+  ]
+ },
+ {
+  "construct": "Loneliness",
+  "qid": 29,
+  "condition": "RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:07:06.274338+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I feel lonely even in a crowd. No one understands me.",
+    "assistant": "It sounds like you're feeling really isolated and misunderstood, like the joy around you is making your loneliness even more painful.  It's completely valid to feel that way, especially when you see others connected and happy.  Rama felt the same way when he saw the peacocks and birds with their mates.  \n\nHere are a few things that might help:\n\n* **Reach out to someone you trust:** Even if it feels hard, talking to a friend or family member about how you're feeling could make a difference. \n* **Find a supportive community:**  Look for groups or online forums where people share similar experiences. \n* **Practice self-care:**  Engage in activities that bring you joy and help you feel grounded, like spending time in nature or listening to music. \n\n\nRemember, you're not alone in feeling this way.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/539",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/559",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/523"
+    ],
+    "retrieval_scores": [
+     0.3361,
+     0.3009,
+     0.2399
+    ],
+    "seconds": 18.72
+   },
+   {
+    "turn": 2,
+    "user": "I live in a hostel with hundreds of students, but I eat alone most days.",
+    "assistant": "It's tough to feel lonely even when you're surrounded by so many people. It sounds like you're trying to navigate a tricky situation.  Rama felt that same emptiness even though he was surrounded by people.  \n\nMaybe try these things:\n\n* **Start small:** Instead of aiming for a big group, try sitting with one other person at mealtimes.  \n* **Join a club or activity:**  This could be a great way to meet people who share your interests.\n* **Be open to conversation:**  Even a simple \"hello\" can be a start.  \n\n\nRemember, building connections takes time. Be patient with yourself and keep putting yourself out there.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/539",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/559",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/563"
+    ],
+    "retrieval_scores": [
+     0.3395,
+     0.2812,
+     0.2648
+    ],
+    "seconds": 15.24
+   },
+   {
+    "turn": 3,
+    "user": "I try joining conversations, but I feel like an outsider. Maybe something is wrong with me.",
+    "assistant": "It's really common to feel like an outsider when you're trying to join conversations, especially if you're new to a group.  Don't assume there's something wrong with you – it's more likely that you're just finding your place.  \n\nRama felt that way too, even though he was a prince.  \n\nHere are a few things that might help:\n\n* **Focus on listening:**  Pay attention to what others are saying and ask thoughtful questions. This shows you're interested and engaged.\n* **Find common ground:**  Look for shared interests or experiences to connect with people over.\n* **Be patient:**  Building genuine connections takes time. Don't get discouraged if it doesn't happen overnight. \n\n\n\nRemember, you have something unique to offer. Keep trying, and don't be afraid to be yourself.",
+    "retrieved_story_ids": [
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/539",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/559",
+     "ramayanam:Dataset_ramayanam/kishkindhakanda/563"
+    ],
+    "retrieval_scores": [
+     0.2853,
+     0.2695,
+     0.2159
+    ],
+    "seconds": 20.0
+   }
+  ]
+ },
+ {
+  "construct": "Loneliness",
+  "qid": 29,
+  "condition": "No-RAG",
+  "model": "Gemma-2-9B",
+  "model_tag": "gemma2:9b",
+  "generated_at_utc": "2026-09-27T20:07:32.148384+00:00",
+  "turns": [
+   {
+    "turn": 1,
+    "user": "I feel lonely even in a crowd. No one understands me.",
+    "assistant": "That sounds really isolating. It's tough feeling like you're surrounded by people but still feeling alone.  It's okay to feel that way, and your feelings are valid.  \n\nMaybe try joining a club or group related to something you're passionate about?  It could be a good way to meet people who share your interests.  Also, remember that even small interactions, like smiling at someone or saying hello, can help you feel more connected.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 9.26
+   },
+   {
+    "turn": 2,
+    "user": "I live in a hostel with hundreds of students, but I eat alone most days.",
+    "assistant": "It's understandable that you might feel lonely even in a place with so many people. Eating alone can definitely make it feel more isolating.  \n\nHave you thought about trying to connect with some of the other students in the hostel? Maybe strike up a conversation at the dining hall or see if anyone wants to grab a meal together sometime.  Even just sharing a table with someone new could make a difference.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.07
+   },
+   {
+    "turn": 3,
+    "user": "I try joining conversations, but I feel like an outsider. Maybe something is wrong with me.",
+    "assistant": "It's really common to feel like an outsider sometimes, especially when trying to join new conversations. Don't be so hard on yourself - it takes courage to put yourself out there! \n\nInstead of focusing on feeling like an outsider, try focusing on finding common ground with people.  Maybe ask about their classes or hobbies.  Remember, everyone feels a little awkward sometimes, so you're not alone in this.",
+    "retrieved_story_ids": [],
+    "retrieval_scores": [],
+    "seconds": 8.54
+   }
+  ]
+ }
+]
